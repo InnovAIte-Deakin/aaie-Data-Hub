@@ -1,10 +1,10 @@
-# AAIE Unified Dataset for AI-Influenced Essay Writing
+# AAIE Unified Dataset for AI-Influenced Assignment Submissions
 
-This repository is part of the **Artificial Assessment Intelligence for Educators (AAIE)** capstone project at Deakin University. The goal is to build a high-quality unified dataset that simulates how students use Large Language Models (LLMs) like ChatGPT to complete academic essay tasks.
+This repository is part of the **Artificial Assessment Intelligence for Educators (AAIE)** capstone project at Deakin University. The goal is to build a high-quality unified dataset that simulates how students use Large Language Models (LLMs) like ChatGPT to complete academic assignments.
 
 ---
 
-## Project Overview
+## Dataset Overview
 
 Each dataset entry includes:
 - An assignment prompt and detailed rubric
@@ -88,11 +88,12 @@ Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on 
 
 ---
 
-## Supported Domains
+## Supported Domains (As of T2 2025)
 
+Essay based asssignments are available for the following domains:
 - Information Technology
 - Engineering
-- Nursing
+- Psychology
 - Accounting
 - Teaching
 
