@@ -87,6 +87,7 @@ git push origin your-branch-name
 
 4. Add a short title and description, then click **Create Pull Request**.
 
+Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on how to do peer reviews.
 ---
 
 You're done!  
