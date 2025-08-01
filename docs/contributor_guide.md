@@ -89,4 +89,10 @@ git push origin your-branch-name
 
 ---
 
+### 7. Wait for Reviews
+
+Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on how to do peer reviews.
+
+---
+
 Thank you for your contribution! Your work helps build a high-quality educational dataset for research and AI development.

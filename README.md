@@ -84,6 +84,7 @@ All contributors are responsible for:
    - Clean and complete metadata
 
 Refer to [`docs/contributor_guide.md`](./docs/contributor_guide.md) for guidelines on how to contribute.
+
 Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on how to do peer reviews.
 
 ---
