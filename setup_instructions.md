@@ -87,13 +87,25 @@ git push origin your-branch-name
 
 4. Add a short title and description, then click **Create Pull Request**.
 
+---
 
-Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on how to do peer reviews.
+## 8. Request Reviews and Follow Up
 
+Once your PR is created:
+
+1. **Post the PR link** in the Teams channel and tag the people who agreed to review your work.
+2. **Assign the reviewers** to the corresponding task card in MS Planner.
+3. If your PR is not reviewed within **2 days**, follow up with a reminder.
+4. If someone cannot review after being assigned, **find a replacement reviewer** to keep things moving.
+5. For full approval, you need:
+   - 2 peer reviewers
+   - 1 senior lead reviewer
+   - Final review and merge by Mentor
+
+Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for reviewer steps.
 
 ---
 
 You're done!  
-Now wait for 2 peer reviews, a senior lead review and lastly a mentor review before it can be merged into the development repo.
 
 **NOTE**: If you need to make changes after submitting your PR, just commit and push to the same branch. The PR will automatically update. But if you want to work on a different task, create a **NEW** branch from `development` and repeat the process.

@@ -122,7 +122,7 @@ All generated content is synthetic. No real student data is used. Rubrics are cu
 
 ## License
 
-For research and academic use only. Do not use for commercial purposes without explicit permission from the AAIE project team.
+To be confirmed.
 
 ---
 
