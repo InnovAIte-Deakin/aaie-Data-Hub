@@ -10,7 +10,8 @@ This research focuses on two publicly available and academically endorsed datase
 
 ### Dataset 1: RE3  
 - **Name:** Revision Extraction and Evaluation for Research Papers (RE3)  
-- **Source:** UKP Lab GitHub Repository  
+- **Source:** UKP Lab GitHub Repository
+- **URL:** https://github.com/UKPLab/re3
 - **License:** CC BY-NC-SA 4.0  
 - **Permission:** Please note that this dataset is a candidate for future consideration only. It can be used with the approval from the project PO and leadership after a full review.
 
@@ -31,7 +32,8 @@ RE3 is a curated corpus comprising revision histories of academic research paper
 
 ### Dataset 2: Iterator  
 - **Name:** Iterator – Iterative Revision Dataset for Argumentative Writing  
-- **Source:** Vipul Raheja GitHub Repository  
+- **Source:** Vipul Raheja GitHub Repository
+- **URL:** https://github.com/vipulraheja/iterater
 - **License:** CC BY-NC 4.0  
 - **Permission:** Granted via direct communication with dataset authors (see screenshots in Appendix)
 
