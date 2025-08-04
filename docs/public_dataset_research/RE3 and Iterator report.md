@@ -35,7 +35,7 @@ RE3 is a curated corpus comprising revision histories of academic research paper
 - **Source:** Vipul Raheja GitHub Repository
 - **URL:** https://github.com/vipulraheja/iterater
 - **License:** CC BY-NC 4.0  
-- **Permission:** Granted via direct communication with dataset authors (see screenshots in Appendix)
+- **Permission:** Please note that this dataset is a candidate for future consideration only. It can be used with the approval from the project PO and leadership after a full review.
 
 #### Description  
 Iterator is a large-scale dataset developed to model student revision behavior on argumentative essays. It contains over 21,000 pairs of drafts and their revisions, sourced from student submissions to Cambridge English’s Write & Improve platform. Each entry includes the original draft, revised version, system-generated feedback, and in some cases, human tutor feedback. The dataset captures a diverse range of linguistic improvements, from surface-level grammar fixes to deeper argumentative restructuring.
