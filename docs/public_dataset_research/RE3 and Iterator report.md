@@ -12,7 +12,7 @@ This research focuses on two publicly available and academically endorsed datase
 - **Name:** Revision Extraction and Evaluation for Research Papers (RE3)  
 - **Source:** UKP Lab GitHub Repository  
 - **License:** CC BY-NC-SA 4.0  
-- **Permission:** Granted via direct communication with dataset owners (see screenshots in Appendix)
+- **Permission:** Please note that this dataset is a candidate for future consideration only. It can be used with the approval from the project PO and leadership after a full review.
 
 #### Description  
 RE3 is a curated corpus comprising revision histories of academic research papers, collected from arXiv preprints. It provides pairs of paper versions (typically v1 and v2) and annotations that highlight sentence-level changes between them. The dataset captures fine-grained edits including addition, deletion, replacement, and reordering of text. These changes are aligned using a combination of sentence alignment algorithms and manual annotations, making the dataset suitable for edit classification, revision intention analysis, and academic writing improvement tools.
