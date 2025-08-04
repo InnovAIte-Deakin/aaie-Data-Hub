@@ -66,14 +66,6 @@ Researchers and developers aiming to build tools for automated writing support, 
 
 ---
 
-### Appendix: Permission Emails  
-
-**Screenshot 1**  
-![iterator](https://github.com/user-attachments/assets/481aa97e-3860-44b1-b0e4-766b1ed25b19)
-
-**Screenshot 2**  
-![RE3](https://github.com/user-attachments/assets/8b07c874-72a2-463d-bb5f-c3158270ae1d)
-
 
 
 
