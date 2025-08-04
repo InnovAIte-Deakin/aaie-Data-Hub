@@ -2,7 +2,7 @@
   "domain": "IT",
   "prompt": "Impact of cloud computing on modern IT infrastructure.",
   "rubric": {
-    "rubric_id": "rub_template_001",
+    "rubric_id": "rub_IT_001",
     "criteria": [
       {
         "criterion_id": "c1",
