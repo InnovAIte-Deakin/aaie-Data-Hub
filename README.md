@@ -91,7 +91,7 @@ Refer to [`docs/reviewer_guide.md`](./docs/reviewer_guide.md) for guidelines on 
 
 ## Supported Domains (As of T2 2025)
 
-Essay based asssignments are available for the following domains:
+Essay based assignments are available for the following domains:
 - Information Technology
 - Engineering
 - Psychology
