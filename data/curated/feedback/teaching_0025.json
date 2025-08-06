@@ -2,7 +2,7 @@
   "domain": "Teaching",
   "prompt": "Examine current research on early literacy development and evaluate evidence-based approaches for supporting pre-reading skills in diverse learners aged 3 to 6 years.",
   "rubric": {
-    "rubric_id": "rub_teaching_025",
+    "rubric_id": "rub_teaching_0025",
     "criteria": [
       {
         "criterion_id": "c1",
