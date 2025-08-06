@@ -1,5 +1,6 @@
 # AAIE Dataset Research: `revision_chain.json`
 # \[DEPRECATED\] CURRENT DOCUMENTATION CAN BE FOUND IN [`docs/schema_guides`](../../docs/schema_guides/) FOLDER
+
 ## Objective
 
 To build a high-quality, ethics-safe `revision_chain.json` dataset that simulates realistic and diverse revision sequences. These will be used to **train and evaluate LLMs** capable of understanding **collaborative writing** and **possible AI misuse**.
@@ -31,6 +32,10 @@ We aim to convert at least **300–500 real revision chains** into our target fo
 ---
 
 ## Each `revision_chain` Entry Will Follow This Structure:
+
+The schema can be found in [`deprecated/old_json/revision_chain_schema.json`](../old_json/revision_chain_schema.json) (for reference only).
+
+The sample json file can be found in [`deprecated/old_json/sample_revision_chain.json`](../old_json/sample_revision_chain.json).
 
 ```json
 {

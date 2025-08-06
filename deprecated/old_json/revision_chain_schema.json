@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "required": ["chain_id", "prompt", "revisions"],
+  "properties": {
+    "chain_id": { "type": "string" },
+    "prompt": { "type": "string" },
+    "rubric_id": { "type": "string" },
+    "revisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["step", "author", "text", "timestamp"],
+        "properties": {
+          "step": { "type": "integer" },
+          "author": { "type": "string", "enum": ["human", "ai"] },
+          "text": { "type": "string" },
+          "comment": { "type": ["string", "null"] },
+          "timestamp": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}
