@@ -9,11 +9,11 @@
         "name": "Understanding of Active Learning Principles",
         "description": "Demonstrates comprehensive knowledge of active learning methodologies and their theoretical foundations.",
         "performance_descriptors": {
-          "excellent": "Clearly explains biases with depth and appropriate terminology.",
-          "good": "Explains biases adequately with minor gaps.",
+          "excellent": "Clearly explains active learning principles with depth and appropriate terminology.",
+          "good": "Explains active learning principles adequately with minor gaps.",
           "average": "Basic explanation with some inaccuracies.",
           "needs_improvement": "Limited or unclear understanding.",
-          "poor": "Fails to explain biases."
+          "poor": "Fails to explain active learning principles."
         }
       },
       {
@@ -81,3 +81,4 @@
     }
   ]
 }
+
