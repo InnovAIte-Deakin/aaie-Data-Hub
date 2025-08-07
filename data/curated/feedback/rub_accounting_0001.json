@@ -2,7 +2,7 @@
   "domain": "Accounting",
   "prompt": "Analyze the impact of blockchain technology on traditional accounting practices, including auditing and financial reporting.",
   "rubric": {
-    "rubric_id": "rub_acc_0001",
+    "rubric_id": "rub_accounting_0001",
     "criteria": [
         {
           "criterion_id": "c1",
