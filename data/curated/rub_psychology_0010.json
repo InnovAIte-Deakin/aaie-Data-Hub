@@ -1,0 +1,118 @@
+{
+  "domain": "Psychology",
+  "prompt": "In 400-600 words, explain how stereotypes influence how people perceive and judge others. Discuss the psychological processes involved (e.g., schema theory, implicit bias, confirmation bias) and provide real-world or hypothetical examples. Your writing should be structured as a formal academic essay with clear arguments and APA-style referencing.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0010",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Introduction & Thesis",
+        "description": "Effectiveness of the introduction and clarity of thesis statement.",
+        "performance_descriptors": {
+          "excellent": "Captivating introduction clearly sets the topic and includes a focused, insightful thesis that previews key points.",
+          "good": "Clear introduction with a relevant thesis that previews the essays structure.",
+          "average": "Introduction and thesis are present but lack clarity or specificity.",
+          "needs_improvement": "Introduction is vague and thesis is underdeveloped or hard to identify.",
+          "poor": "Introduction is missing or off-topic; thesis is absent."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Use of Psychological Theory",
+        "description": "Application and understanding of relevant psychological concepts.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates mastery of psychological concepts (e.g., schema, stereotype formation, implicit cognition) with accurate and nuanced explanation.",
+          "good": "Accurately uses theories with mostly clear explanation; one or two small gaps or simplifications.",
+          "average": "Uses appropriate concepts but with limited explanation or partial misunderstandings.",
+          "needs_improvement": "Mentions theory but shows limited understanding or contains factual errors.",
+          "poor": "Misunderstands or omits psychological theories entirely."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Application & Examples",
+        "description": "Use of real-world or hypothetical examples to illustrate concepts.",
+        "performance_descriptors": {
+          "excellent": "Provides rich, relevant real-world or hypothetical examples that clearly illustrate the psychological concepts.",
+          "good": "Good examples used with generally effective connections to the topic.",
+          "average": "Examples are somewhat relevant but lack depth or clarity in linking to theory.",
+          "needs_improvement": "Vague or underdeveloped examples; weak connection to psychological ideas.",
+          "poor": "No examples provided, or examples are irrelevant or incorrect."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Development of Argument",
+        "description": "Clarity, structure, and critical thinking in the argument.",
+        "performance_descriptors": {
+          "excellent": "Ideas are fully developed, well-reasoned, and demonstrate critical thinking and synthesis.",
+          "good": "Points are logical and clear, with mostly solid development of argument.",
+          "average": "Argument is understandable but may be shallow or loosely structured.",
+          "needs_improvement": "Argument is weakly developed, repetitive, or missing logical links.",
+          "poor": "No clear argument; content is confusing, unfocused, or incoherent."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Conclusion",
+        "description": "Effectiveness of the closing paragraph in reinforcing ideas.",
+        "performance_descriptors": {
+          "excellent": "Strong conclusion that reinforces the thesis and leaves a lasting impression; fully wraps up essay.",
+          "good": "Conclusion restates the thesis clearly and provides closure.",
+          "average": "Conclusion is present but somewhat vague or mechanical.",
+          "needs_improvement": "Conclusion is rushed or doesn't reinforce main points effectively.",
+          "poor": "No meaningful conclusion is provided."
+        }
+      },
+      {
+        "criterion_id": "c6",
+        "name": "Language, Structure & Style",
+        "description": "Grammar, tone, transitions, and clarity of writing.",
+        "performance_descriptors": {
+          "excellent": "Academic language is fluent and sophisticated; grammar, transitions, and paragraphing are nearly flawless.",
+          "good": "Mostly formal tone and clear writing; few minor errors in grammar or structure.",
+          "average": "Language is readable but inconsistently academic; some grammar or flow issues.",
+          "needs_improvement": "Writing lacks clarity or formality; multiple grammar or cohesion issues.",
+          "poor": "Writing is unclear, informal, and riddled with errors that hinder understanding."
+        }
+      },
+      {
+        "criterion_id": "c7",
+        "name": "APA Referencing",
+        "description": "Accuracy of APA-style citation and source usage.",
+        "performance_descriptors": {
+          "excellent": "APA guidelines followed precisely with all sources properly cited and referenced.",
+          "good": "Minor APA errors; all required sources are cited.",
+          "average": "Some issues with APA formatting or missing a citation.",
+          "needs_improvement": "Several APA formatting issues; some sources not cited.",
+          "poor": "No citations provided or APA format not attempted."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define stereotypes as cognitive schemas used to simplify social information.",
+        "Explain how schema theory supports stereotype activation and perception filtering.",
+        "Discuss implicit bias and how automatic associations can guide judgement unconsciously.",
+        "Explain confirmation bias as a mechanism that sustains existing stereotypes.",
+        "Provide real-world examples, such as racial profiling or workplace bias.",
+        "Use theories and research evidence to explain how stereotypes influence behaviour and perception.",
+        "Organize the essay with a clear thesis, logical argument structure, and academic language.",
+        "Cite all sources in APA style throughout the essay."
+      ],
+      "llm_questions": [
+        "What is schema theory and how does it relate to stereotypes?",
+        "What is the difference between implicit bias and explicit bias?",
+        "How does confirmation bias reinforce stereotypes in everyday thinking?",
+        "Can you give real-world examples of how stereotypes influence judgment?",
+        "What psychological research supports the impact of stereotypes on perception?",
+        "How do I structure a formal academic essay in psychology?",
+        "Can you help write an introduction and thesis for this topic?",
+        "What are some credible sources I can cite about implicit bias and social cognition?"
+      ]
+    }
+  ]
+}

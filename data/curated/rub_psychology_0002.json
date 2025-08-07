@@ -1,0 +1,81 @@
+{
+  "domain": "Psychology",
+  "prompt": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) is widely used in psychological diagnosis and clinical practice.\n\nIn this assignment, you must:\n- Explain the purpose and structure of the DSM-5.\n- Select one disorder from the DSM-5 and describe its diagnostic criteria, symptomology, and classification.\n- Evaluate the strengths and limitations of using the DSM-5 for diagnosing mental disorders, including cultural and ethical considerations.\n\nSupport your analysis with academic sources and real or hypothetical examples.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of DSM-5 Framework",
+        "description": "Explains the structure, purpose, and practical use of the DSM-5 in clinical psychology.",
+        "performance_descriptors": {
+          "excellent": "Provides a detailed and accurate overview of the DSM-5, including its organization, diagnostic criteria system, and utility.",
+          "good": "Explains the DSM-5 clearly with minor omissions or simplifications.",
+          "average": "Describes the DSM-5 but lacks clarity or depth in some areas.",
+          "needs_improvement": "Basic or partially incorrect understanding of the DSM-5.",
+          "poor": "Minimal or no understanding of the DSM-5 is demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Selected Disorder",
+        "description": "Accurately outlines and analyzes one mental disorder from DSM-5.",
+        "performance_descriptors": {
+          "excellent": "Provides a comprehensive, textbook-accurate description of diagnostic criteria, symptoms, and classification.",
+          "good": "Mostly accurate description with one or two minor errors or missing details.",
+          "average": "Some important diagnostic information is included but lacks completeness or accuracy.",
+          "needs_improvement": "Inaccurate or vague disorder description with little diagnostic detail.",
+          "poor": "Fails to describe the disorder meaningfully."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation of the DSM-5 Approach",
+        "description": "Assesses the strengths and weaknesses of DSM-5, including ethical and cultural factors.",
+        "performance_descriptors": {
+          "excellent": "Engages in nuanced critique of DSM-5, referencing cultural bias, ethical concerns, and alternative models.",
+          "good": "Addresses both pros and cons, though with less depth or fewer references.",
+          "average": "Attempts evaluation but lacks strong evidence or scope.",
+          "needs_improvement": "Limited or one-sided evaluation with little insight.",
+          "poor": "No meaningful evaluation presented."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Writing and APA Referencing",
+        "description": "Maintains academic tone, proper structure, and citation style.",
+        "performance_descriptors": {
+          "excellent": "Clear, formal tone with logical structure and flawless APA referencing.",
+          "good": "Mostly academic tone; minor errors in writing or citation.",
+          "average": "Readable but inconsistently formal or slightly unstructured.",
+          "needs_improvement": "Informal tone or confusing structure; referencing needs work.",
+          "poor": "Disorganized or poorly written; no citation present."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain the structure of the DSM-5, including the sections, codes, and symptom criteria.",
+        "Clarify the purpose of DSM-5 in clinical, research, and insurance settings.",
+        "Select a DSM-5 disorder (e.g., Major Depressive Disorder) and describe its symptoms, classification, and diagnostic thresholds.",
+        "Use APA-style citations to reference academic literature and the DSM-5 manual itself.",
+        "Critically evaluate limitations of DSM-5 such as cultural insensitivity, pathologizing normal behavior, or comorbidity issues.",
+        "Discuss ethical issues (e.g., misdiagnosis, stigma) and cultural concerns (e.g., Western-centric models).",
+        "Provide hypothetical or real-life case examples to illustrate diagnosis and limitations."
+      ],
+      "llm_questions": [
+        "What is the structure and organization of the DSM-5?",
+        "What is the purpose of the DSM-5 in clinical psychology and how is it used by professionals?",
+        "Can you summarize the diagnostic criteria for Major Depressive Disorder according to DSM-5?",
+        "What are examples of cultural limitations or criticisms of DSM-5 diagnoses?",
+        "How does the DSM-5 handle comorbid conditions or overlapping symptoms?",
+        "What ethical considerations should be taken into account when diagnosing with DSM-5?",
+        "Are there any major alternatives to the DSM-5 (e.g., ICD-11), and how do they differ?",
+        "What does APA-style referencing look like when citing the DSM-5 or psychology journal articles?"
+      ]
+    }
+  ]
+}

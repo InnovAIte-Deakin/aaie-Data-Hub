@@ -1,0 +1,80 @@
+{
+  "domain": "Psychology",
+  "prompt": "Explore the psychological and physiological effects of chronic stress. Discuss the role of the hypothalamic-pituitary-adrenal (HPA) axis, the impact on immune functioning, and how prolonged stress contributes to mental and physical health conditions. Provide examples and cite supporting research.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0005",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Stress Mechanisms",
+        "description": "Explains biological and psychological mechanisms involved in the stress response.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains the HPA axis, cortisol release, and links to both psychological and physiological outcomes.",
+          "good": "Good understanding with minor gaps in detail or terminology.",
+          "average": "Covers key concepts but lacks specificity or precision.",
+          "needs_improvement": "Partial or unclear understanding of stress mechanisms.",
+          "poor": "Fails to describe how stress works biologically or psychologically."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Health Outcomes",
+        "description": "Describes effects of chronic stress on mental and physical health.",
+        "performance_descriptors": {
+          "excellent": "Connects stress to disorders (e.g., depression, cardiovascular disease) using relevant examples and mechanisms.",
+          "good": "Makes appropriate health links with some detail.",
+          "average": "Basic connections between stress and health; may be general.",
+          "needs_improvement": "Vague or unsupported claims about stress effects.",
+          "poor": "No meaningful connection to health outcomes."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Psychological and Biological Evidence",
+        "description": "Refers to studies and theories supporting claims.",
+        "performance_descriptors": {
+          "excellent": "Supports points with well-integrated studies (e.g., Selye, Sapolsky, Cohen) and theory (e.g., General Adaptation Syndrome).",
+          "good": "Refers to relevant evidence but may not fully explain significance.",
+          "average": "Evidence present but underdeveloped or disconnected.",
+          "needs_improvement": "Minimal or unclear reference to research.",
+          "poor": "No use of evidence."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Style and Clarity",
+        "description": "Presents content in a formal academic style with clear structure and referencing.",
+        "performance_descriptors": {
+          "excellent": "Fluent, formal tone with logical flow and accurate APA citations.",
+          "good": "Mostly clear and formal, with minor writing issues.",
+          "average": "Some inconsistencies in tone or structure.",
+          "needs_improvement": "Unclear writing or inconsistent citation.",
+          "poor": "Poor organization or lack of academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define chronic stress and distinguish it from acute stress.",
+        "Explain the function of the HPA axis and how it regulates the stress response.",
+        "Describe how prolonged cortisol exposure weakens immune system functioning.",
+        "Link chronic stress to conditions like depression, cardiovascular disease, and gastrointestinal problems.",
+        "Reference theories and studies like General Adaptation Syndrome (Selye), Sapolsky work on stress, and Cohen cold virus experiment.",
+        "Maintain formal academic tone and cite sources using APA style."
+      ],
+      "llm_questions": [
+        "What is the difference between acute and chronic stress?",
+        "How does the HPA axis function in response to chronic stress?",
+        "What are the long-term effects of cortisol on the immune system?",
+        "Can you explain how stress contributes to diseases like depression or heart disease?",
+        "What psychological theories explain the body stress response?",
+        "Which studies have shown links between stress and physical illness?",
+        "Can you help me structure an essay on the physiological effects of stress?",
+        "How do I reference Sapolsky or Selye work in APA format?"
+      ]
+    }
+  ]
+}

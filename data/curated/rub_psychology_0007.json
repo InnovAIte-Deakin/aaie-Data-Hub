@@ -1,0 +1,79 @@
+{
+  "domain": "Psychology",
+  "prompt": "Short answer: What is the difference between trait and state anxiety? Provide examples and explain how each is measured in psychological research.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0007",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Definition and Differentiation",
+        "description": "Defines and distinguishes between trait and state anxiety.",
+        "performance_descriptors": {
+          "excellent": "Clearly and accurately defines both terms and explains the difference with relevant examples.",
+          "good": "Defines both concepts with minor issues or slightly unclear distinction.",
+          "average": "Provides definitions but lacks clarity or precise differentiation.",
+          "needs_improvement": "Inaccurate or unclear definitions with little distinction.",
+          "poor": "Fails to define or differentiate the terms."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application and Examples",
+        "description": "Uses examples to illustrate trait vs. state anxiety.",
+        "performance_descriptors": {
+          "excellent": "Provides clear, relevant examples for both types of anxiety.",
+          "good": "Examples are appropriate but not fully developed.",
+          "average": "Includes examples but they may be vague or repetitive.",
+          "needs_improvement": "Examples are unclear or only loosely connected.",
+          "poor": "No relevant examples provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Measurement in Research",
+        "description": "Explains how trait and state anxiety are assessed in psychology.",
+        "performance_descriptors": {
+          "excellent": "Describes appropriate measurement tools (e.g., STAI) and their use in research settings.",
+          "good": "Mentions tools or methods with some accuracy.",
+          "average": "Refers to measurement but lacks detail or correctness.",
+          "needs_improvement": "Limited or confused understanding of how anxiety is measured.",
+          "poor": "No discussion of measurement."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Clarity and Conciseness",
+        "description": "Presents ideas clearly and concisely using formal academic style.",
+        "performance_descriptors": {
+          "excellent": "Answer is focused, well-structured, and maintains academic tone within word limit.",
+          "good": "Mostly clear and academic with slight issues in tone or structure.",
+          "average": "Adequate clarity but may be wordy or loosely structured.",
+          "needs_improvement": "Unclear or informal writing with poor flow.",
+          "poor": "Disorganized or inappropriate tone for academic writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define trait anxiety as a stable personality characteristic.",
+        "Define state anxiety as a temporary emotional condition triggered by situational factors.",
+        "Provide examples: trait anxiety (always anxious in social situations), state anxiety (nervous before a test).",
+        "Mention the State-Trait Anxiety Inventory (STAI) as a validated tool used in psychological research.",
+        "Explain how trait and state anxiety are measured separately using different subscales.",
+        "Use concise, clear academic language in a short-answer format."
+      ],
+      "llm_questions": [
+        "What is the difference between trait and state anxiety?",
+        "Can you give examples that show how trait anxiety differs from state anxiety?",
+        "How do psychologists measure trait and state anxiety in experiments?",
+        "What is the STAI and how does it assess anxiety?",
+        "Why is it important to differentiate between trait and state anxiety in research?",
+        "Can you help me phrase a concise short-answer response to this question?",
+        "What is an example of a sentence that shows formal academic tone in psychology writing?"
+      ]
+    }
+  ]
+}

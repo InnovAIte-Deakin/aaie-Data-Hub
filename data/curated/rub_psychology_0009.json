@@ -1,0 +1,77 @@
+{
+  "domain": "Psychology",
+  "prompt": "Short answer: What is the fundamental attribution error? Describe a real-life situation where someone might commit this error, and briefly explain its significance in social psychology.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0009",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Definition of Fundamental Attribution Error",
+        "description": "Provides an accurate and concise explanation of the concept.",
+        "performance_descriptors": {
+          "excellent": "Clearly and correctly defines the fundamental attribution error using appropriate terminology.",
+          "good": "Correct definition but with minor issues in clarity or completeness.",
+          "average": "Basic or partially correct definition.",
+          "needs_improvement": "Unclear or inaccurate definition.",
+          "poor": "Fails to define the term."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-Life Example",
+        "description": "Illustrates the concept with a relevant situation.",
+        "performance_descriptors": {
+          "excellent": "Provides a clear, specific example that effectively demonstrates the attribution error.",
+          "good": "Relevant example with slight lack of clarity or connection.",
+          "average": "Example is present but vague or underdeveloped.",
+          "needs_improvement": "Example is unclear or not well connected to the concept.",
+          "poor": "No relevant example provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Significance in Social Psychology",
+        "description": "Explains why the concept is important to understanding social behavior.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains the implications of the error for social interactions and judgments.",
+          "good": "Addresses importance with reasonable insight.",
+          "average": "Touches on significance without elaboration.",
+          "needs_improvement": "Limited or unclear relevance.",
+          "poor": "No discussion of significance."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Clarity and Brevity",
+        "description": "Presents the response in a clear, concise, and formal style.",
+        "performance_descriptors": {
+          "excellent": "Answer is well-organized, concise, and maintains formal academic tone.",
+          "good": "Mostly clear and concise with minor style issues.",
+          "average": "Adequate clarity but may be wordy or informal.",
+          "needs_improvement": "Writing is unclear or informal.",
+          "poor": "Disorganized or lacks academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define the fundamental attribution error as the tendency to overemphasize dispositional factors and underestimate situational influences.",
+        "Provide a real-life example: e.g., assuming a colleague is lazy for missing a deadline without considering external factors.",
+        "Briefly explain the role of this bias in shaping how we judge others in everyday social interactions.",
+        "Highlight its significance in social psychology as a common cognitive bias affecting interpersonal understanding.",
+        "Use concise academic language suitable for a short-answer format."
+      ],
+      "llm_questions": [
+        "What is the fundamental attribution error and how is it defined in psychology?",
+        "Can you give a simple real-life example that illustrates this bias?",
+        "Why do people tend to make this kind of error when judging others?",
+        "How is this concept relevant to social psychology and interpersonal relationships?",
+        "What is a good way to phrase this in a short academic response?",
+        "What is the difference between dispositional and situational attribution?"
+      ]
+    }
+  ]
+}

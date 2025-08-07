@@ -1,0 +1,80 @@
+{
+  "domain": "Psychology",
+  "prompt": "Analyze the role of observational learning in shaping human behavior. Refer to Bandura Social Learning Theory and include discussion of concepts like modelling, vicarious reinforcement, and self-efficacy. Provide real-life examples and discuss implications for education or media.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0006",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Social Learning Theory",
+        "description": "Demonstrates knowledge of Banduras theory and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Accurately explains key components: modelling, vicarious reinforcement, attention, retention, reproduction, motivation, and self-efficacy.",
+          "good": "Explains theory with minor gaps in conceptual coverage.",
+          "average": "Covers basics of theory but omits important elements.",
+          "needs_improvement": "Limited or unclear understanding of Social Learning Theory.",
+          "poor": "Fails to explain the theory meaningfully."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-Life Contexts",
+        "description": "Applies observational learning to behavior in education, media, or social settings.",
+        "performance_descriptors": {
+          "excellent": "Uses strong, specific examples to illustrate how people learn through observation and reinforcement.",
+          "good": "Examples are clear but may lack detail or variety.",
+          "average": "Applies theory, but examples are vague or underexplained.",
+          "needs_improvement": "Superficial or generic examples provided.",
+          "poor": "No application to real-world behavior."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation and Implications",
+        "description": "Evaluates strengths and weaknesses of observational learning and its broader implications.",
+        "performance_descriptors": {
+          "excellent": "Thoughtfully evaluates theory and discusses implications for learning and media effects.",
+          "good": "Addresses both strengths and limitations with reasonable insight.",
+          "average": "Basic evaluation with limited depth.",
+          "needs_improvement": "Limited critique or one-sided argument.",
+          "poor": "No critical evaluation provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Style and Referencing",
+        "description": "Maintains academic tone and uses APA-style referencing.",
+        "performance_descriptors": {
+          "excellent": "Well-structured, formal writing with accurate APA citations throughout.",
+          "good": "Mostly formal and coherent with minor citation issues.",
+          "average": "Readable but inconsistent tone or referencing.",
+          "needs_improvement": "Writing lacks formality or has frequent citation errors.",
+          "poor": "Unstructured or poorly cited writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define observational learning and explain its stages: attention, retention, reproduction, motivation.",
+        "Discuss key concepts such as modelling, vicarious reinforcement, and self-efficacy.",
+        "Explain Banduras Bobo doll experiment and how it demonstrated learning through observation.",
+        "Apply Social Learning Theory to educational settings (e.g., classroom behavior, role models) and media influence (e.g., aggression, prosocial behavior).",
+        "Evaluate the strengths (e.g., real-world relevance) and limitations (e.g., underestimating biological factors) of the theory.",
+        "Use APA-style citations for Bandura and related research studies."
+      ],
+      "llm_questions": [
+        "What are the main components of Banduras Social Learning Theory?",
+        "Can you explain the concept of vicarious reinforcement with an example?",
+        "What is the Bobo doll experiment and what did it demonstrate?",
+        "How does self-efficacy influence whether someone imitates a model?",
+        "In what ways is observational learning used in classrooms or media environments?",
+        "What are some criticisms or limitations of Social Learning Theory?",
+        "How do I cite Banduras 1961 study in APA format?",
+        "Can you help me outline an essay analyzing observational learning?"
+      ]
+    }
+  ]
+}
