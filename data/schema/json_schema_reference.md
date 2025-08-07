@@ -10,7 +10,7 @@ Each JSON file must contain:
 
 | Key           | Type     | Description |
 |---------------|----------|-------------|
-| `domain`      | `string` | Academic domain (e.g., "Information Technology", "Psychology") |
+| `domain`      | `string` | Academic domain (e.g., "IT", "Psychology", "Engineering") |
 | `prompt`      | `string` | The essay or assignment question given to students |
 | `rubric`      | `object` | Rubric used to evaluate submissions (see below) |
 | `submissions` | `array`  | Five or more submissions representing different quality bands (Excellent → Poor) |
@@ -19,11 +19,11 @@ Each JSON file must contain:
 
 ## Rubric Structure
 
-### Required Fields
+### Required Format
 
 ```json
 "rubric": {
-  "rubric_id": "rub_001",
+  "rubric_id": "rub_domain_0001",
   "criteria": [ ... ]
 }
 ```
@@ -115,6 +115,19 @@ Each JSON must include at least **five submissions**, one per quality level:
 
 ---
 
+## Naming Convention
+
+- The `rubric_id` must follow the format: `rub_domain_####`  
+  Example: `"rub_psychology_0001"`
+- The **JSON file name must match the `rubric_id`**, e.g.:
+
+```
+rub_psychology_0001.json
+rub_it_0003.json
+```
+
+---
+
 ## Example File
 
 > A complete sample file is provided in `samples/sample_dataset1.json`.
@@ -125,7 +138,7 @@ Each JSON must include at least **five submissions**, one per quality level:
 
 - Use the provided `validation.py` script to catch issues before pushing.
 - Run `python scripts/validation/validation.py` before submitting a pull request.
-- Follow naming conventions: `rubric_id` should be unique (e.g., `"rub_psy_0001"`, `"rub_it_0003"`)
+- Follow naming conventions: `rubric_id` should be unique (e.g., `"rub_psychology_0001"`, `"rub_it_0003"`)
 
 ---
 
