@@ -1,0 +1,80 @@
+{
+  "domain": "Psychology",
+  "prompt": "Describe the key features of Piagets theory of cognitive development. Choose one stage and explain how it manifests in real-world behavior in children. Use examples and relate your discussion to educational or parenting practices.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0008",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Piagets Theory",
+        "description": "Demonstrates knowledge of the stages and concepts in Piagets model.",
+        "performance_descriptors": {
+          "excellent": "Accurately explains all major stages and core ideas such as schemas, assimilation, and accommodation.",
+          "good": "Explains key aspects with some minor omissions or simplifications.",
+          "average": "Covers the theory but lacks detail or clarity in some areas.",
+          "needs_improvement": "Limited or partially incorrect understanding of theory.",
+          "poor": "Fails to explain Piagets theory meaningfully."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Selected Stage",
+        "description": "Explores how one stage appears in childrens behavior using real-world examples.",
+        "performance_descriptors": {
+          "excellent": "Applies stage-specific characteristics (e.g., egocentrism, conservation) to practical examples with clear explanation.",
+          "good": "Examples are appropriate but less developed or specific.",
+          "average": "Examples are general or loosely connected to theory.",
+          "needs_improvement": "Vague or unclear real-life application.",
+          "poor": "No meaningful application to behavior."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Connection to Practice",
+        "description": "Relates theory to education or parenting strategies.",
+        "performance_descriptors": {
+          "excellent": "Clearly links developmental features to relevant practices (e.g., scaffolding, play-based learning).",
+          "good": "Connection is evident but less detailed.",
+          "average": "Basic connection made with limited elaboration.",
+          "needs_improvement": "Weak or generic mention of practice.",
+          "poor": "No connection to educational or parenting context."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Expression",
+        "description": "Presents information with clarity, organization, and proper APA referencing.",
+        "performance_descriptors": {
+          "excellent": "Highly readable, formal tone, well-structured and correctly referenced.",
+          "good": "Generally well-written with small issues.",
+          "average": "Adequate clarity and tone; minor referencing inconsistencies.",
+          "needs_improvement": "Writing lacks polish or citation accuracy.",
+          "poor": "Disorganized or informal with incorrect referencing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Outline Piagets four stages: sensorimotor, preoperational, concrete operational, formal operational.",
+        "Define core concepts such as assimilation, accommodation, and schemas.",
+        "Select one stage (e.g., preoperational) and explain key features like egocentrism and symbolic thinking.",
+        "Provide an example like a child using pretend play or failing a conservation task.",
+        "Explain how this understanding helps guide teaching strategies or parenting approaches (e.g., using concrete examples or play-based learning).",
+        "Use academic tone and APA-style referencing throughout."
+      ],
+      "llm_questions": [
+        "What are the four stages of Piagets theory of cognitive development?",
+        "Can you explain the difference between assimilation and accommodation?",
+        "What behaviors are typical of children in the preoperational stage?",
+        "How can teachers or parents support learning during this stage?",
+        "What are examples of conservation tasks used in Piagets research?",
+        "How does symbolic thinking appear in child behavior?",
+        "Can you help structure a short essay that applies Piagets theory to education?",
+        "How do I cite Piagets work in APA format?"
+      ]
+    }
+  ]
+}

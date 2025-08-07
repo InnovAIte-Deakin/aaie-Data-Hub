@@ -1,0 +1,81 @@
+{
+  "domain": "Psychology",
+  "prompt": "Evaluate how memory is reconstructed and how this affects the reliability of eyewitness testimony. Your response should refer to relevant cognitive theories and experimental studies (e.g., Loftus & Palmer). Consider implications for the legal system and include real or hypothetical examples.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0004",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Memory Reconstruction",
+        "description": "Demonstrates conceptual understanding of how memory is reconstructed and the cognitive processes involved.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains reconstructive memory using cognitive models and includes terminology like schema, misinformation effect, and retrieval cues.",
+          "good": "Demonstrates solid understanding, though one or two concepts may lack depth.",
+          "average": "Covers key ideas but lacks precision or completeness.",
+          "needs_improvement": "Limited explanation or use of incorrect terms.",
+          "poor": "Fails to explain memory reconstruction."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Integration of Research Evidence",
+        "description": "Refers to and explains relevant cognitive psychology studies and their findings.",
+        "performance_descriptors": {
+          "excellent": "Integrates at least two relevant studies (e.g., Loftus & Palmer) with detailed discussion of results and implications.",
+          "good": "Refers to relevant studies with some interpretation.",
+          "average": "Mentions studies without sufficient explanation or connection.",
+          "needs_improvement": "Minimal or unclear reference to studies.",
+          "poor": "No use of supporting studies."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Legal and Real-World Application",
+        "description": "Explores how reconstructive memory affects the accuracy of eyewitness testimony and the justice system.",
+        "performance_descriptors": {
+          "excellent": "Applies theory to real/hypothetical legal scenarios; discusses implications for court procedures or witness reliability.",
+          "good": "Makes appropriate links to legal context; examples may be basic.",
+          "average": "Some application present, but lacks clarity or insight.",
+          "needs_improvement": "Weak or vague reference to real-world implications.",
+          "poor": "No application beyond theory."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure, Tone, and Referencing",
+        "description": "Maintains academic clarity, organization, and APA citation.",
+        "performance_descriptors": {
+          "excellent": "Well-structured, clearly written, formal tone, accurate APA referencing.",
+          "good": "Generally organized with minor writing or citation issues.",
+          "average": "Some inconsistency in tone or referencing.",
+          "needs_improvement": "Unclear writing or referencing errors.",
+          "poor": "Disorganized or lacks referencing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define reconstructive memory and how it differs from simple recall.",
+        "Explain schema theory and how it influences memory reconstruction.",
+        "Discuss the misinformation effect and its impact on eyewitness accuracy.",
+        "Analyze findings from studies such as Loftus & Palmer car crash experiment.",
+        "Apply these findings to legal scenarios, like courtroom testimony or police interviews.",
+        "Discuss implications for legal reform (e.g., use of cognitive interviews, jury instructions).",
+        "Use academic tone, structured writing, and APA-style referencing."
+      ],
+      "llm_questions": [
+        "What is reconstructive memory and how does it affect the reliability of recall?",
+        "How do schemas influence what people remember or misremember?",
+        "Can you explain the Loftus and Palmer (1974) experiment on eyewitness testimony?",
+        "What is the misinformation effect and how does it work?",
+        "How can memory distortion influence the outcome of legal trials?",
+        "What are some methods used to reduce memory distortion in eyewitnesses?",
+        "Can you suggest a clear outline for an essay on memory and eyewitness reliability?",
+        "How do I cite psychological experiments in APA format?"
+      ]
+    }
+  ]
+}
