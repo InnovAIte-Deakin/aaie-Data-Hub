@@ -1,7 +1,3 @@
-Here’s the improved and professional `.md` (Markdown) version of your **Summary Report**, restructured for clarity and standard documentation format:
-
----
-
 #  Summary Report: GenAI Dataset Cleaning and Balancing Pipeline (Week 3)
 
 **Script Title:** Automated Data Cleaning and Balancing Pipeline for GenAI Submissions
