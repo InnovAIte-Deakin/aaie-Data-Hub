@@ -1,0 +1,246 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyse the role of attachment theory in early childhood education and how educators can create secure learning environments.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0017",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Attachment Theory",
+        "description": "Demonstrates conceptual understanding of attachment theory and its relevance to early childhood education.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates comprehensive understanding of attachment theory, accurately explains concepts (e.g., secure, avoidant, anxious attachment), and clearly links to developmental outcomes.",
+          "good": "Explains attachment theory with good accuracy and relates it to childhood development with some depth.",
+          "average": "Provides basic explanation of attachment theory; some concepts may be underdeveloped or not fully accurate.",
+          "needs_improvement": "Superficial or partial understanding of attachment theory; lacks clarity or completeness.",
+          "poor": "Incorrect, confused, or missing explanation of attachment theory."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Educational Practice",
+        "description": "Analyses how attachment theory informs educator practices in creating secure and supportive environments.",
+        "performance_descriptors": {
+          "excellent": "Thorough and insightful analysis of how attachment theory guides specific strategies and practices that foster security and emotional well-being in learning environments.",
+          "good": "Discusses several practical applications of attachment theory in classroom or care settings.",
+          "average": "Some practical links to educator practices are present but may be vague or generic.",
+          "needs_improvement": "Minimal or unclear application of theory to practice.",
+          "poor": "No evident application of theory to early childhood practice."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Academic Sources",
+        "description": "Supports arguments with relevant academic literature and professional sources.",
+        "performance_descriptors": {
+          "excellent": "Extensive and well-integrated use of high-quality academic and professional sources with proper referencing.",
+          "good": "Several relevant sources used; most references are appropriate and cited correctly.",
+          "average": "Some relevant sources included; minor citation or relevance issues.",
+          "needs_improvement": "Few sources used; relevance or credibility is limited; referencing is inconsistent.",
+          "poor": "No academic sources used or major referencing issues."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Thinking and Reflection",
+        "description": "Critically evaluates the theory and reflects on implications for educators and children.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates strong critical thinking; reflects on limitations of theory, diverse learner needs, and contextual factors with original insights.",
+          "good": "Shows some critical analysis and thoughtful reflection on implications for practice.",
+          "average": "Some reflection present; limited analysis of limitations or challenges.",
+          "needs_improvement": "Minimal reflection or critique; lacks depth.",
+          "poor": "No critical thinking or reflection evident."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents information in a structured, logical, and scholarly manner.",
+        "performance_descriptors": {
+          "excellent": "Essay is well-organised with clear introduction, body, and conclusion; language is academic, fluent, and error-free.",
+          "good": "Essay structure is clear; mostly academic tone with few minor grammar or expression issues.",
+          "average": "Basic structure present; occasional clarity or grammar issues; academic tone inconsistent.",
+          "needs_improvement": "Weak structure; frequent grammar or tone issues affect readability.",
+          "poor": "Poorly structured; non-academic tone; numerous grammar and spelling errors."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Clearly define and differentiate attachment styles (secure, avoidant, anxious) and relate each to learner behavior.",
+        "Explain developmental outcomes linked to attachment theory using evidence-based reasoning.",
+        "Analyse educator strategies such as consistent routines, responsive interactions, and emotional attunement.",
+        "Cite multiple scholarly sources with accurate referencing to support analysis.",
+        "Critically evaluate limitations of attachment theory in diverse learning contexts with original insights.",
+        "Present ideas in a structured, fluent, and academic tone with high clarity."
+      ],
+      "llm_questions": [
+        "What are the characteristics and behavioural outcomes of secure, avoidant, and anxious attachment styles in early childhood?",
+        "How does early caregiver responsiveness shape long-term socio-emotional development according to Bowlby and Ainsworth?",
+        "How can educators use attachment theory to design consistent routines and emotionally supportive interactions in early years settings?",
+        "What role does emotional attunement play in fostering secure attachment relationships in childcare and preschool environments?",
+        "What are the cultural and contextual limitations of applying attachment theory in diverse early childhood settings?",
+        "How might an overreliance on attachment theory risk overlooking neurodiverse learners or non-traditional family dynamics?",
+        "What are the most recent peer-reviewed studies that evaluate the effectiveness of attachment-informed practices in early childhood education?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Explain main ideas of attachment theory and link to early childhood development.",
+        "Describe several educator practices informed by attachment theory (e.g., emotional support, consistent care).",
+        "Use relevant academic sources and cite correctly, even if limited in scope.",
+        "Provide thoughtful reflection with emerging critique on theory application.",
+        "Maintain essay structure and mostly academic tone with minimal grammar issues."
+      ],
+      "llm_questions": [
+        "How does attachment theory explain the influence of early relationships on a child's emotional and behavioural regulation?",
+        "What is the difference between secure and insecure attachment in the early years?",
+        "What are some educator behaviours that support secure attachment development in the classroom?",
+        "How can key person approaches in childcare reflect principles of attachment theory?",
+        "What academic books or articles offer practical strategies for integrating attachment theory into early childhood curriculum?",
+        "How can reflective practice help teachers recognise and address attachment-related needs in students?",
+        "What are some practical challenges educators face when applying attachment theory in multicultural classrooms?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Describe attachment theory in general terms; may miss key styles or developmental links.",
+        "Mention some classroom practices but with limited theoretical explanation.",
+        "Include a few sources; referencing may lack consistency or depth.",
+        "Offer basic reflections with minimal critical analysis.",
+        "Structure and tone mostly appropriate but with occasional inconsistencies or errors."
+      ],
+      "llm_questions": [
+        "What is attachment theory, and who were its key developers?",
+        "What are some typical behaviours seen in young children with different attachment styles?",
+        "How might attachment theory be used to promote emotional security in group care settings?",
+        "What role does consistent caregiving play in supporting child development?",
+        "Why might attachment theory not apply equally to all children or families?",
+        "What are some common criticisms of using attachment theory in educational settings?",
+        "What academic sources explain attachment theory and its classroom relevance?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Provide vague or incomplete understanding of attachment theory concepts.",
+        "Apply theory to classroom practice in minimal or unclear ways.",
+        "Reference few or non-academic sources; citation issues likely present.",
+        "Reflections lack depth or relevance to educational implications.",
+        "Writing may lack clear structure; grammar and tone inconsistent or informal."
+      ],
+      "llm_questions": [
+        "What does attachment mean in the context of early childhood?",
+        "Why are early relationships considered important for a child's growth?",
+        "What does a secure learning environment look like in a childcare centre?",
+        "What is one way a teacher can support a child who is upset during separation from a parent?",
+        "Why might some educators struggle to connect theory with practice?",
+        "Can attachment theory always explain why a child behaves a certain way?",
+        "What teacher training materials mention attachment theory?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Demonstrate little or no understanding of attachment theory or its classifications.",
+        "Fail to apply theory meaningfully to teaching practices or child development.",
+        "Provide no credible sources; referencing absent or incorrect.",
+        "No critical thinking or reflection evident.",
+        "Disorganised and informal writing; pervasive grammar issues and lack of academic tone."
+      ],
+      "llm_questions": [
+        "What is the basic idea behind attachment?",
+        "Who was John Bowlby, and what did he study?",
+        "What is a safe classroom?",
+        "What makes a teacher “caring” from a child's point of view?",
+        "Why might some children feel unsafe in a classroom?",
+        "Why is it important to think about how children feel?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

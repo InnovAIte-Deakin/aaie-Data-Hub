@@ -1,0 +1,242 @@
+{
+  "domain": "Teaching",
+  "prompt": "Investigate the significance of outdoor education and nature-based learning in early childhood development, including benefits and implementation considerations.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0024",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Outdoor and Nature-Based Learning",
+        "description": "Demonstrates understanding of key concepts in outdoor education and nature-based learning relevant to early childhood.",
+        "performance_descriptors": {
+          "excellent": "Shows comprehensive understanding with accurate definitions, scope, and relevant theoretical foundations.",
+          "good": "Shows solid understanding with appropriate explanation of core concepts.",
+          "average": "Shows general understanding but may lack depth or precision.",
+          "needs_improvement": "Shows limited or partially incorrect understanding of key terms.",
+          "poor": "Shows minimal or incorrect understanding of key concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Developmental Benefits",
+        "description": "Evaluates the cognitive, emotional, social, and physical development benefits of nature-based learning in early childhood.",
+        "performance_descriptors": {
+          "excellent": "Insightful analysis of multiple developmental domains, with detailed examples and supporting evidence.",
+          "good": "Addresses key benefits across several developmental domains with supporting detail.",
+          "average": "Identifies some benefits with limited explanation or domain coverage.",
+          "needs_improvement": "Mentions some benefits without linking them to development clearly.",
+          "poor": "Fails to explain benefits or developmental relevance."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Implementation Considerations",
+        "description": "Discusses how outdoor education and nature-based learning can be implemented in early childhood settings, including challenges and practical solutions.",
+        "performance_descriptors": {
+          "excellent": "Critically evaluates practical implementation strategies with discussion of barriers, resources, policies, and educator roles.",
+          "good": "Provides a clear discussion of practical implementation and some challenges.",
+          "average": "Mentions basic strategies without deep discussion.",
+          "needs_improvement": "Limited or vague discussion of implementation.",
+          "poor": "No or irrelevant discussion of implementation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Research and Evidence Use",
+        "description": "Incorporates academic and professional sources to support claims.",
+        "performance_descriptors": {
+          "excellent": "Extensive use of relevant, high-quality academic and professional sources with correct citation.",
+          "good": "Includes well-chosen academic or professional sources with mostly correct citation.",
+          "average": "Includes some relevant sources but may lack variety or correct citation.",
+          "needs_improvement": "Few or poorly chosen sources; citation errors common.",
+          "poor": "No or inappropriate use of sources; missing citations."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents ideas clearly using academic structure, grammar, and tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent structure; flawless grammar; precise, formal tone throughout.",
+          "good": "Clear structure and mostly formal tone; few minor grammar issues.",
+          "average": "Structure and tone are generally appropriate; several grammar or clarity issues.",
+          "needs_improvement": "Unclear structure or inconsistent tone; frequent grammar issues.",
+          "poor": "Disorganised or informal; major grammar and clarity problems."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define outdoor education and nature-based learning with reference to Froebel, Montessori, and Forest School approaches.",
+        "Explain how nature-based learning supports cognitive, physical, social, and emotional development, citing examples.",
+        "Critically analyze implementation through curriculum frameworks (e.g., EYLF) and address barriers, policies, and educator roles.",
+        "Use research from peer-reviewed journals, policy documents, and professional frameworks with correct citation formatting.",
+        "Present a structured academic essay with precise tone, transitions, and fluent grammar."
+      ],
+      "llm_questions": [
+        "What are the theoretical foundations of outdoor education and nature-based learning according to Froebel, Montessori, and Forest School models?",
+        "How do key principles of nature pedagogy relate to early learning frameworks (e.g., EYLF)?",
+        "What are the specific cognitive, emotional, social, and physical benefits of nature-based learning in early childhood, supported by recent research?",
+        "How does sensory engagement in nature-based settings influence brain development and executive function?",
+        "What evidence from peer-reviewed journals and longitudinal studies supports the role of nature-based learning in holistic development?",
+        "How do national early childhood education policies and professional standards endorse nature-based learning?",
+        "What are the critical challenges and enablers for implementing outdoor education in regulated early childhood settings (e.g., staffing, safety, curriculum integration)?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Explain core concepts of nature-based learning and its pedagogical value in early years.",
+        "Discuss benefits across multiple developmental domains using some examples.",
+        "Describe practical implementation methods such as routines, safety protocols, and curriculum links.",
+        "Cite a mix of academic and professional sources with mostly correct referencing.",
+        "Use clear paragraph structure and mostly formal tone with minor grammar issues."
+      ],
+      "llm_questions": [
+        "What are the main features of outdoor education and nature-based learning in early childhood pedagogy?",
+        "How do early childhood philosophies (e.g., Reggio Emilia, Forest School) incorporate natural environments?",
+        "What are some cognitive and social benefits of outdoor learning supported by case studies or observational reports?",
+        "How does physical activity in nature influence motor development and emotional regulation in young children?",
+        "Which academic and professional sources (e.g., position statements, policy briefs) can be used to support the value of nature-based learning?",
+        "What are some commonly used routines or curriculum-linked strategies for implementing outdoor learning in early years education?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Briefly describe outdoor learning and list associated child activities.",
+        "Mention selected developmental gains such as gross motor skill growth or emotional regulation.",
+        "Touch on outdoor scheduling and basic facility needs without depth.",
+        "Include a couple of sources with limited citation accuracy or relevance.",
+        "Show some structure with lapses in tone or sentence clarity."
+      ],
+      "llm_questions": [
+        "What is the definition of outdoor education and how does it differ from general outdoor play?",
+        "What types of activities are typically included in nature-based learning experiences for children?",
+        "What are a few examples of how nature-based learning may support physical or emotional development in children?",
+        "What benefits have been observed in children who regularly participate in outdoor learning, even if not well-studied?",
+        "List sources often used to support claims in essays about outdoor learning.",
+        "What kinds of outdoor spaces (gardens, bush areas, sandpits) are suitable for basic nature-based learning activities?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Provide vague or incomplete definitions of outdoor learning.",
+        "Mention broad benefits (e.g., 'kids learn outside') without developmental specificity.",
+        "Reference generic practices without linking to curriculum or pedagogical approaches.",
+        "Attempt to include sources, but citations are poorly structured or unclear.",
+        "Essay has inconsistent tone and grammar, with loose or unclear structure."
+      ],
+      "llm_questions": [
+        "What does the term outdoor learning usually refer to in early childhood education?",
+        "Is there a difference between nature-based learning and playing outside during recess?",
+        "What are some positive outcomes children might experience when they spend time outside?",
+        "Why do some educators believe being in nature helps children behave better or feel calmer?",
+        "What are some common barriers to outdoor learning that educators mention informally (e.g., weather, time, risk)?",
+        "What evidence do people use to support outdoor teaching?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Confuse outdoor learning with unstructured play; definitions inaccurate or missing.",
+        "Make unclear or unsupported claims about benefits.",
+        "Fail to discuss implementation with any coherence or relevance.",
+        "Do not use credible or cited sources.",
+        "Essay is disorganized, informal, and lacking basic grammar control."
+      ],
+      "llm_questions": [
+        "What are the benefits of letting kids play outside of classrooms?",
+        "Is there proof outdoor learning works for kindergaten teachers?",
+        "Should teachers allow kids to play freely outside?",
+        "Do all childcare centres automatically have outdoor learning programs?",
+        "How can teachers make lessons for kids so that they can play outside more?",
+        "How can teachers ensure kids' safety when they go outside?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

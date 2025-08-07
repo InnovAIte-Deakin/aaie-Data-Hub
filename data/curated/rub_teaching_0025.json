@@ -1,0 +1,237 @@
+{
+  "domain": "Teaching",
+  "prompt": "Examine current research on early literacy development and evaluate evidence-based approaches for supporting pre-reading skills in diverse learners aged 3 to 6 years.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0025",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Early Literacy Development",
+        "description": "Demonstrates knowledge of foundational early literacy skills (e.g., phonological awareness, vocabulary, print knowledge) and developmental milestones for ages 3 to 6 years.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates deep understanding of multiple early literacy components and clearly explains developmental progression with relevant examples.",
+          "good": "Demonstrates clear understanding of key early literacy components and typical development.",
+          "average": "Demonstrates basic understanding; coverage of developmental aspects is general.",
+          "needs_improvement": "Superficial or unclear explanation of literacy components or development.",
+          "poor": "Fails to demonstrate understanding of early literacy development."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation of Evidence-Based Approaches",
+        "description": "Critically evaluates instructional methods and interventions shown to support pre-reading skills (e.g., dialogic reading, phonemic games, shared book reading).",
+        "performance_descriptors": {
+          "excellent": "Provides insightful evaluation of multiple evidence-based strategies with critical commentary and research support.",
+          "good": "Explains and supports at least one or two approaches with credible evidence.",
+          "average": "Describes common strategies with limited analysis or research links.",
+          "needs_improvement": "Mentions strategies with minimal connection to evidence.",
+          "poor": "Fails to evaluate or explain instructional approaches."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Consideration of Diversity and Inclusion",
+        "description": "Addresses how approaches can be adapted for learners with diverse linguistic, cultural, and developmental needs.",
+        "performance_descriptors": {
+          "excellent": "Thoughtfully discusses diverse learner needs with examples and inclusive practices drawn from research.",
+          "good": "Identifies key considerations for diverse learners with some application.",
+          "average": "Mentions diversity but without detailed application.",
+          "needs_improvement": "Minimal attention to learner diversity.",
+          "poor": "Fails to consider diversity or inclusion."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Research Integration and Referencing",
+        "description": "Uses and integrates relevant, credible academic sources effectively and references them appropriately.",
+        "performance_descriptors": {
+          "excellent": "Integrates extensive peer-reviewed sources with accurate citation and strong alignment with arguments.",
+          "good": "Uses several appropriate sources with correct citation.",
+          "average": "Uses some academic sources but with limited integration or citation errors.",
+          "needs_improvement": "Relies on few or weak sources; citation is inconsistent.",
+          "poor": "Sources are absent or unreliable; no referencing."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Essay is logically structured with clear introduction, body, and conclusion; academic style is maintained with correct grammar and syntax.",
+        "performance_descriptors": {
+          "excellent": "Highly structured and coherent essay with academic tone, precise language, and no grammatical errors.",
+          "good": "Well-structured and mostly formal; few minor grammatical or expression issues.",
+          "average": "Basic structure is present; academic tone inconsistently used.",
+          "needs_improvement": "Poor flow or informal writing; many language issues.",
+          "poor": "Disorganised, informal, and difficult to follow."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain phonological awareness, vocabulary development, and print knowledge with developmental milestones from ages 3 to 6.",
+        "Critically evaluate strategies such as dialogic reading and phonemic games using peer-reviewed evidence.",
+        "Discuss inclusive adaptations for multilingual children and those with developmental delays, backed by research.",
+        "Integrate academic sources fluently and cite them accurately to support arguments.",
+        "Maintain formal tone and well-organized structure with strong transitions and no grammar errors."
+      ],
+      "llm_questions": [
+        "How do phonological awareness, vocabulary acquisition, and print knowledge typically develop from ages 3 to 6, and what are key developmental milestones?",  
+        "How effective are dialogic reading and phonemic games in promoting pre-reading skills in diverse learners, according to recent peer-reviewed studies?",  
+        "Which peer-reviewed journals and sources provide the most credible evidence on early literacy strategies and how should these be integrated into an academic essay?",  
+        "What are the neurological and cognitive processes underlying early literacy development in preschool children?",  
+        "What critical factors influence the success of shared book reading interventions for children aged 3 to 6?",  
+        "How can early literacy interventions be adapted inclusively for multilingual children and those with developmental delays, as supported by current research?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Define key early literacy components like phonological awareness and explain their typical development.",
+        "Describe and justify the use of strategies such as dialogic reading and shared book reading using relevant evidence.",
+        "Identify inclusive considerations for diverse learners with at least one example or application.",
+        "Use several appropriate academic sources with correct citation practices.",
+        "Present a mostly formal structure with introduction, body, and conclusion, and few expression errors."
+      ],
+      "llm_questions": [
+        "What are the main components of early literacy development, and what typical progression can be expected in children aged 3 to 6?",  
+        "What evidence supports the use of dialogic reading and shared book reading as effective pre-reading strategies?",  
+        "List well-known academic sources support early literacy",  
+        "How does vocabulary development contribute to early literacy skills in preschool-aged children?",  
+        "How can phonemic awareness activities be used in classroom settings to improve early literacy outcomes?",  
+        "What are key considerations when adapting literacy strategies to meet the needs of culturally and linguistically diverse learners?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention basic literacy concepts with general statements about early development.",
+        "Describe common instructional strategies for pre-readers without deep analysis or sources.",
+        "Recognize diversity factors briefly without linking to implementation or research.",
+        "Reference a few sources but inconsistently or with limited integration.",
+        "Ensure basic essay structure is present but with occasional lapses in academic tone."
+      ],
+      "llm_questions": [
+        "What are some general literacy skills young children develop between ages 3 and 6?",  
+        "What are common instructional strategies used to support early literacy, such as reading books and playing phonemic games?",  
+        "How do teachers typically implement pre-reading activities in early childhood education settings?",  
+        "What basic stages do children go through when learning to recognize print and sounds?",  
+        "List some sources that mention background information on early literacy development.",  
+        "How is diversity generally mentioned in relation to early literacy programs?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "List foundational literacy components but lack clarity on developmental progression.",
+        "Mention instructional activities such as reading or games but without credible support.",
+        "Make minimal reference to inclusion or adaptation for diverse learners.",
+        "Rely on generic or few sources with unclear citation practices.",
+        "Essay lacks clear flow or structure; informal tone and frequent grammar issues evident."
+      ],
+      "llm_questions": [
+        "What are some foundational early literacy components children might develop in preschool years?",
+        "Describe early literacy development.",
+        "Which reading or game activities are used to encourage early literacy?",
+        "Why is it important to consider learner diversity?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Fail to explain early literacy components or child development clearly.",
+        "No meaningful evaluation of strategies or methods to support pre-reading.",
+        "Does not address diversity or inclusion in literacy practice.",
+        "Sources are missing or unreliable; referencing is absent.",
+        "Writing is informal, unstructured, and difficult to follow with major grammar issues."
+      ],
+      "llm_questions": [
+        "How does a lack of understanding of phonological awareness and print knowledge impact literacy education?",
+        "What literacy skills should be taught to young children?",
+        "What are the implications of ignoring diversity and inclusion in literacy teaching?",
+        "How can kids enjoy books?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

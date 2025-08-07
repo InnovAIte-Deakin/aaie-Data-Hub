@@ -1,0 +1,243 @@
+{
+  "domain": "Teaching",
+  "prompt": "Examine how socioeconomic factors might impact early childhood development and propose strategies to support children from diverse economic backgrounds.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0019",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Socioeconomic Impact",
+        "description": "Explains how economic conditions influence development.",
+        "performance_descriptors": {
+          "excellent": "Explores both direct and systemic effects on development with supporting evidence.",
+          "good": "Describes key socioeconomic influences accurately.",
+          "average": "Mentions general effects with some support.",
+          "needs_improvement": "Superficial or vague explanation.",
+          "poor": "Fails to address the topic clearly."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Support Strategies for Equity",
+        "description": "Proposes realistic, inclusive strategies to support disadvantaged children.",
+        "performance_descriptors": {
+          "excellent": "Comprehensive, creative and research-informed strategies proposed.",
+          "good": "Appropriate and relevant strategies suggested.",
+          "average": "Some strategies proposed, with minimal depth.",
+          "needs_improvement": "Few or impractical strategies presented.",
+          "poor": "No strategies proposed."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Research Use",
+        "description": "Evidence from policy, academic or educational literature.",
+        "performance_descriptors": {
+          "excellent": "Robust and integrated evidence used.",
+          "good": "Reliable academic support present.",
+          "average": "Limited evidence or minor referencing issues.",
+          "needs_improvement": "Few and weak sources.",
+          "poor": "No research cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Discuss the effectiveness of proposed strategies",
+        "description": "Demonstrates the ability to critically evaluate different educational strategies.",
+        "performance_descriptors": {
+          "excellent": "Thourough analysis of the strenghts and weakness for each strategy with sound recommendations",
+          "good": "Comprehensively dicsuss the sternghts and weaknesses of each strategy",
+          "average": "Good summary of the sternghts and weaknesses of each strategy",
+          "needs_improvement": "Some generic mention of the strenghts and weakness for each strategy",
+          "poor": "Missing evaluation of the mentioned strategies"
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents information in a structured, logical manner suitable for applied educational contexts; writing is clear, coherent, and adheres to academic conventions.",
+        "performance_descriptors": {
+          "excellent": "Essay is logically structured with clear introduction, body, and conclusion; no grammar errors; tone is fully academic.",
+          "good": "Structure is mostly clear with minor grammatical issues; academic tone maintained.",
+          "average": "Structure present but transitions or tone may be inconsistent; some grammar issues.",
+          "needs_improvement": "Weak structure or informal tone; frequent grammar errors.",
+          "poor": "Disorganised structure and non-academic tone; numerous grammar and spelling issues."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Analyze both direct (e.g., nutrition, housing) and systemic (e.g., access to quality early education) effects of socioeconomic status on development.",
+        "Propose multiple research-backed, inclusive strategies that address educational and environmental disparities.",
+        "Integrate evidence from peer-reviewed research, policy reports, and educational frameworks seamlessly.",
+        "Critically evaluate strategies by discussing pros, cons, feasibility, and long-term impact across different economic contexts.",
+        "Use a structured academic format with polished transitions, formal tone, and error-free writing."
+      ],
+      "llm_questions": [
+        "How do systemic economic inequalities affect early childhood cognitive, emotional, and physical development?",
+        "In what ways do housing instability and food insecurity influence early learning outcomes?",
+        "What inclusive strategies can early educators implement to address disparities in access to quality early learning for low-income children?",
+        "How can educators and community programs collaborate to mitigate the effects of economic disadvantage in the early years?",
+        "What are the strengths and limitations of targeted early intervention programs (e.g., Head Start, HIPPY) in addressing economic disparities?",
+        "How effective are universal preschool models in supporting long-term developmental equity for children from low socioeconomic backgrounds?",
+        "What recent peer-reviewed studies or policy frameworks support evidence-based approaches to reducing early childhood inequality?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Identify core socioeconomic factors (e.g., income, parental education) affecting early childhood outcomes.",
+        "Recommend realistic and relevant interventions such as targeted preschool programs or community support.",
+        "Reference academic or policy sources with adequate citation accuracy.",
+        "Discuss general strengths and weaknesses of proposed strategies, showing insight into educational impact.",
+        "Maintain a mostly formal academic tone with clearly organized content and minor grammatical issues."
+      ],
+      "llm_questions": [
+        "What are the common socioeconomic factors (e.g., income, parental education, occupation) that shape early childhood experiences?",
+        "How does family income level influence access to healthcare and learning resources in early years?",
+        "What practical support systems (e.g., subsidised childcare, nutrition programs) are available to assist families from disadvantaged backgrounds?",
+        "How can early childhood centres adapt their practices to be more inclusive of children from diverse economic circumstances?",
+        "What are the general benefits and potential drawbacks of providing free early education in low-income communities?",
+        "In what ways can educators evaluate the success of classroom-based equity strategies?",
+        "Which national education policies currently address socioeconomic disparities in early childhood?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Acknowledge general socioeconomic challenges but with limited detail on their developmental implications.",
+        "Mention 1 to 2 support strategies without elaboration or linkage to evidence.",
+        "Use minimal research references or rely on general knowledge without citation.",
+        "Provide basic strengths/weaknesses analysis without deep evaluation.",
+        "Present some structure, but transitions or tone may be inconsistent and mildly informal."
+      ],
+      "llm_questions": [
+        "What is the general relationship between poverty and developmental delays in early childhood?",
+        "How might economic stress within a household affect a child's social or emotional development?",
+        "What are two common strategies used in early childhood settings to support economically disadvantaged children?",
+        "How can parent involvement programs help address economic-related learning barriers?",
+        "What are the perceived advantages of breakfast programs in early childhood centres?",
+        "What are some general weaknesses of one-size-fits-all strategies for supporting disadvantaged children?",
+        "What kinds of evidence can support early intervention claims?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Offer vague or superficial comments about how poverty or low income affects children.",
+        "Suggest few strategies with minimal context or relevance to diverse backgrounds.",
+        "Provide weak or anecdotal evidence without scholarly support.",
+        "Mention potential benefits but lack clarity or thorough evaluation.",
+        "Essay structure unclear; frequent grammar issues or inconsistent academic tone."
+      ],
+      "llm_questions": [
+        "What are some vague ways that being “poor” might impact a child in preschool?",
+        "Why might children in low-income families struggle in learning environments?",
+        "What's one basic idea a teacher might try to help kids from low-income families?",
+        "Are there community services that help families with young children, even if they're not in schools?",
+        "Why might giving out free materials sometimes help or not help disadvantaged students?",
+        "Can one strategy work for all children in different economic situations?",
+        "What are the current affairs of early childhood poverty?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Fail to demonstrate understanding of how economic conditions influence development.",
+        "Include no or irrelevant strategies for supporting children.",
+        "Cite no research or present unsupported claims.",
+        "Omit any evaluation of proposed ideas.",
+        "Writing is informal, fragmented, and lacks academic structure entirely."
+      ],
+      "llm_questions": [
+        "What is poverty and how does it relate to children?",
+        "What is one thing teachers can do when kids don't have money?",
+        "Why might giving toys to poor children help them?",
+        "Can schools fix poverty by giving free lunches?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}
