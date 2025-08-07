@@ -2,7 +2,7 @@
   "domain": "Manufacturing Engineering",
   "prompt": "Describe how a manufacturing engineer sets up a basic production line for a new consumer product. Explain the steps taken from design to assembly, including equipment layout, efficiency considerations, and safety.",
   "rubric": {
-    "rubric_id": "rub_MFG_001",
+    "rubric_id": "rub_engineering_0011",
     "criteria": [
       {
         "criterion_id": "c1",
