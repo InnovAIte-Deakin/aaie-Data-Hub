@@ -2,7 +2,7 @@
   "domain": "Teaching",
   "prompt": "Evaluate the challenges and opportunities of online education in higher education and analyze effective strategies for student engagement and instructional quality in virtual classrooms.",
   "rubric": {
-    "rubric_id": "rub_Teaching_0002",
+    "rubric_id": "rub_teaching_0002",
     "criteria": [
       {
         "criterion_id": "c1",
@@ -81,4 +81,5 @@
     }
   ]
 }
+
 
