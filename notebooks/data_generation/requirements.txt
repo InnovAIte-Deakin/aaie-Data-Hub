@@ -1,0 +1,10 @@
+openai
+google-generativeai
+openai
+google-generativeai
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.2.0
+numpy==1.26.3
+jupyter==1.0.0
+ipykernel==6.29.0
