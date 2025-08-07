@@ -1,0 +1,245 @@
+{
+  "domain": "Teaching",
+  "prompt": "Discuss how play-based learning supports the cognitive, social, and emotional development of children in early childhood settings.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0016",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Play-Based Learning",
+        "description": "Demonstrates conceptual understanding of play-based learning theories and principles relevant to early childhood education.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates deep understanding of play-based learning; clearly connects theories (e.g., Piaget, Vygotsky) with practice and child development outcomes.",
+          "good": "Explains play-based learning with some reference to theory and application in practice.",
+          "average": "Demonstrates general understanding with minimal theoretical or practical links.",
+          "needs_improvement": "Superficial or vague understanding of play-based learning; lacks clarity.",
+          "poor": "Incorrect or absent explanation of play-based learning."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Link to Child Development Domains",
+        "description": "Analyzes how play supports cognitive, social, and emotional development in young children.",
+        "performance_descriptors": {
+          "excellent": "Thorough analysis of all three domains with relevant examples and developmental insight.",
+          "good": "Addresses all domains with some supporting examples.",
+          "average": "Covers most domains with basic explanation or examples.",
+          "needs_improvement": "Touches on some domains with little depth or support.",
+          "poor": "Fails to address developmental domains clearly."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Academic Research",
+        "description": "Uses scholarly literature to support arguments about play and development. Presents information in a structured, logical manner suitable for applied educational contexts; Presents information in a structured, logical manner suitable for applied educational contexts; writing is clear, coherent, and adheres to academic conventions.",
+        "performance_descriptors": {
+          "excellent": "Extensive use of high-quality academic and professional sources, properly cited. Essay is logically structured with clear introduction, body, and conclusion; no grammar errors; tone is fully academic.",
+          "good": "Uses several relevant academic sources with correct referencing. Structure is mostly clear with minor grammatical issues; academic tone maintained.",
+          "average": "Includes some sources but inconsistently relevant or cited. Structure present but transitions or tone may be inconsistent; some grammar issues.",
+          "needs_improvement": "Few or poor-quality sources; referencing errors present. Weak structure or informal tone; frequent grammar errors.",
+          "poor": "No evidence of academic sourcing."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Reflection",
+        "description": "Offers critical insights and reflections on the implications of play-based learning in educational practice.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, reflective commentary connecting theory, practice, and personal perspective.",
+          "good": "Provides thoughtful reflection with some connection to practice.",
+          "average": "Some reflection offered; lacks critical depth.",
+          "needs_improvement": "Minimal reflection with little relevance to practice.",
+          "poor": "No critical reflection present."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents information in a structured, logical manner suitable for applied educational contexts; writing is clear, coherent, and adheres to academic conventions.",
+        "performance_descriptors": {
+          "excellent": "Essay is logically structured with clear introduction, body, and conclusion; no grammar errors; tone is fully academic.",
+          "good": "Structure is mostly clear with minor grammatical issues; academic tone maintained.",
+          "average": "Structure present but transitions or tone may be inconsistent; some grammar issues.",
+          "needs_improvement": "Weak structure or informal tone; frequent grammar errors.",
+          "poor": "Disorganised structure and non-academic tone; numerous grammar and spelling issues."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Clearly explain play-based learning concepts with reference to Piaget and Vygotsky.",
+        "Connect theories directly to developmental outcomes in early childhood practice.",
+        "Provide detailed analysis of cognitive, social, and emotional domains with examples.",
+        "Cite high-quality academic literature using formal referencing.",
+        "Offer reflective insights linking theory, practice, and personal interpretation.",
+        "Maintain logical structure and academic tone and error-free writing."
+      ],
+      "llm_questions": [
+        "What are the key principles of play-based learning, and how do theorists like Piaget and Vygotsky define the role of play in early childhood development?",
+        "How does play contribute specifically to cognitive, social, and emotional development in children aged 3 to 6, according to current research?",
+        "What examples from real-world early childhood settings illustrate how play-based learning supports different developmental domains?",
+        "What does recent scholarly literature (e.g., peer-reviewed journals) say about the outcomes of play-based learning, and how can I integrate these sources to support my argument?",
+        "How do cultural and contextual factors influence the implementation and effectiveness of play-based learning approaches?",
+        "In what ways can educators reflect on their own practice to improve the integration of play-based learning in diverse classrooms?",
+        "How can I critically evaluate tensions between structured curriculum goals and play-based pedagogies in real educational settings?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Define play-based learning and include basic theoretical support.",
+        "Describe how play contributes to development across all domains with limited elaboration.",
+        "Use several academic sources with proper citations.",
+        "Reflect thoughtfully on the role of play-based learning in practice with some nuance.",
+        "Present ideas in a mostly structured format with few language issues."
+      ],
+      "llm_questions": [
+        "What is play-based learning and which developmental theories support its use in early childhood education?",
+        "How does play influence a child's thinking, relationships with others, and ability to manage emotions?",
+        "Can I describe classroom activities that support multiple developmental areas through play?",
+        "What academic sources are considered credible when discussing play and child development?",
+        "How have researchers or educators described the benefits and limitations of play-based approaches?",
+        "How do my own observations or experiences support the benefits of play in early childhood settings?",
+        "What role does the teacher play in facilitating meaningful play experiences that support development?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Offer a general description of play-based learning without citing major theorists.",
+        "Mention two or three developmental benefits with brief explanations.",
+        "Reference a small number of sources, though some may lack relevance or clarity.",
+        "Attempt reflection but with limited depth or personal connection.",
+        "Structure the essay with identifiable sections; tone may shift inconsistently."
+      ],
+      "llm_questions": [
+        "What does play-based learning mean in an early childhood context?",
+        "What kinds of development (e.g., cognitive or emotional) are influenced by play in young children?",
+        "What is an example of a play-based activity and its developmental benefit?",
+        "What books or articles mention the benefits of learning through play? What are the benefits?",
+        "Why is play considered important in early years education?",
+        "Are there any observations about how play helps children learn?",
+        "How do educators describe the importance of play in daily classroom routines?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Provide a vague or surface-level explanation of play-based learning.",
+        "Touch on only one or two developmental areas without examples.",
+        "Use few or poor-quality sources; citation issues evident.",
+        "Reflection is minimal and not clearly related to practice.",
+        "Writing is loosely organized; language may be informal or error-prone."
+      ],
+      "llm_questions": [
+        "Is play the same as learning in early childhood education?",
+        "Does play help kids get smarter or behave better? If so, how?",
+        "What are simple ways children learn during playtime?",
+        "Find at least one source about children playing and learning?",
+        "What are some thoughts about children playing in classrooms?",
+        "Is it okay for kids to play instead of doing worksheets or lessons?",
+        "What is the usefulness of observing children playing?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Show no clear understanding of play-based learning concepts.",
+        "Fail to connect play with cognitive, social, or emotional development.",
+        "Provide no academic sources or evidence.",
+        "Lack any reflection or analysis of practice.",
+        "Writing is disorganized, informal, and grammatically weak."
+      ],
+      "llm_questions": [
+        "What is play?",
+        "Why do children play a lot in kindergarten?",
+        "Is playing just for fun?",
+        "Why do teachers let children play?",
+        "Why and how should kids be allowed to play at school?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyse the transition process from home to early childhood programs and discuss strategies for supporting children and families during this critical period.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0022",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Transition Processes",
+        "description": "Demonstrates knowledge of the emotional, social, and developmental aspects involved in children's transition from home to early childhood settings.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates deep understanding of transition processes; integrates child development theory with real-world implications and provides original insights.",
+          "good": "Explains key emotional and developmental considerations, with appropriate examples and connections to theory.",
+          "average": "Describes general transition concepts but lacks detail or theoretical grounding.",
+          "needs_improvement": "Identifies transition as a concept with minimal explanation or limited understanding.",
+          "poor": "Fails to explain the transition process or demonstrates major misconceptions."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Support Strategies",
+        "description": "Evaluates strategies to support children and families during transitions, such as communication, collaboration, and continuity of care.",
+        "performance_descriptors": {
+          "excellent": "Provides comprehensive analysis of multiple strategies supported by research and context-specific examples, with critical reflection.",
+          "good": "Discusses a range of appropriate strategies with some reference to evidence or context.",
+          "average": "Describes a few strategies with limited analysis or evidence.",
+          "needs_improvement": "Mentions one or two basic strategies without explanation or justification.",
+          "poor": "No relevant strategies provided or major inaccuracies present."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Application of Research and Theory",
+        "description": "Uses academic and professional sources to support discussion of transition and support strategies.",
+        "performance_descriptors": {
+          "excellent": "Integrates a wide range of high-quality academic sources and developmental theories to support arguments and demonstrates independent synthesis.",
+          "good": "Uses several appropriate and reliable sources; applies relevant theories.",
+          "average": "Includes a few academic sources with basic connection to the topic.",
+          "needs_improvement": "Minimal use of sources or relies on non-academic material.",
+          "poor": "No research or theoretical support provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Reflection and Equity Awareness",
+        "description": "Demonstrates awareness of diverse family backgrounds, cultural responsiveness, and equity considerations in transition processes.",
+        "performance_descriptors": {
+          "excellent": "Shows strong awareness of diverse family needs and embeds equity and inclusion throughout analysis.",
+          "good": "Identifies key diversity and equity issues and links them to strategy use.",
+          "average": "Mentions diversity or equity considerations but does not integrate them into analysis.",
+          "needs_improvement": "Minimal or superficial mention of equity or inclusion.",
+          "poor": "No awareness of diversity, equity, or inclusion."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "The essay is well-structured and clearly written, with appropriate academic tone and referencing.",
+        "performance_descriptors": {
+          "excellent": "Logically structured with clear introduction, body, and conclusion; academic tone maintained throughout; no grammar or spelling errors; excellent referencing.",
+          "good": "Well-organised with minor lapses in flow or tone; few grammar or spelling issues; consistent referencing.",
+          "average": "Some structure; occasional lack of clarity or formality; noticeable language errors; referencing may be inconsistent.",
+          "needs_improvement": "Poorly structured; informal tone; frequent language issues; referencing limited or incorrect.",
+          "poor": "Disorganised, difficult to follow, non-academic tone; major grammar and spelling issues; no or incorrect referencing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Thoroughly explain emotional, social, and developmental aspects of transitions, integrating developmental theory and offering novel insights.",
+        "Critically analyse multiple support strategies using research and real world contexts, reflecting on adaptability across settings.",
+        "Synthesize diverse academic sources and theories to justify arguments, demonstrating nuanced understanding.",
+        "Embed equity, inclusion, and cultural responsiveness throughout analysis, recognizing varied family needs.",
+        "Present content with impeccable structure, formal tone, and precise referencing."
+      ],
+      "llm_questions": [
+        "How do emotional, social, and cognitive developmental theories (e.g., Erikson, Vygotsky, Bowlby) explain children's experiences during the transition from home to early childhood programs?",
+        "What are the long-term developmental outcomes associated with well-managed early transitions?",
+        "What are the most effective transition strategies used across diverse early childhood settings, and how are they tailored to different child and family needs?",
+        "How do educators critically reflect on and adapt transition practices to support children with additional needs or trauma histories?",
+        "How can early childhood educators embed cultural responsiveness and equity in every stage of the transition process?",
+        "How do systemic factors (e.g., socio-economic status, migration status) shape the transition experience and what inclusive strategies address these inequities?",
+        "What academic and theoretical literature offers a comprehensive foundation for analysing transitions and support strategies across contexts?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Describe core transition concepts with links to emotional and developmental factors and relevant examples.",
+        "Discuss a range of support strategies with contextual understanding and some reference to theory or evidence.",
+        "Use several credible academic sources to support discussion, referencing key theories appropriately.",
+        "Identify equity concerns and show sensitivity to diversity when discussing support practices.",
+        "Maintain clear structure and academic tone with minor language issues and consistent referencing."
+      ],
+      "llm_questions": [
+        "What are the main emotional and developmental challenges children face when entering early learning environments for the first time?",
+        "How can attachment theory inform an educator's understanding of the child's behaviour during transition?",
+        "What are three common practices used by early childhood educators to support transitions, and how effective are they according to recent studies?",
+        "In what ways can collaboration with families enhance continuity of care during transitions?",
+        "What are key cultural or linguistic considerations educators should be aware of when supporting transitions for diverse families?",
+        "How can educators ensure they do not impose dominant cultural assumptions during transitions?",
+        "Which recent peer-reviewed sources support the use of specific transition strategies in Australian early childhood settings?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention general aspects of transitions (e.g., emotional or social) without theoretical depth or clear examples.",
+        "Describe a few support strategies but lacking detailed evaluation or contextual justification.",
+        "Include some academic references but with limited connection to argument or theory.",
+        "Note diversity or equity superficially, without integrating it meaningfully into strategy discussion.",
+        "Some organization present, though tone may vary and referencing could be inconsistent."
+      ],
+      "llm_questions": [
+        "What are some general effects of transitions on a child's emotions and behaviour?",
+        "Why is it important to consider development when helping a child adjust to a new early childhood setting?",
+        "What are some strategies commonly used by educators to ease transitions, and how do they work?",
+        "What role does communication with parents play in helping children settle into care?",
+        "Why might some children find transition more difficult than others?",
+        "What are two examples of inclusive practices educators might consider during transitions?",
+        "What are some academic sources that describe general transition practices in early childhood education?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Provide basic description of transition with minimal understanding of emotional or developmental dimensions.",
+        "List 1 to 2 strategies briefly without explanation, analysis, or link to context.",
+        "Rely on limited or non-academic sources with minimal theoretical grounding.",
+        "Make a vague or passing mention of equity or inclusion without relevance to strategies.",
+        "Writing lacks structure and uses informal tone; referencing is sparse or incorrect."
+      ],
+      "llm_questions": [
+        "What is a transition in early childhood education?",
+        "How do children feel when they start a new program?",
+        "What is one way teachers help children feel comfortable when they arrive?",
+        "What can families do to support their child during the first week of childcare?",
+        "What does inclusion mean in early childhood transitions?",
+        "Why might some parents need extra help when their child starts care?",
+        "What is one source that describes a basic transition strategy used in early childhood?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Fail to demonstrate understanding of children's transition or misrepresent core concepts.",
+        "Provide no relevant strategies or present incorrect or inappropriate ones.",
+        "Include no academic sources or misuse research, lacking any theoretical support.",
+        "Ignore or overlook diversity and equity considerations entirely.",
+        "Disorganized structure, informal language, and no effective use of academic referencing."
+      ],
+      "llm_questions": [
+        "What is change in childcare and how is it different from routine?",
+        "Do all children react the same when starting a new program?",
+        "Give some examples of a routine children do when they enter the classroom.",
+        "Can giving a toy help children transition better?",
+        "Are there any books that talk about starting childcare?",
+        "Why do all families use the same transition strategies?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}
