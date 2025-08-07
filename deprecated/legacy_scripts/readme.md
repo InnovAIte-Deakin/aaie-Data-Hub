@@ -17,16 +17,16 @@ This Python script automates the preprocessing and validation of GenAI submissio
 
 The script performs comprehensive data cleaning and balancing by:
 
-* ✅ Validating and standardizing timestamps to ISO 8601 format
-* ✅ Assigning unique `submission_id` values
-* ✅ Auto-computing missing `token_count` based on word length of submission text
-* ✅ Ensuring origin labels are strictly either `'human'` or `'ai'`
-* ✅ Balancing class distribution to mitigate model bias
-* ✅ Removing records with missing critical fields
+*  Validating and standardizing timestamps to ISO 8601 format
+*  Assigning unique `submission_id` values
+*  Auto-computing missing `token_count` based on word length of submission text
+*  Ensuring origin labels are strictly either `'human'` or `'ai'`
+*  Balancing class distribution to mitigate model bias
+*  Removing records with missing critical fields
 
 ---
 
-## 🧩 Core Functions Overview
+##  Core Functions Overview
 
 | Function              | Description                                                 |
 | --------------------- | ----------------------------------------------------------- |
