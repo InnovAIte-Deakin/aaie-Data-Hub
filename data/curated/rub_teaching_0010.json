@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze the impact of educational leadership on teaching quality and school culture, highlighting effective leadership practices.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0010",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Leadership Theories and Models",
+        "description": "Demonstrates in-depth knowledge of educational leadership approaches.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly explains multiple leadership models (transformational, distributed, instructional) with application examples.",
+          "good": "Describes key leadership theories with some application.",
+          "average": "Mentions leadership concepts at a superficial level.",
+          "needs_improvement": "Limited understanding.",
+          "poor": "No understanding demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation of Leadership Impact",
+        "description": "Assesses how leadership influences teaching quality, staff development, and school climate.",
+        "performance_descriptors": {
+          "excellent": "Insightfully evaluates leadership impacts supported by case studies and research.",
+          "good": "Offers sound discussion with examples.",
+          "average": "Basic or general statements.",
+          "needs_improvement": "Limited analysis.",
+          "poor": "No evaluation."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Organizational Examples",
+        "description": "Integrates empirical studies and real-world data on leadership effectiveness.",
+        "performance_descriptors": {
+          "excellent": "Critically synthesizes multiple sources and organizational cases.",
+          "good": "Includes relevant references and examples.",
+          "average": "Mentions research or examples briefly.",
+          "needs_improvement": "Minimal evidence.",
+          "poor": "No evidence cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Leadership Strategies",
+        "description": "Proposes actionable strategies for effective leadership to enhance teaching and school culture.",
+        "performance_descriptors": {
+          "excellent": "Presents detailed, context-sensitive leadership strategies.",
+          "good": "Suggests clear, practical actions.",
+          "average": "Offers general recommendations.",
+          "needs_improvement": "Vague or unrealistic ideas.",
+          "poor": "No strategies suggested."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Structure",
+        "description": "Evaluates clarity, coherence, and academic rigor of writing.",
+        "performance_descriptors": {
+          "excellent": "Highly professional and well-organized presentation.",
+          "good": "Clear and structured with minor errors.",
+          "average": "Adequate but occasionally unclear.",
+          "needs_improvement": "Poor organization and writing quality.",
+          "poor": "Disorganized and poorly written."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Discuss multiple leadership theories and their impact on school settings.",
+        "Evaluate leadership's role in improving teacher performance and fostering positive culture.",
+        "Use research and case studies to support claims.",
+        "Detail leadership strategies including collaboration, vision-setting, and professional development.",
+        "Maintain formal, coherent academic tone throughout."
+      ],
+      "llm_questions": [
+        "What leadership models are most effective in education?",
+        "How does leadership influence teaching and learning outcomes?",
+        "What research supports instructional leadership's impact?",
+        "How can leaders build a strong school culture?",
+        "What role does shared leadership play?",
+        "How should leaders support teacher growth?",
+        "What are challenges in educational leadership?"
+      ]
+    }
+  ]
+}

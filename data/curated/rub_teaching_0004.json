@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate inclusive education practices and analyze strategies to support students with diverse learning needs in mainstream classrooms.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0004",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Inclusive Education Principles",
+        "description": "Evaluates knowledge of inclusive philosophy and frameworks such as Universal Design for Learning (UDL).",
+        "performance_descriptors": {
+          "excellent": "Clearly explains inclusion principles and UDL with classroom application examples.",
+          "good": "Describes the main concepts with some practical connections.",
+          "average": "Mentions inclusion with limited detail.",
+          "needs_improvement": "Partial or vague understanding.",
+          "poor": "No understanding demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Diverse Learner Needs",
+        "description": "Assesses understanding of cognitive, physical, emotional, and cultural diversity among students.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes diverse needs and their educational implications.",
+          "good": "Clearly explains several types of needs with examples.",
+          "average": "Lists needs with little analysis.",
+          "needs_improvement": "Surface-level or unclear mentions.",
+          "poor": "No meaningful analysis."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Instructional Strategies and Accommodations",
+        "description": "Evaluates evidence-based teaching strategies and accommodations.",
+        "performance_descriptors": {
+          "excellent": "Justifies multiple differentiated strategies and accommodations with research.",
+          "good": "Provides some appropriate strategies backed by examples.",
+          "average": "Mentions strategies superficially.",
+          "needs_improvement": "Vague or impractical strategies.",
+          "poor": "No strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Collaboration among Stakeholders",
+        "description": "Analyzes collaborative roles of teachers, specialists, families, and communities.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly explains partnerships and collaborative practices.",
+          "good": "Addresses cooperation with examples.",
+          "average": "Mentions collaboration briefly.",
+          "needs_improvement": "Limited or unclear discussion.",
+          "poor": "No collaboration mentioned."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Organization",
+        "description": "Assesses clarity, organization, and formal tone.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, clear, and academic writing.",
+          "good": "Well-organized, mostly formal tone.",
+          "average": "Somewhat organized with inconsistent tone.",
+          "needs_improvement": "Unstructured or informal.",
+          "poor": "Disorganized and unprofessional."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain key inclusion principles including UDL and social inclusion.",
+        "Analyze different types of learner diversity and their classroom impact.",
+        "Present evidence-based differentiation, accommodations, and assistive technologies.",
+        "Emphasize collaborative partnerships among educators, families, and specialists.",
+        "Provide a logically coherent and well-written academic essay."
+      ],
+      "llm_questions": [
+        "What are the foundational principles of inclusive education?",
+        "How can UDL be applied in mainstream classrooms?",
+        "What are common diverse learner needs?",
+        "How do teachers adapt instruction for diverse students?",
+        "What roles do families and specialists play in inclusion?",
+        "How important is classroom culture in inclusive education?",
+        "What research supports inclusive practices?"
+      ]
+    }
+  ]
+}

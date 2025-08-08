@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Discuss the principles and best practices of curriculum design and planning in contemporary education. Analyze how effective curriculum development contributes to enhanced student learning outcomes.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0008",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Curriculum Design Principles",
+        "description": "Demonstrates comprehensive knowledge of curriculum planning models, alignment strategies, and educational objectives.",
+        "performance_descriptors": {
+          "excellent": "Explains multiple curriculum models (e.g., backward design, spiral curriculum) with detailed rationale and implications.",
+          "good": "Describes key curriculum components and models with sound understanding.",
+          "average": "Mentions curriculum design with limited depth.",
+          "needs_improvement": "Attempts explanation with significant omissions or inaccuracies.",
+          "poor": "Lacks understanding of curriculum concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Curriculum Impact on Learning",
+        "description": "Evaluates how curriculum design influences student engagement, achievement, and skill development.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful analysis linking curriculum design choices with measurable learning outcomes.",
+          "good": "Explains impact with relevant examples.",
+          "average": "States general benefits without detailed analysis.",
+          "needs_improvement": "Surface-level or incomplete discussion.",
+          "poor": "Does not address curriculum impact."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Best Practices",
+        "description": "Incorporates contemporary research, policy guidelines, and exemplary curriculum initiatives.",
+        "performance_descriptors": {
+          "excellent": "Integrates diverse evidence and critically evaluates effectiveness.",
+          "good": "References credible research and examples appropriately.",
+          "average": "Mentions research without thorough integration.",
+          "needs_improvement": "Minimal or poorly applied evidence.",
+          "poor": "No research or examples presented."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Curriculum Planning Strategies",
+        "description": "Presents clear, actionable, and contextually sensitive strategies for curriculum design and continuous improvement.",
+        "performance_descriptors": {
+          "excellent": "Proposes innovative and sustainable practices with detailed implementation guidance.",
+          "good": "Offers practical strategies with moderate detail.",
+          "average": "Presents general recommendations lacking specificity.",
+          "needs_improvement": "Strategies are vague or impractical.",
+          "poor": "No practical strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Organization",
+        "description": "Demonstrates clarity, coherence, and professionalism in scholarly writing.",
+        "performance_descriptors": {
+          "excellent": "Essay is exceptionally well-organized, precise, and formally written.",
+          "good": "Well-structured with minor lapses in clarity or tone.",
+          "average": "Contains some organizational or stylistic issues.",
+          "needs_improvement": "Unclear or informal writing style.",
+          "poor": "Disorganized and unprofessional."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain curriculum design models such as backward design and constructivist spirals, emphasizing alignment of objectives, instruction, and assessment.",
+        "Analyze the direct connection between thoughtful curriculum planning and improved student engagement and competency development.",
+        "Incorporate influential research and national curriculum frameworks illustrating best practices.",
+        "Detail strategies for iterative curriculum development including stakeholder input, data-driven revisions, and professional collaboration.",
+        "Maintain fluent, authoritative academic prose."
+      ],
+      "llm_questions": [
+        "What are the core principles of modern curriculum design?",
+        "How do curriculum models like backward design improve learning outcomes?",
+        "What research supports effective curriculum planning?",
+        "How is curriculum aligned with assessment and instruction?",
+        "What are effective methods for continuous curriculum improvement?",
+        "How can educators adapt curriculum to diverse student needs?",
+        "What role does collaboration play in successful curriculum development?"
+      ]
+    }
+  ]
+}
