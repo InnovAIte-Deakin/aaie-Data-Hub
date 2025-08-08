@@ -2,7 +2,7 @@
   "domain": "IT",
   "prompt": "Discuss the role of edge computing in latency-sensitive applications. Explain how edge computing improves performance and security compared to centralized cloud models.",
   "rubric": {
-    "rubric_id": "rub_it_0001",
+    "rubric_id": "rub_it_0009",
     "criteria": [
       {
         "criterion_id": "c1",
