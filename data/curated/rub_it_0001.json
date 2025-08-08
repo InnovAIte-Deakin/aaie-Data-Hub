@@ -1,0 +1,82 @@
+{
+  "domain": "IT",
+  "prompt": "Critically evaluate zero-trust architecture in enterprise security. Discuss its core principles, benefits, and challenges in implementation. Provide examples of how zero-trust improves security posture compared to traditional perimeter-based models, and analyze potential limitations.",
+  "rubric": {
+    "rubric_id": "rub_it_0001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of the topic and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding with clear theoretical support.",
+          "good": "Understands key concepts well with minor gaps.",
+          "average": "Adequate explanation with some inaccuracies.",
+          "needs_improvement": "Surface-level or confused understanding.",
+          "poor": "Major misunderstandings or misrepresentations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies concepts meaningfully to examples or scenarios.",
+        "performance_descriptors": {
+          "excellent": "Uses insightful and relevant examples clearly linked to concepts.",
+          "good": "Examples mostly appropriate with some gaps in explanation.",
+          "average": "Examples present but superficial or unclear connections.",
+          "needs_improvement": "Vague or generic examples.",
+          "poor": "No real-world application."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation",
+        "description": "Analyzes challenges, limitations, or trade-offs thoughtfully.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, research-backed critical evaluation.",
+          "good": "Reasonable evaluation but less depth.",
+          "average": "Mentions challenges superficially.",
+          "needs_improvement": "Unclear or irrelevant critique.",
+          "poor": "No critical evaluation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Clear, coherent, formal tone, flawless grammar, and proper referencing.",
+          "good": "Mostly clear and professional; minor issues.",
+          "average": "Organization present but inconsistent.",
+          "needs_improvement": "Structure or tone hinder clarity; referencing weak.",
+          "poor": "Disorganized or informal writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define zero-trust architecture and its key principles such as least privilege and continuous verification.",
+        "Explain differences between zero-trust and traditional perimeter security.",
+        "Describe enterprise use cases where zero-trust reduces breach risk.",
+        "Discuss challenges like scalability, legacy systems, and user experience.",
+        "Analyze zero-trust's impact on identity and access management.",
+        "Evaluate potential implementation pitfalls and best practices.",
+        "Reference relevant industry frameworks and standards.",
+        "Use clear, formal academic writing style with APA citations."
+      ],
+      "llm_questions": [
+        "What are the fundamental principles of zero-trust architecture?",
+        "How does zero-trust differ from traditional perimeter security?",
+        "Can you provide examples of enterprises successfully using zero-trust?",
+        "What are common challenges in implementing zero-trust?",
+        "How does zero-trust impact identity and access management?",
+        "What best practices can mitigate zero-trust implementation pitfalls?",
+        "Which industry standards relate to zero-trust?",
+        "How should zero-trust concepts be structured in an academic essay?"
+      ]
+    }
+  ]
+}

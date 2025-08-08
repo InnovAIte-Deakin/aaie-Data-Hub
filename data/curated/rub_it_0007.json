@@ -1,0 +1,82 @@
+{
+  "domain": "IT",
+  "prompt": "IPv6 adoption: Why is the transition still slow? Discuss technical, operational, and organizational challenges delaying IPv6 uptake despite its advantages.",
+  "rubric": {
+    "rubric_id": "rub_it_0001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of the topic and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding with clear theoretical support.",
+          "good": "Understands key concepts well with minor gaps.",
+          "average": "Adequate explanation with some inaccuracies.",
+          "needs_improvement": "Surface-level or confused understanding.",
+          "poor": "Major misunderstandings or misrepresentations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies concepts meaningfully to examples or scenarios.",
+        "performance_descriptors": {
+          "excellent": "Uses insightful and relevant examples clearly linked to concepts.",
+          "good": "Examples mostly appropriate with some gaps in explanation.",
+          "average": "Examples present but superficial or unclear connections.",
+          "needs_improvement": "Vague or generic examples.",
+          "poor": "No real-world application."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation",
+        "description": "Analyzes challenges, limitations, or trade-offs thoughtfully.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, research-backed critical evaluation.",
+          "good": "Reasonable evaluation but less depth.",
+          "average": "Mentions challenges superficially.",
+          "needs_improvement": "Unclear or irrelevant critique.",
+          "poor": "No critical evaluation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Clear, coherent, formal tone, flawless grammar, and proper referencing.",
+          "good": "Mostly clear and professional; minor issues.",
+          "average": "Organization present but inconsistent.",
+          "needs_improvement": "Structure or tone hinder clarity; referencing weak.",
+          "poor": "Disorganized or informal writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain the need for IPv6 due to IPv4 exhaustion.",
+        "Discuss technical features and advantages of IPv6.",
+        "Analyze operational challenges delaying IPv6 adoption.",
+        "Explore organizational, economic, and compatibility issues.",
+        "Provide real-world adoption statistics and case studies.",
+        "Discuss strategies to accelerate transition.",
+        "Reference IETF and industry guidance documents.",
+        "Use formal, clear academic writing."
+      ],
+      "llm_questions": [
+        "Why is IPv6 necessary and what advantages does it offer?",
+        "What technical barriers slow IPv6 adoption?",
+        "How do operational and organizational factors affect transition?",
+        "What strategies can accelerate IPv6 deployment?",
+        "What real-world data shows IPv6 adoption trends?",
+        "How does IPv6 impact network security and management?",
+        "What standards govern IPv6 implementation?",
+        "How to write a structured essay on IPv6 transition?"
+      ]
+    }
+  ]
+}
