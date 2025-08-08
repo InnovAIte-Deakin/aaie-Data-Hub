@@ -2,7 +2,7 @@
   "domain": "IT",
   "prompt": "Analyze social engineering attacks and human vulnerabilities in cybersecurity. Explore common types of social engineering, psychological principles exploited, and measures to enhance human resilience.",
   "rubric": {
-    "rubric_id": "rub_it_0001",
+    "rubric_id": "rub_it_0003",
     "criteria": [
       {
         "criterion_id": "c1",
