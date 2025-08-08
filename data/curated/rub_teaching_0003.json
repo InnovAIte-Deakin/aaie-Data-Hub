@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze the unique characteristics of adult learners and evaluate pedagogical approaches that effectively support lifelong learning and professional development.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0003",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Depth of Understanding of Adult Learning Theory",
+        "description": "Evaluates knowledge of adult learning principles, motivations, and self-directed learning.",
+        "performance_descriptors": {
+          "excellent": "Deeply explains andragogy, self-direction, and adult motivation theories with examples.",
+          "good": "Describes core adult learning concepts with some elaboration.",
+          "average": "Superficially mentions adult learning theories.",
+          "needs_improvement": "Limited knowledge or misunderstanding.",
+          "poor": "No demonstrable understanding."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Insightful Analysis of Adult Learner Characteristics",
+        "description": "Assesses detailed awareness of motivations, barriers, and lifecycle factors affecting adults.",
+        "performance_descriptors": {
+          "excellent": "Provides nuanced analysis including life roles, motivation, and barriers like time and technology.",
+          "good": "Explains major traits and challenges clearly.",
+          "average": "Lists characteristics without depth.",
+          "needs_improvement": "Superficial discussion.",
+          "poor": "No analysis."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Cases in Adult Education",
+        "description": "Measures integration of empirical and practical examples in adult learning.",
+        "performance_descriptors": {
+          "excellent": "Critically uses research and case studies to illustrate concepts.",
+          "good": "References supported by some empirical data or cases.",
+          "average": "Mentions examples with minimal detail.",
+          "needs_improvement": "Poor or no support.",
+          "poor": "None provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Strategies for Lifelong Learning and PD",
+        "description": "Evaluates detailed and relevant strategies tailored to adult learners’ needs.",
+        "performance_descriptors": {
+          "excellent": "Clearly outlines flexible, relevant, and scalable strategies facilitating lifelong learning.",
+          "good": "Provides sensible strategies with moderate specificity.",
+          "average": "Mentions general strategies broadly.",
+          "needs_improvement": "Vague or unrealistic approaches.",
+          "poor": "No strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Logical Structure",
+        "description": "Assesses coherence, clarity, and formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Exceptionally clear, logically flowing academic writing.",
+          "good": "Generally clear and well structured.",
+          "average": "Some structure with minor issues.",
+          "needs_improvement": "Disorganized or informal.",
+          "poor": "Poorly written and incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain andragogy, emphasizing self-directed learning, prior experiences, and motivation.",
+        "Analyze adult learner challenges such as competing responsibilities and technology access.",
+        "Incorporate research and real-world examples from continuing education programs.",
+        "Outline practical, flexible strategies supporting lifelong learning and professional growth.",
+        "Present findings in a formal, cohesive academic paper."
+      ],
+      "llm_questions": [
+        "What are the foundational concepts of adult learning theory?",
+        "How do adult learner motivations differ from traditional students?",
+        "What are common barriers adults face when learning?",
+        "What research supports strategies for adult education?",
+        "How can instructors facilitate lifelong learning and PD?",
+        "Which technologies best aid continuing education?",
+        "How do adult education programs support career advancement?"
+      ]
+    }
+  ]
+}

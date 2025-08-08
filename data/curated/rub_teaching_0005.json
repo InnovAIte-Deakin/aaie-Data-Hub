@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Examine the importance of continuous professional development (PD) for educators and evaluate best practices for effective lifelong learning and instructional improvement.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0005",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Professional Development Concepts",
+        "description": "Demonstrates comprehensive knowledge of professional development theories and effective models.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains multiple PD models (e.g., coaching, PLCs, workshops) and their theoretical basis.",
+          "good": "Describes common PD models with adequate detail.",
+          "average": "Mentions PD generally with limited elaboration.",
+          "needs_improvement": "Basic or unclear understanding of PD.",
+          "poor": "Fails to explain PD concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of PD Impact on Teaching and Learning",
+        "description": "Evaluates how ongoing PD enhances educator effectiveness and benefits student learning outcomes.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes evidence linking PD to improved instructional practice and student achievement.",
+          "good": "Explains benefits of PD with supporting examples.",
+          "average": "Discusses impact superficially with limited support.",
+          "needs_improvement": "Vague or limited analysis of PD impact.",
+          "poor": "No meaningful analysis provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Exemplary Practices",
+        "description": "Integrates relevant research and practice examples demonstrating PD effectiveness.",
+        "performance_descriptors": {
+          "excellent": "Critically synthesizes multiple studies and successful PD program examples.",
+          "good": "Includes some research and examples.",
+          "average": "Mentions research or examples superficially.",
+          "needs_improvement": "Minimal or poorly connected evidence.",
+          "poor": "No research or examples cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Strategies for PD Implementation",
+        "description": "Presents clear, feasible approaches for PD design and delivery to support teacher growth.",
+        "performance_descriptors": {
+          "excellent": "Offers detailed, evidence-based and context-sensitive strategies promoting engagement and sustainability.",
+          "good": "Suggests practical and applicable PD approaches.",
+          "average": "Mentions strategies with limited depth.",
+          "needs_improvement": "Vague or unrealistic recommendations.",
+          "poor": "No strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Organization",
+        "description": "Quality of argumentation, coherence, and academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, persuasive, and clear academic style.",
+          "good": "Well-organized with mostly formal language.",
+          "average": "Moderate clarity, some organizational issues.",
+          "needs_improvement": "Poor structure or informal tone.",
+          "poor": "Disorganized and unclear."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Describe major PD models such as peer coaching, workshops, and professional learning communities (PLCs).",
+        "Analyze research linking effective PD to teacher improvement and higher student achievement.",
+        "Illustrate with examples of successful PD programs, highlighting sustainability and collaboration.",
+        "Recommend actionable strategies for PD implementation including needs assessment, ongoing support, and feedback.",
+        "Ensure clear, logical, and scholarly presentation."
+      ],
+      "llm_questions": [
+        "What are the predominant models of teacher professional development?",
+        "How does professional development impact teaching quality and student learning?",
+        "What research supports the efficacy of sustained PD?",
+        "How can schools design PD for maximum effectiveness and sustainability?",
+        "What role does collaboration play in effective PD?",
+        "How should PD be aligned with school improvement goals?",
+        "What are emerging trends in professional development strategies?"
+      ]
+    }
+  ]
+}

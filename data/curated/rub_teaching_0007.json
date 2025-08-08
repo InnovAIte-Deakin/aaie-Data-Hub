@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze effective classroom management strategies and discuss their impact on student learning, engagement, and overall classroom climate in diverse educational settings.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0007",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Classroom Management Theories and Models",
+        "description": "Demonstrates knowledge of key theoretical frameworks and practical approaches in classroom management.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly explains multiple management theories (e.g., behaviorism, restorative practices, PBIS) and how they guide practice.",
+          "good": "Describes common theories and applications with clarity.",
+          "average": "Mentions some theories with limited detail.",
+          "needs_improvement": "Superficial or confused understanding.",
+          "poor": "Fails to explain classroom management concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact of Management on Learning and Climate",
+        "description": "Evaluates the relationship between management strategies, student engagement, and classroom environment.",
+        "performance_descriptors": {
+          "excellent": "Insightfully connects management approaches to improved engagement, behavior, and a positive climate.",
+          "good": "Explains effects of management strategies on student outcomes.",
+          "average": "States general impacts with minimal detail.",
+          "needs_improvement": "Mentions impact superficially.",
+          "poor": "No impact analysis."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Practice-Based Examples",
+        "description": "Incorporates empirical research and practical case studies supporting management techniques.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple research findings and exemplary examples.",
+          "good": "References some studies or cases.",
+          "average": "Mentions research generally.",
+          "needs_improvement": "Minimal or unclear evidence.",
+          "poor": "No supporting evidence."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Classroom Management Strategies",
+        "description": "Discusses actionable techniques for managing behavior and fostering engagement.",
+        "performance_descriptors": {
+          "excellent": "Proposes clear, evidence-based, and contextually adaptive management strategies.",
+          "good": "Offers practical management tips.",
+          "average": "Describes general strategies.",
+          "needs_improvement": "Vague or inadequate strategies.",
+          "poor": "No strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Coherence",
+        "description": "Assesses essay organization, tone, and clarity.",
+        "performance_descriptors": {
+          "excellent": "Masterfully structured and scholarly written analysis.",
+          "good": "Well-organized and clearly written.",
+          "average": "Some structural or style issues.",
+          "needs_improvement": "Organizational and tone problems.",
+          "poor": "Disorganized and informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain diverse classroom management frameworks including restorative practices and PBIS.",
+        "Analyze how these strategies positively influence engagement, discipline, and school climate.",
+        "Integrate current research and real-world case examples.",
+        "Provide specific, adaptable management strategies addressing diverse classroom needs.",
+        "Present a clear, logical, and formal analysis."
+      ],
+      "llm_questions": [
+        "What are the main theories of classroom management?",
+        "How do management strategies affect student learning and behavior?",
+        "What research supports effective classroom management?",
+        "How can positive behavior support be implemented in diverse classrooms?",
+        "What role do teacher-student relationships play in management?",
+        "How can restorative practices improve classroom climate?",
+        "What are strategies for prevention versus response to misbehavior?"
+      ]
+    }
+  ]
+}

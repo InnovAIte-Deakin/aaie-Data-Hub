@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze key research methodologies used in education and evaluate how high-quality research supports evidence-based teaching practices.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0013",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Qualitative and Quantitative Research Methods",
+        "description": "Demonstrates knowledge of key research designs, data collection, and analysis methods.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly explains and distinguishes qualitative, quantitative, and mixed methods with relevant examples.",
+          "good": "Describes main research types with some supporting details.",
+          "average": "Mentions research methods without full clarity.",
+          "needs_improvement": "Limited understanding or confusion.",
+          "poor": "No discernible knowledge of research methods."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation of Research Quality and Ethics",
+        "description": "Analyzes criteria such as validity, reliability, and ethical considerations in educational research.",
+        "performance_descriptors": {
+          "excellent": "Insightfully critiques research quality and ethical practice using examples.",
+          "good": "Explains research quality aspects and ethics with basic examples.",
+          "average": "Recognizes research quality superficially.",
+          "needs_improvement": "Vague discussion of quality and ethics.",
+          "poor": "No mention of research quality or ethics."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research Examples in Practice",
+        "description": "Effectively integrates examples of educational research influencing teaching practices.",
+        "performance_descriptors": {
+          "excellent": "Critically integrates studies illustrating impact on instructional decisions.",
+          "good": "References some research and applications.",
+          "average": "Mentions research without clear application.",
+          "needs_improvement": "Minimal or unclear examples.",
+          "poor": "No examples provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Connection to Evidence-Based Teaching",
+        "description": "Explores how research findings translate into instructional improvements.",
+        "performance_descriptors": {
+          "excellent": "Clearly articulates the link between research evidence and pedagogical changes.",
+          "good": "Shows connection with some detail.",
+          "average": "Mentions evidence-based teaching briefly.",
+          "needs_improvement": "Weak or unclear linkage.",
+          "poor": "No connection made."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Logical Flow",
+        "description": "Experience in formal academic writing with coherent organization.",
+        "performance_descriptors": {
+          "excellent": "Exceptionally clear, organized, and rigorous academic style.",
+          "good": "Well-written and logically structured.",
+          "average": "Some clarity and structure issues.",
+          "needs_improvement": "Informal or disorganized.",
+          "poor": "Incoherent and poorly written."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain qualitative, quantitative, and mixed-methods research in educational contexts with examples.",
+        "Analyze reliability, validity, and ethical considerations critical to research quality.",
+        "Integrate case studies or influential research impacting education practice.",
+        "Discuss practical application of research findings to improve teaching.",
+        "Use clear, academic language with logical progression."
+      ],
+      "llm_questions": [
+        "What distinguishes qualitative and quantitative methods in education research?",
+        "How is research quality assessed?",
+        "What ethical issues arise in educational research?",
+        "How can teachers apply research findings to their practice?",
+        "What advantages do mixed-methods provide?",
+        "How does practitioner inquiry contribute to evidence-based teaching?",
+        "What are key challenges in educational research implementation?"
+      ]
+    }
+  ]
+}

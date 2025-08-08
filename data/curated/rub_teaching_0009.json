@@ -1,0 +1,91 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate approaches to multicultural education and analyze strategies for promoting diversity, equity, and inclusion in the classroom.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0009",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Multicultural Education Concepts",
+        "description": "Demonstrates comprehensive understanding of diversity and multicultural education frameworks.",
+        "performance_descriptors": {
+          "excellent": "Clearly articulates core principles such as cultural competence, anti-bias education, and critical multiculturalism.",
+          "good": "Describes key diversity concepts with some explanation.",
+          "average": "Mentions multiculturalism superficially.",
+          "needs_improvement": "Limited or inaccurate understanding.",
+          "poor": "No understanding demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Equity and Inclusion Strategies",
+        "description": "Analyzes ways to foster equity and inclusivity for diverse learners.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses systemic barriers, pedagogical approaches, and cultural responsiveness.",
+          "good": "Explains some equity strategies with examples.",
+          "average": "Provides general statements about inclusion.",
+          "needs_improvement": "Brief or unclear discussion.",
+          "poor": "No discussion presented."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Exemplary Practices",
+        "description": "Integrates research evidence and practical case studies on multicultural education.",
+        "performance_descriptors": {
+          "excellent": "Critically synthesizes a range of studies and practice examples.",
+          "good": "Incorporates some research or examples.",
+          "average": "Mentions research briefly.",
+          "needs_improvement": "Minimal or inappropriate evidence.",
+          "poor": "No evidence included."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Strategies for Implementation",
+        "description": "Proposes concrete, actionable strategies for promoting diversity and inclusion.",
+        "performance_descriptors": {
+          "excellent": "Presents innovative and sustainable strategies tailored to various educational contexts.",
+          "good": "Offers clear, practical recommendations.",
+          "average": "Suggests general strategies with minimal detail.",
+          "needs_improvement": "Provides vague or unrealistic actions.",
+          "poor": "No strategies suggested."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Organization",
+        "description": "Assesses clarity, coherence, and adherence to academic standards.",
+        "performance_descriptors": {
+          "excellent": "Highly polished, fluent, and logically organized.",
+          "good": "Well written with minor errors.",
+          "average": "Adequately structured but inconsistent.",
+          "needs_improvement": "Errors affect clarity or flow.",
+          "poor": "Disorganized and poorly written."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain foundational terms: equity, cultural competence, multicultural education.",
+        "Analyze systemic and classroom-level barriers to inclusion.",
+        "Integrate evidence from empirical studies and exemplar programs.",
+        "Detail responsive teaching strategies and curricular adaptations.",
+        "Emphasize partnership building with families and community.",
+        "Present in clear, academic prose."
+      ],
+      "llm_questions": [
+        "What are key concepts underpinning multicultural education?",
+        "How can educators address systemic inequities in classrooms?",
+        "What evidence supports effective inclusive teaching practices?",
+        "Which strategies foster culturally responsive pedagogy?",
+        "How are families and communities involved in diversity initiatives?",
+        "What role do teacher attitudes and biases play?",
+        "How can curriculum support multicultural education goals?"
+      ]
+    }
+  ]
+}

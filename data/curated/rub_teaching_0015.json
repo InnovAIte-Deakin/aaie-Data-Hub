@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate the challenges and benefits of global and international education, and analyze strategies to develop global competence and intercultural understanding among students.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0015",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Global Education Concepts",
+        "description": "Demonstrates clear understanding of international education principles and global competence development.",
+        "performance_descriptors": {
+          "excellent": "Clearly articulates the aims, definitions, and importance of global education and intercultural competence.",
+          "good": "Describes fundamental concepts with adequate depth.",
+          "average": "Mentions global education superficially.",
+          "needs_improvement": "Vague or partial understanding.",
+          "poor": "No understanding demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Insightful Analysis of Challenges and Opportunities",
+        "description": "Evaluates key benefits and obstacles in implementing global education initiatives.",
+        "performance_descriptors": {
+          "excellent": "Provides nuanced, evidence-based discussion of institutional and cultural challenges and benefits.",
+          "good": "Discusses challenges and benefits with some detail.",
+          "average": "Mentions issues in a general way.",
+          "needs_improvement": "Superficial or fragmented discussion.",
+          "poor": "No relevant analysis provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Case Examples",
+        "description": "Incorporates research studies and practical examples supporting global education efforts.",
+        "performance_descriptors": {
+          "excellent": "Effectively integrates multiple case studies and research findings.",
+          "good": "Cites relevant research or examples.",
+          "average": "Mentions evidence without critical integration.",
+          "needs_improvement": "Little to no evidence cited.",
+          "poor": "No evidence."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Strategies for Developing Global Competence",
+        "description": "Proposes detailed, actionable methods for fostering intercultural understanding and global skills.",
+        "performance_descriptors": {
+          "excellent": "Outlines innovative, evidence-based strategies adaptable to diverse educational contexts.",
+          "good": "Offers practical and relevant strategies.",
+          "average": "Mentions general ideas without specifics.",
+          "needs_improvement": "Vague or incomplete strategies.",
+          "poor": "No strategies discussed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Coherence",
+        "description": "Assesses clarity, organization, and formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Exceptionally clear, logical, and scholarly writing.",
+          "good": "Well-written and mostly well organized.",
+          "average": "Some clarity and structure issues.",
+          "needs_improvement": "Poor organization and informal tone.",
+          "poor": "Disorganized and unclear."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain global education and global competence concepts with emphasis on intercultural skills.",
+        "Analyze institutional opportunities such as cultural exchange and curricular globalization, and challenges such as language barriers and resource disparity.",
+        "Integrate research and exemplary case studies promoting internationalization.",
+        "Detail strategic approaches including collaborative projects, language learning, and technology-facilitated exchanges.",
+        "Communicate in formal, well-structured academic prose."
+      ],
+      "llm_questions": [
+        "What defines global competence in education?",
+        "How do schools face challenges when internationalizing curricula?",
+        "What benefits does global education offer students and institutions?",
+        "What research supports effective global education strategies?",
+        "How can intercultural understanding be cultivated?",
+        "What role do language acquisition and exchanges play?",
+        "How does technology bridge gaps in global learning?"
+      ]
+    }
+  ]
+}

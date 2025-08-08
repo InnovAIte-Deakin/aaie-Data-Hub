@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate the impact of active learning strategies on student engagement and academic success in higher education. Provide evidence-backed recommendations for instructors looking to maximize participation and outcomes through active learning.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Depth of Understanding of Active Learning Theories",
+        "description": "Assesses the extent to which the submission demonstrates a deep and nuanced grasp of the key theories and concepts that underpin active learning.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates comprehensive understanding of active learning theory, referencing multiple foundational models (e.g., constructivism, inquiry-based learning) and explaining how these inform real classroom practice.",
+          "good": "Shows good understanding of main active learning concepts and links at least one theory to practice.",
+          "average": "Mentions active learning and basic concepts, but lacks depth or connection to theory.",
+          "needs_improvement": "Provides limited or superficial explanation of what active learning is.",
+          "poor": "Displays incorrect or absent understanding of active learning theory."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Student Engagement and Academic Impact",
+        "description": "Evaluates insight and evidence in linking active learning strategies to changes in student engagement and academic success.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes how active learning drives measurable engagement and improves academic results, using specific, research-backed examples and critical reasoning.",
+          "good": "Explains benefits for engagement and academics with minor omissions or generalizations.",
+          "average": "Recognizes possible effects but lacks clear evidence or analysis.",
+          "needs_improvement": "Superficial or vague claims on engagement or learning, little support.",
+          "poor": "No meaningful connection between active learning and student outcomes."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Application of Research and Evidence",
+        "description": "Measures the integration and evaluation of current research or institutional data supporting active learning’s impact.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple, current peer-reviewed studies and synthesizes findings to convincingly support recommendations, with proper academic citation.",
+          "good": "Uses relevant research or data, though may lack depth or full synthesis.",
+          "average": "Mentions some research but not fully integrated or convincingly cited.",
+          "needs_improvement": "References research only superficially or out of context.",
+          "poor": "No research evidence or data provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Quality and Feasibility of Implementation Recommendations",
+        "description": "Assesses the practicality, innovation, and specificity of strategies proposed for faculty to successfully use active learning—even in challenging contexts.",
+        "performance_descriptors": {
+          "excellent": "Presents clear, actionable, and scalable recommendations for diverse class sizes and disciplines, anticipating common barriers and offering proven solutions.",
+          "good": "Provides practical recommendations with some adaptation for context.",
+          "average": "Offers surface-level suggestions with limited depth or contextualization.",
+          "needs_improvement": "Gives vague or unrealistic recommendations.",
+          "poor": "No actionable strategies included."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Communication and Organizational Quality",
+        "description": "Evaluates structure, academic tone, and clarity of argumentation.",
+        "performance_descriptors": {
+          "excellent": "Essay is exceptionally well-structured, written in a clear, scholarly, and logical manner, with sophisticated transitions and rigorous argumentation.",
+          "good": "Essay is organized and mostly academic, coherent with only minor lapses.",
+          "average": "Some structure is evident, but academic tone or logic is inconsistent.",
+          "needs_improvement": "Essay is poorly organized and lacks academic conventions.",
+          "poor": "No structural or academic integrity is present."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Critically define active learning and relate it to educational theories (constructivist, social, experiential).",
+        "Analyze, with evidence, how interactive strategies (like think-pair-share, PBL, and flipped classrooms) measurably boost engagement and success in higher education.",
+        "Cite and synthesize major meta-analyses and landmark studies (e.g., Freeman et al., 2014; Prince, 2004) that establish active learning’s effectiveness.",
+        "Identify challenges to implementation (e.g., large lectures, assessment alignment, resistant cultures) and provide realistic, research-based solutions for overcoming them.",
+        "Frame recommendations in a logical, academic structure that guides faculty to sustainable change."
+      ],
+      "llm_questions": [
+        "How do foundational learning theories justify the use of active learning in university courses?",
+        "What robust research evidence demonstrates the link between active learning and better student engagement and outcomes?",
+        "Which specific instructional methods are most effective for promoting active learning, and how do they function in diverse higher education contexts?",
+        "What are the most common obstacles instructors face when attempting to adopt active learning, and how can they be addressed?",
+        "How can technology and assessment redesign facilitate effective active learning in large university classes?",
+        "What recommendations would maximize the positive impact of active learning on diverse student populations?",
+        "How should faculty balance content coverage and depth when incorporating active learning?"
+      ]
+    }
+  ]
+}
