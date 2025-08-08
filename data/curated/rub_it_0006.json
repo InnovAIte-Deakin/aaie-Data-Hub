@@ -2,7 +2,7 @@
   "domain": "IT",
   "prompt": "Analyze the impact of 5G technology on IoT scalability and speed. Discuss benefits and challenges 5G brings to IoT devices and networks, including security implications.",
   "rubric": {
-    "rubric_id": "rub_it_0001",
+    "rubric_id": "rub_it_0006",
     "criteria": [
       {
         "criterion_id": "c1",
