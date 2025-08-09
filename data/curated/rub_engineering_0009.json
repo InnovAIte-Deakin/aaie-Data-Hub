@@ -1,0 +1,79 @@
+{
+  "domain": "Engineering",
+  "prompt": "Describe how a software engineer decomposes a complex user requirement into smaller solvable problems, designs system architecture, tests individual components, and documents the development process. Include discussion on logical reasoning and organized solution flow.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0009",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Problem Decomposition and Requirement Analysis",
+        "description": "Explains how complex problems are broken into smaller, manageable tasks.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates thorough understanding of user requirements and breaks them into clear sub-problems.",
+          "good": "Breaks problem into parts with good clarity; minor gaps in logic.",
+          "average": "Basic breakdown of problem with limited linkage to requirements.",
+          "needs_improvement": "Breakdown unclear or missing connections.",
+          "poor": "No meaningful decomposition of the problem."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "System Design and Architecture",
+        "description": "Describes the architecture and design patterns used in the solution.",
+        "performance_descriptors": {
+          "excellent": "Applies appropriate architectural model with clear rationale and components.",
+          "good": "Architecture described with relevant components.",
+          "average": "Basic design structure provided with minimal details.",
+          "needs_improvement": "Unclear or disjointed system design.",
+          "poor": "No design architecture presented."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Component Testing and Validation",
+        "description": "Explains how individual modules are tested and integrated.",
+        "performance_descriptors": {
+          "excellent": "Comprehensive explanation of testing strategies and integration methods.",
+          "good": "Describes testing steps and integration checks.",
+          "average": "Mentions testing but with limited strategy.",
+          "needs_improvement": "Minimal or unclear testing process.",
+          "poor": "No testing or validation explained."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Documentation and Development Process",
+        "description": "Presents organized documentation with clear development phases and rationale.",
+        "performance_descriptors": {
+          "excellent": "Well-structured documentation with clear flow and stakeholder communication.",
+          "good": "Organized summary of phases with most key details.",
+          "average": "Partial documentation; some steps missing or unclear.",
+          "needs_improvement": "Disorganized or incomplete documentation.",
+          "poor": "No clear documentation or explanation of process."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "What is problem decomposition in software engineering?",
+        "How is system architecture selected?",
+        "What is modular testing?",
+        "How is integration testing performed?",
+        "How should software documentation be structured?"
+      ],
+      "llm_answers": [
+        "It’s the process of breaking complex requirements into smaller functional modules.",
+        "Architecture is selected based on scalability, maintainability, and system goals.",
+        "Modular testing involves verifying individual components in isolation.",
+        "Integration testing ensures modules work together as intended.",
+        "Documentation includes requirement specs, design diagrams, test cases, and version control logs."
+      ]
+      
+      
+      
+    }
+  ]
+}
