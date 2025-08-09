@@ -1,0 +1,77 @@
+{
+  "domain": "Engineering",
+  "prompt": "Discuss the analytical approach a structural engineer takes when designing a mid-rise building in an earthquake-prone zone. Highlight how seismic loads are considered, equations used in structural analysis, safety margins, and design documentation.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0007",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Seismic Load Consideration",
+        "description": "Demonstrates understanding of seismic forces and how they impact structural design.",
+        "performance_descriptors": {
+          "excellent": "Clearly identifies seismic loads, site conditions, and applies relevant codes.",
+          "good": "Identifies basic seismic loads and references building codes.",
+          "average": "Mentions earthquake forces with limited detail.",
+          "needs_improvement": "Brief or unclear understanding of seismic impact.",
+          "poor": "No mention of seismic considerations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Use of Structural Analysis Methods",
+        "description": "Applies appropriate structural models, equations, and analytical techniques.",
+        "performance_descriptors": {
+          "excellent": "Correctly applies dynamic/static models and explains assumptions.",
+          "good": "Uses suitable equations with minor detail gaps.",
+          "average": "Some equation use; lacks clarity or completeness.",
+          "needs_improvement": "Incorrect or minimal analysis applied.",
+          "poor": "No use of structural equations or methods."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Safety Factors and Design Margin",
+        "description": "Explains use of safety factors and code-based margins in design.",
+        "performance_descriptors": {
+          "excellent": "Integrates code-based safety margins with strong rationale.",
+          "good": "Applies safety factors based on standards.",
+          "average": "Mentions safety but lacks full integration.",
+          "needs_improvement": "Unclear or incomplete explanation.",
+          "poor": "No reference to safety or design codes."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Documentation and Communication",
+        "description": "Presents the design using clear drawings, models, and technical reporting.",
+        "performance_descriptors": {
+          "excellent": "Professional diagrams and well-structured technical report included.",
+          "good": "Clear explanation with some visuals.",
+          "average": "Basic explanation with limited visuals or structure.",
+          "needs_improvement": "Weak explanation or disorganized layout.",
+          "poor": "Lacks any meaningful documentation or visuals."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "How are seismic forces calculated for buildings?",
+        "What analysis methods are used for earthquake design?",
+        "What safety factors are applied in seismic zones?",
+        "What building codes govern earthquake-resistant structures?",
+        "How are structural designs documented for approval?"
+      ],
+      "llm_answers": [
+        "Seismic forces are estimated using base shear equations: V = Cs × W.",
+        "Static equivalent and modal response spectrum analyses are commonly used.",
+        "Safety factors include load combinations per AS1170.4 or IBC codes.",
+        "Design follows codes like Eurocode 8, ASCE 7, or AS1170.4.",
+        "Designs include structural drawings, force diagrams, and calculation reports."
+      ]
+      
+    }
+  ]
+}

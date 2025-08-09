@@ -1,0 +1,77 @@
+{
+  "domain": "Engineering",
+  "prompt": "Explain how an aerospace engineer determines the correct trajectory for a communication satellite. Discuss orbital mechanics principles, required calculations, the importance of simplifications/assumptions, and how data is validated and visualized.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0008",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Orbital Mechanics",
+        "description": "Demonstrates knowledge of orbital motion, Kepler’s laws, and circular/elliptical orbits.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains orbital principles with examples (e.g., LEO, GEO).",
+          "good": "Explains main orbital concepts with some application.",
+          "average": "Mentions basic orbital motion without depth.",
+          "needs_improvement": "Unclear or incorrect explanation of orbital motion.",
+          "poor": "Fails to demonstrate understanding of orbital principles."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Trajectory Calculation and Assumptions",
+        "description": "Uses relevant formulas (e.g., velocity, time period) and discusses assumptions.",
+        "performance_descriptors": {
+          "excellent": "Applies formulas with assumptions clearly justified and appropriate for context.",
+          "good": "Correct formulas used with basic assumptions.",
+          "average": "Formulas applied without clear reasoning.",
+          "needs_improvement": "Inaccurate or unclear calculations.",
+          "poor": "No valid calculations or assumptions."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Validation and Visualization",
+        "description": "Explains how results are checked and presents visual output like orbits/graphs.",
+        "performance_descriptors": {
+          "excellent": "Validation through simulation and visuals (e.g., orbital paths).",
+          "good": "Mentions testing or shows visuals without much detail.",
+          "average": "Limited validation or rough visuals included.",
+          "needs_improvement": "Weak explanation or unclear visuals.",
+          "poor": "No attempt to validate or visualize data."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Technical Reporting and Structure",
+        "description": "Organizes content logically and uses formal aerospace language.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, technically accurate with formal tone.",
+          "good": "Mostly structured with appropriate technical terms.",
+          "average": "Moderate structure and technical clarity.",
+          "needs_improvement": "Unclear structure or inconsistent tone.",
+          "poor": "Disorganized or non-technical style."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "What laws govern satellite orbits?",
+        "What formulas are used to compute orbital period and velocity?",
+        "What assumptions are made when calculating trajectories?",
+        "How do engineers validate satellite orbits?",
+        "What tools are used to visualize orbital paths?"
+      ],
+      "llm_answers": [
+        "Kepler’s laws and Newton’s law of gravitation govern satellite motion.",
+        "T = 2π√(r³/GM) for period and v = √(GM/r) for orbital speed.",
+        "Assumptions may include perfect vacuum, spherical Earth, and no perturbations.",
+        "Validation is done via simulation and tracking from Earth stations.",
+        "STK, MATLAB, and Python tools like poliastro are used for visualization."
+      ]
+      
+    }
+  ]
+}

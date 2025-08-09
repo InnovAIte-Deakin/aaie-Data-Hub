@@ -1,0 +1,77 @@
+{
+  "domain": "Engineering",
+  "prompt": "Outline the logical approach a civil engineer would take to plan the construction of a pedestrian bridge over a small river. Discuss site analysis, assumptions, structural design, material selection, calculations for load-bearing capacity, and presentation of the design.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0003",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Site Assessment and Assumptions",
+        "description": "Explains how site conditions are evaluated and the assumptions made for planning.",
+        "performance_descriptors": {
+          "excellent": "Comprehensively explains site factors (e.g., soil, terrain) and justifies assumptions.",
+          "good": "Explains key site conditions and lists assumptions clearly.",
+          "average": "Covers general site conditions with some assumptions.",
+          "needs_improvement": "Mentions site conditions briefly; assumptions vague.",
+          "poor": "Fails to assess the site or state assumptions."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Structural Design and Material Selection",
+        "description": "Describes structural planning with rational material choices for environmental and load needs.",
+        "performance_descriptors": {
+          "excellent": "Detailed and justified design choices with proper materials for use case.",
+          "good": "Sound design with appropriate materials mentioned.",
+          "average": "General design approach with minimal justification.",
+          "needs_improvement": "Design lacks detail or rationale.",
+          "poor": "No meaningful structural plan or material discussion."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Load Calculations and Engineering Analysis",
+        "description": "Uses appropriate methods to estimate bridge loads and capacity.",
+        "performance_descriptors": {
+          "excellent": "Performs relevant calculations with clear method and logic.",
+          "good": "Performs basic calculations with minor gaps.",
+          "average": "Attempts basic load estimation with limited accuracy.",
+          "needs_improvement": "Misapplies or misses key calculations.",
+          "poor": "No engineering analysis or relevant formulas used."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Design Communication and Reporting",
+        "description": "Presents bridge design with diagrams, plan views, or technical notes.",
+        "performance_descriptors": {
+          "excellent": "Well-documented design using visuals, measurements, and technical commentary.",
+          "good": "Diagram and explanation present with minor omissions.",
+          "average": "Some visuals and partial explanation.",
+          "needs_improvement": "Basic description with unclear or missing visuals.",
+          "poor": "No structured communication of the design."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "How do civil engineers assess a site for a pedestrian bridge?",
+        "What materials are best for short-span pedestrian bridges?",
+        "How is load capacity calculated for small bridges?",
+        "What are common structural layouts for pedestrian crossings?",
+        "How should bridge designs be presented for approval?"
+      ],
+      "llm_answers": [
+        "They evaluate soil type, topography, and water levels to understand foundation needs.",
+        "Steel and reinforced concrete are common for durability and strength.",
+        "Loads are calculated using codes (e.g., pedestrian density) and safety factors.",
+        "Beam, truss, or arch designs are common depending on span and support.",
+        "Designs are shown with plan views, cross-sections, and structural notes."
+      ]
+      
+    }
+  ]
+}
