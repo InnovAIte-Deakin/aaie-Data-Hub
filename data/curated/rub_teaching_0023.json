@@ -1,0 +1,243 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyse the role of family engagement in early childhood education and develop a plan for building meaningful educator-family partnerships.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0023",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Family Engagement",
+        "description": "Explains why and how families are central to early childhood learning.",
+        "performance_descriptors": {
+          "excellent": "In-depth analysis of family roles, cultural factors, and relationship-building.",
+          "good": "Clearly describes importance of family engagement.",
+          "average": "General explanation with some omissions.",
+          "needs_improvement": "Limited understanding or clarity.",
+          "poor": "Fails to address the concept."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Plan for Engagement",
+        "description": "Proposes a clear and actionable plan to build strong partnerships.",
+        "performance_descriptors": {
+          "excellent": "Creative, inclusive and well-justified partnership plan.",
+          "good": "Thoughtful plan with practical strategies.",
+          "average": "Basic plan with limited details.",
+          "needs_improvement": "Plan is vague or impractical.",
+          "poor": "No plan proposed."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Cultural Responsiveness",
+        "description": "Addresses diverse family needs, languages, and values.",
+        "performance_descriptors": {
+          "excellent": "Plan reflects deep cultural awareness and responsiveness.",
+          "good": "Cultural considerations addressed appropriately.",
+          "average": "Some attempt to consider diversity.",
+          "needs_improvement": "Limited attention to cultural needs.",
+          "poor": "No consideration of cultural diversity."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Research and Policy Integration",
+        "description": "Supports ideas using theory, literature, or national guidelines (e.g., EYLF).",
+        "performance_descriptors": {
+          "excellent": "High-level integration of theory, policy and evidence.",
+          "good": "Relevant evidence supports most claims.",
+          "average": "Some source use; may be underdeveloped.",
+          "needs_improvement": "Minimal or unclear research support.",
+          "poor": "No academic support provided."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents ideas in a logical, cohesive structure using formal academic language and correct grammar.",
+        "performance_descriptors": {
+          "excellent": "Clear, well-structured essay with strong academic tone, fluent transitions, and no grammar or spelling errors.",
+          "good": "Essay is logically structured with few minor grammar or spelling issues.",
+          "average": "Structure is generally clear but with occasional awkward sentences or grammar issues.",
+          "needs_improvement": "Disorganised structure or inconsistent academic tone; frequent grammar problems.",
+          "poor": "Poor structure and style; major grammar or spelling issues throughout."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Analyse family engagement through cultural, relational, and developmental lenses.",
+        "Map family roles across diverse contexts and their impact on child learning.",
+        "Present an inclusive, co-designed partnership plan with strong rationale.",
+        "Embed cultural responsiveness in strategies, considering language, values, and access.",
+        "Integrate EYLF principles, current research, and theory to justify all components.",
+        "Maintain fluent structure using formal language and cohesive argumentation."
+      ],
+      "llm_questions": [
+        "How do different cultural understandings of family affect a child's learning experience in early childhood settings?",
+        "What role do trust and relational ethics play in sustaining educator-family partnerships?",
+        "How can co-designed partnership strategies empower families and educators in early learning?",
+        "What inclusive methods ensure meaningful participation of linguistically and culturally diverse families?",
+        "How does the EYLF articulate the role of families in supporting children's learning and development?",
+        "What recent research supports the long-term benefits of strong educator-family collaboration in early years?",
+        "How can engagement strategies reflect deep awareness of cultural values, languages, and parenting practices?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Describe the importance of family engagement in child development and learning.",
+        "Provide practical strategies for involving families in early learning settings.",
+        "Reference relevant diversity considerations (e.g., home languages, family structures).",
+        "Support claims using common policy references or educator-facing research.",
+        "Organise essay clearly with mostly formal tone and minor grammar inconsistencies."
+      ],
+      "llm_questions": [
+        "Why is consistent communication between educators and families essential for child development?",
+        "In what ways can family engagement support children's emotional and cognitive growth?",
+        "What practical strategies can educators use to initiate positive communication with families?",
+        "How can educators accommodate different family structures when planning engagement activities?",
+        "What policies (such as the EYLF or ACECQA guidelines) inform best practices for family engagement?",
+        "What are some examples of evidence-based strategies for building strong educator-family partnerships?",
+        "How can educators adapt engagement strategies for families who speak languages other than English?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention that family involvement benefits learning without deeper analysis.",
+        "Offer general engagement ideas without detailed execution or examples.",
+        "Show some awareness of cultural diversity but may lack specificity.",
+        "Attempt to cite policies or research with limited integration.",
+        "Follow a basic essay structure but inconsistently use academic conventions."
+      ],
+      "llm_questions": [
+        "What are some basic benefits of involving families in early childhood education?",
+        "How might family involvement affect a child's behaviour and learning outcomes?",
+        "What are simple ways educators can share updates about a child's progress with families?",
+        "How can early learning centres invite families to participate in classroom or centre activities?",
+        "What are some general guidelines from national or state policy that support family involvement?",
+        "What is one theory (e.g., Bronfenbrenner's ecological systems theory) that helps explain the importance of families in early learning?",
+        "How can educators show general respect for family diversity even without deep cultural knowledge?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "State that families are important without explaining how or why.",
+        "Suggest basic or unclear engagement ideas with limited strategic thinking.",
+        "Minimal reference to cultural or linguistic needs in planning.",
+        "Little use of evidence or unclear source references.",
+        "Disorganised writing with informal tone and frequent grammatical errors."
+      ],
+      "llm_questions": [
+        "Why are families considered important in early childhood education?",
+        "What is one example of how a family might influence a child's learning?",
+        "What are some challenges educators face when trying to involve families in early learning?",
+        "What might a basic family involvement idea look like, such as parent-teacher meetings?",
+        "Are there any national frameworks or documents that mention working with families?",
+        "Why is it important to use some form of evidence when making a plan?",
+        "What are some simple signs that a plan is not inclusive of different family backgrounds?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Vaguely mention families without linking to educational outcomes.",
+        "Provide no structured plan for educator-family partnerships.",
+        "Ignore cultural factors and diversity in engagement strategies.",
+        "Lack support from research, theory, or educational guidelines.",
+        "Poorly structured writing with major issues in grammar and academic tone."
+      ],
+      "llm_questions": [
+        "What is family engagement?",
+        "Should families be involved in early childhood education, and why?",
+        "What happens when family engagement strategies ignore cultural differences?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

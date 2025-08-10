@@ -1,0 +1,245 @@
+{
+  "domain": "Teaching",
+  "prompt": "Compare different developmental theories (Piaget, Vygotsky, Montessori) and evaluate their practical applications in early childhood programs.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0018",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Comparative Understanding of Developmental Theories",
+        "description": "Demonstrates conceptual understanding of Piaget, Vygotsky, and Montessor developmental theories and compares their perspectives.",
+        "performance_descriptors": {
+          "excellent": "Shows deep, nuanced understanding of all three theories; clearly articulates similarities and differences with insightful comparisons.",
+          "good": "Explains all three theories clearly and presents relevant comparisons.",
+          "average": "Explains most of the theories with basic comparisons; some inaccuracies or missing elements.",
+          "needs_improvement": "Explains some theories superficially; comparisons are vague or missing.",
+          "poor": "Fails to explain the theories accurately or make meaningful comparisons."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation of Practical Applications",
+        "description": "Analyzes how each theory informs practical strategies and environments in early childhood education programs.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful evaluation of how each theory informs early learning environments, curriculum design, and educator roles, with strong real-world examples.",
+          "good": "Evaluates each theory application in early childhood settings with appropriate examples.",
+          "average": "Describes applications with limited detail or examples.",
+          "needs_improvement": "Mentions applications without clear explanation or links to practice.",
+          "poor": "No meaningful evaluation of practical applications provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Integration and Use of Scholarly Sources",
+        "description": "Supports arguments with credible academic sources and integrates them effectively.",
+        "performance_descriptors": {
+          "excellent": "Extensive and appropriate use of academic sources that are critically integrated and properly referenced.",
+          "good": "Uses several relevant scholarly sources, mostly well integrated and cited.",
+          "average": "Includes some scholarly sources with basic integration or referencing errors.",
+          "needs_improvement": "Few sources used, with weak relevance or poor referencing.",
+          "poor": "No credible sources used or sources missing entirely."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Thinking and Reflection",
+        "description": "Demonstrates ability to reflect critically on the relevance of each theory to contemporary educational contexts.",
+        "performance_descriptors": {
+          "excellent": "Provides thoughtful critical insights and reflections, including implications, limitations, and personal evaluation of each theory relevance.",
+          "good": "Reflects on the relevance of theories with some critical perspective.",
+          "average": "Includes general reflections with minimal depth or insight.",
+          "needs_improvement": "Limited or unclear reflections; lacks connection to practice.",
+          "poor": "No critical thinking or reflection present."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents information in a structured, coherent, and academically appropriate manner.",
+        "performance_descriptors": {
+          "excellent": "Essay is logically structured with clear introduction, body, and conclusion; writing is fluent, free of errors, and consistently academic.",
+          "good": "Structure is mostly clear; writing is mostly fluent with minor grammar or tone issues.",
+          "average": "Basic structure is evident; writing has inconsistencies or several grammar errors.",
+          "needs_improvement": "Weak structure and frequent grammar or clarity issues.",
+          "poor": "Disorganised structure, informal tone, and major grammar and spelling problems."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Compare Piaget cognitive stages with Vygotsky social constructivism and Montessori experiential learning, noting key distinctions and overlaps.",
+        "Discuss curriculum, classroom environment, and educator role implications for each theory, using strong real-world examples.",
+        "Cite and integrate multiple academic sources to support conceptual analysis and practical application.",
+        "Include critical reflections on the relevance, limitations, and current adaptations of each theory in today's early education.",
+        "Use a formal academic structure with clear transitions across comparative analysis, evaluation, and reflection."
+      ],
+      "llm_questions": [
+        "How do Piaget's stages of cognitive development compare to Vygotsky's theory of social constructivism in terms of how children learn?",
+        "In what ways does Montessori's experiential learning approach align with or differ from the structured developmental stages of Piaget and the sociocultural emphasis of Vygotsky?",
+        "How can Piaget's theory be applied to design early learning curricula that match cognitive readiness?",
+        "What practical strategies from Vygotsky's theory (e.g., scaffolding, ZPD) are used in today's early childhood education programs?",
+        "What are the limitations of each theory when applied in multicultural or inclusive early learning environments?",
+        "How can elements from all three theories be integrated to create a more holistic approach to early childhood education?",
+        "What are the most recent peer-reviewed critiques or validations of Piaget, Vygotsky, or Montessori's relevance in modern ECE settings?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Clearly outline each developmental theory with relevant comparisons that highlight differences in learning approach.",
+        "Explain how the theories translate into classroom strategies with at least one example per theory.",
+        "Reference several scholarly sources to support claims; integration is generally smooth.",
+        "Reflect on how each theory applies to current early learning programs with some critical insight.",
+        "Maintain overall coherent structure with mostly formal academic writing and minor style inconsistencies."
+      ],
+      "llm_questions": [
+        "What are the main learning principles behind Piaget, Vygotsky, and Montessori's theories?",
+        "How do their views on the role of the teacher and the child differ?",
+        "How does Montessori's method influence classroom environments, such as learning materials and child independence?",
+        "How does Vygotsky's concept of social interaction inform group learning in early childhood classrooms?",
+        "How relevant are these theories in supporting 21st-century learning goals such as collaboration and problem-solving?",
+        "In what ways might an educator's personal teaching philosophy affect their use of one theory over another?",
+        "Which educational journals provide accessible reviews of developmental theories used in ECE teacher training?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Describe basic elements of the three theories, with limited comparison and occasional inaccuracies.",
+        "Mention general applications of the theories but without detailed context or specific examples.",
+        "Include some academic sources, though citation may be inconsistent or minimally discussed.",
+        "Offer broad reflection on theory relevance with minimal depth or connection to real practice.",
+        "Follow basic essay structure with some flow, though writing may be inconsistent or error-prone."
+      ],
+      "llm_questions": [
+        "What is a brief description of each theory's core idea (Piaget, Vygotsky, Montessori)?",
+        "Which theory emphasises hands-on learning, and how is that different from the others?",
+        "Can you name one way Piaget's theory influences how teachers group children in activities?",
+        "What is one example of how Montessori classrooms look different from traditional classrooms?",
+        "Are these theories still used today in early learning centres?",
+        "Why might a teacher prefer one theory over another when planning activities?",
+        "List some articles or books that explain developmental theories."
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Provide superficial explanation of developmental theories with vague or missing comparisons.",
+        "Briefly mention applications in early childhood settings without supporting detail.",
+        "Include few or weak scholarly sources; limited effort to integrate or cite properly.",
+        "Show minimal critical thinking; reflections are general and lack relevance to current practice.",
+        "Structure and tone are uneven, with frequent grammar issues and unclear organization."
+      ],
+      "llm_questions": [
+        "What is something Piaget said about how kids learn?",
+        "What is Vygotsky's idea of 'learning from others'?",
+        "What does a Montessori classroom have that helps children learn by doing?",
+        "What is one way teachers might use Vygotsky's theory?",
+        "Do old theories like Piaget's still matter in today's classrooms?",
+        "Why is it useful to think about theories when planning activities for young children?",
+        "Find some articles or books that talks about one of the theories in early childhood education."
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Struggle to explain the core ideas of Piaget, Vygotsky, and Montessori or how they differ.",
+        "Do not demonstrate practical relevance to early childhood education; unclear or unrelated content.",
+        "No scholarly sources or citations provided to support claims.",
+        "Lack of reflection or evaluation on how theories apply to today classroom realities.",
+        "Disorganised writing with informal tone, major grammatical issues, and no clear structure."
+      ],
+      "llm_questions": [
+        "What does Piaget's theory talk about?",
+        "Who is Montessori and what did she know for?",
+        "What does teacher do to help children learn?",
+        "Do all kids learn the same way?",
+        "Are learning theories needed in real life?",
+        "Which theory should teachers follow? Are there any sources to support it?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}
