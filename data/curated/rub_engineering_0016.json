@@ -1,0 +1,88 @@
+{
+    "domain": "Civil Engineering",
+    "prompt": "A section of a road is damaged. Explain how a civil engineer would assess the damage, plan the repair, and ensure long-term durability of the fix, considering weather and usage.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0016",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Project Comprehensiveness",
+                "description": "Explains all key phases of a road repair project, from assessment to long-term durability.",
+                "performance_descriptors": {
+                    "excellent": "Provides an exceptionally comprehensive and meticulously detailed explanation of damage assessment, repair planning, and long-term durability strategies, with an astute consideration of weather and usage impacts from a civil engineering perspective.",
+                    "good": "Describes most crucial steps in damage assessment, repair planning, and ensuring durability, capably considering weather and usage, though some specific details might be less exhaustive.",
+                    "average": "Addresses most aspects but with limited detail; some key phases of damage assessment, planning, or durability may be omitted.",
+                    "needs_improvement": "Addresses some aspects of road repair, but with significant omissions in covering thorough damage assessment, comprehensive planning, or long-term durability, especially regarding environmental factors.",
+                    "poor": "Presents a vague or incomplete description, marked by significant oversights in fundamental road repair processes."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Engineering Concepts",
+                "description": "Demonstrates accurate understanding of civil engineering principles in road repair.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of civil engineering principles, accurately identifying nuanced damage types (e.g., fatigue cracking, subgrade failure), proposing highly appropriate and innovative repair methodologies, and applying advanced durability concepts (e.g., optimized drainage, material science, preventative maintenance).",
+                    "good": "Applies civil engineering principles to road repair with strong accuracy, covering assessment, planning, and durability; any minor technical inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of civil engineering principles, but with some inaccuracies regarding damage assessment, repair techniques, or long-term considerations.",
+                    "needs_improvement": "Exhibits limited understanding of civil engineering principles in road repair; several inaccuracies are prominent regarding damage assessment, repair techniques, or long-term considerations.",
+                    "poor": "Reveals minimal to no understanding of civil engineering principles for road repair; replete with inaccuracies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Structure & Cohesion",
+                "description": "Presents a clear and logical explanation of the repair process.",
+                "performance_descriptors": {
+                    "excellent": "Presents a logical, step-by-step narrative that is exceptionally clear and seamlessly guides the reader through the road repair process, from initial assessment to ensuring enduring performance.",
+                    "good": "Presents a generally clear and structured explanation of road repair. Steps and considerations are mostly coherent, though some transitions could be smoother for optimal clarity.",
+                    "average": "The explanation has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The explanation lacks clear structure and coherence, making it challenging to follow the proposed repair process or its underlying rationale.",
+                    "poor": "The response is disjointed, confusing, and largely incomprehensible."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Analytical Depth",
+                "description": "Provides detailed reasoning for repair methods and durability strategies.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations, including specific examples of advanced assessment tools, meticulously detailed repair methodologies, and robust strategies for ensuring durability against specific weather phenomena and traffic load variations.",
+                    "good": "Provides good explanations with sufficient detail regarding damage assessment, repair planning, and methods for ensuring long-term durability, including practical weather and usage considerations.",
+                    "average": "Supplies basic explanations with some detail, but lacking specific examples of assessment, detailed repair steps, or strong justifications for durability measures.",
+                    "needs_improvement": "Supplies basic explanations with minimal detail; lacking specific examples of assessment, detailed repair steps, or strong justifications for durability measures.",
+                    "poor": "Offers superficial or generalized explanations, devoid of substantial detail regarding assessment, repair, or long-term durability."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Expression & Technical Language",
+                "description": "Writing is clear, professional, and uses correct technical terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and highly precise language is employed with exceptional effectiveness to convey technical concepts.",
+                    "good": "Writing is clear with very few grammatical or spelling errors; minor mechanical issues do not impede understanding. Technical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding. Technical terminology is somewhat accurate.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity. Technical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Technical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Outlines the damage assessment process, from initial visual inspection to more advanced subgrade analysis.",
+                "Explains the selection of appropriate repair methods based on damage type (e.g., patching for potholes, milling and resurfacing for widespread cracking).",
+                "Details how the repair plan accounts for long-term durability, focusing on proper material selection and compaction.",
+                "Analyzes the impact of weather (e.g., freeze-thaw cycles) and traffic usage on the road's longevity and how to mitigate it.",
+                "Emphasizes the critical role of proper drainage in preventing future damage."
+            ],
+            "llm_questions": [
+                "What is the difference between fatigue cracking and thermal cracking in asphalt pavements?",
+                "What are the key factors a civil engineer considers when selecting an asphalt mix for a repair project?",
+                "How does proper drainage prevent road damage?",
+                "What are some modern technologies or materials used to improve the longevity of road repairs?",
+                "Provide a sample repair plan for a road with a large pothole, including the sequence of steps."
+            ]
+        }
+    ]
+}

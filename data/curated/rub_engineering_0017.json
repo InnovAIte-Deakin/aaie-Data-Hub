@@ -1,0 +1,88 @@
+{
+    "domain": "Computer Engineering",
+    "prompt": "Describe how a computer engineer would design a simple smart home system to control lights and appliances. Include sensors, communication methods (like Wi-Fi), and user interface ideas.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0017",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "System Design & Completeness",
+                "description": "Presents a comprehensive and integrated design for a simple smart home system.",
+                "performance_descriptors": {
+                    "excellent": "Presents an exceptionally comprehensive and meticulously detailed design for a simple smart home system, demonstrating a holistic integration of advanced sensor types, diverse and optimized communication methods (beyond just Wi-Fi), and innovative, highly intuitive user interface concepts.",
+                    "good": "Provides a strong design for a simple smart home system, capably addressing sensors, communication methods (e.g., Wi-Fi), and user interface ideas, though some elements may lack ultimate depth.",
+                    "average": "Presents a rudimentary design with some details, but overlooks crucial aspects of sensor selection, appropriate communication methods, or practical user interface considerations.",
+                    "needs_improvement": "Offers a rudimentary design that overlooks crucial aspects of sensor selection, appropriate communication methods, or practical user interface considerations.",
+                    "poor": "Provides an abstract or incomplete design, missing critical components or fundamental principles, indicative of a tenuous grasp of smart home system design."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Technical Precision",
+                "description": "Demonstrates accurate understanding of sensors, communication protocols, and control logic.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of computer engineering principles, accurately selecting and justifying appropriate sensors (e.g., advanced PIR, ambient light sensors), detailing robust communication protocols (e.g., MQTT, Zigbee, alongside Wi-Fi), and designing sophisticated data flow and control logic.",
+                    "good": "Applies computer engineering principles to smart home design with strong accuracy, encompassing sensors, common communication methods (e.g., Wi-Fi), and user interface; any minor inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of computer engineering principles for smart homes, but with some inaccuracies regarding sensor types, communication methods, or user interface design.",
+                    "needs_improvement": "Exhibits limited understanding of computer engineering principles for smart homes; several inaccuracies are prominent regarding sensor types, communication methods, or user interface design.",
+                    "poor": "Reveals minimal to no understanding of computer engineering principles for smart home systems; replete with errors."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Organization & Readability",
+                "description": "Presents a clear and logical explanation of the system architecture.",
+                "performance_descriptors": {
+                    "excellent": "The design explanation is exceptionally well-structured, logical, and easy to follow, clearly delineating the system architecture and intricate component interactions.",
+                    "good": "The design explanation is generally clear and organized, with system elements and concepts presented coherently.",
+                    "average": "The design description has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The design description lacks coherent structure, making it arduous to follow the proposed system and its constituent parts.",
+                    "poor": "The response is chaotic and inscrutable, rendering the proposed smart home design impossible to decipher."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Depth of Innovation",
+                "description": "Provides insightful and specific ideas for sensors, communication, and user interface.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations with specific examples of sensor rationale, detailed comparisons and justifications for communication method choices, and innovative, user-centric ideas for the interface with concrete examples of interactions and features.",
+                    "good": "Furnishes good explanations with sufficient detail concerning sensor types, communication methods (like Wi-Fi), and user interface ideas.",
+                    "average": "Supplies some explanations with limited detail; lacking specific justification for sensor or communication choices, or concrete ideas for the user interface.",
+                    "needs_improvement": "Supplies cursory explanations with scant detail; lacking specific justification for sensor or communication choices, or concrete ideas for the user interface.",
+                    "poor": "Supplies superficial or generalized descriptions with a complete absence of design-related specifics or functional insights."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Clarity of Expression",
+                "description": "Writing is clear, professional, and uses correct technical terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, devoid of grammatical errors, spelling mistakes, or punctuation issues. It employs precise and professional language with great effect to convey complex technical concepts.",
+                    "good": "The writing is clear with very few grammatical or spelling errors; minor mechanical oversights do not impede understanding. Technical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding. Technical terminology is somewhat accurate.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally detracting from clarity. Technical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Technical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Describes a clear system architecture including sensors (inputs), a central controller, and actuators (outputs).",
+                "Explains the selection of specific sensors (e.g., motion, light, temperature) and how they enable automation.",
+                "Details communication methods, explaining the advantages of Wi-Fi for its ubiquity and mentioning the value of alternatives like Zigbee or Bluetooth for efficiency.",
+                "Proposes and explains user interface ideas, from a user-friendly mobile app to voice control and physical buttons.",
+                "Discusses the control logic and how the system processes sensor data to make automated decisions."
+            ],
+            "llm_questions": [
+                "What are the pros and cons of using Wi-Fi versus Zigbee for a smart home system?",
+                "Can you explain the concept of a 'hub' or 'gateway' in a smart home network?",
+                "What are some fundamental programming concepts needed to create the control logic for a smart home system?",
+                "Provide some ideas for a user-friendly mobile app interface for controlling lights and appliances?",
+                "How do motion sensors and light sensors work together to automate a lighting system?"
+            ]
+        }
+    ]
+}
