@@ -1,0 +1,88 @@
+{
+    "domain": "Biomedical Engineering",
+    "prompt": "Describe how a biomedical engineer would approach designing a simple assistive device (e.g., a low-cost walking aid). Consider the user’s needs, materials, and testing for usability.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0020",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Design Process Comprehensiveness",
+                "description": "Explains all key phases of the assistive device design process.",
+                "performance_descriptors": {
+                    "excellent": "Presents an exceptionally comprehensive and meticulously detailed design approach for an assistive device, thoroughly integrating in-depth user needs assessment, optimal and justified material selection, and rigorous, multi-faceted usability testing methodologies.",
+                    "good": "Describes most crucial steps in designing an assistive device, including user needs, materials, and testing for usability, though some specific details might be less exhaustive.",
+                    "average": "Addresses most facets but with limited detail; some key aspects of user needs, materials, or testing may be omitted.",
+                    "needs_improvement": "Addresses some facets of assistive device design, but with considerable gaps in covering user needs, material considerations, or comprehensive usability testing.",
+                    "poor": "Presents a vague or fragmented description, marked by significant oversights in fundamental assistive device design."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Biomedical Engineering Acuity",
+                "description": "Demonstrates a strong understanding of biomedical principles and their application.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of biomedical engineering principles, accurately identifying and meticulously analyzing specific user needs (e.g., detailed biomechanics, advanced ergonomics), rigorously justifying material selection based on properties, biocompatibility, and manufacturing feasibility, and detailing robust, valid usability testing protocols.",
+                    "good": "Applies biomedical engineering principles to assistive device design with strong accuracy, encompassing user needs, materials, and testing; any minor technical inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of biomedical principles; some inaccuracies are apparent regarding user assessment, material properties, or testing methods.",
+                    "needs_improvement": "Exhibits limited understanding of biomedical engineering principles; several inaccuracies are prominent regarding user assessment, material properties, or testing methods.",
+                    "poor": "Reveals minimal to no understanding of biomedical engineering principles for assistive device design; replete with inaccuracies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Logical Organization",
+                "description": "Presents a clear and logical explanation of the design process.",
+                "performance_descriptors": {
+                    "excellent": "The design approach is exceptionally well-structured, logical, and easy to follow, clearly delineating the entire development process from initial conceptualization to final validation.",
+                    "good": "The design approach is generally clear and organized, with various aspects of device development presented coherently.",
+                    "average": "The design approach has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The design approach lacks coherent structure, making it arduous to follow the proposed process or its underlying rationale.",
+                    "poor": "The response is disjointed, confusing, and largely incomprehensible."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Depth of Evaluation",
+                "description": "Provides detailed reasoning and specific examples for design choices.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations with specific examples of how iterative user feedback refines design, meticulously detailed justifications for material choices (considering strength, weight, cost, and patient interaction), and comprehensive descriptions of testing phases and quantifiable metrics.",
+                    "good": "Provides good explanations with sufficient detail regarding understanding user needs, selecting appropriate materials, and conducting usability testing.",
+                    "average": "Supplies cursory explanations with some detail, but lacks specific examples or strong justifications for design choices.",
+                    "needs_improvement": "Supplies cursory explanations with scant detail; lacking specific examples of user needs assessment, strong material justifications, or concrete testing procedures.",
+                    "poor": "Offers superficial or generalized explanations, devoid of substantial detail regarding the design process."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Professional Communication",
+                "description": "Writing is clear, professional, and uses correct technical terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and highly precise language is employed with exceptional effectiveness to convey complex medical and engineering concepts.",
+                    "good": "Writing is clear with very few grammatical or spelling errors; minor mechanical oversights do not impede understanding. Technical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity. Technical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Technical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Emphasizes a user-centric design approach, starting with a detailed needs assessment of the target user population.",
+                "Justifies material choices based on a careful balance of properties such as strength, weight, durability, and cost for a low-cost device.",
+                "Describes the basic design and explains the biomechanical principles that make the device stable and functional.",
+                "Details a comprehensive usability testing process, including prototyping, gathering user feedback, and using iterative design cycles.",
+                "Discusses regulatory and ethical considerations, highlighting the importance of safety and reliability in medical device design."
+            ],
+            "llm_questions": [
+                "What are some key ergonomic principles that are essential for designing a walking aid?",
+                "What are the pros and cons of using aluminum versus a carbon fiber composite for a walking aid?",
+                "How is user feedback collected and integrated into the design process for a medical device?",
+                "Can you explain the difference between static and dynamic stability in the context of a walking aid?",
+                "What are the fundamental ethical considerations a biomedical engineer must keep in mind during the design process?"
+            ]
+        }
+    ]
+}
