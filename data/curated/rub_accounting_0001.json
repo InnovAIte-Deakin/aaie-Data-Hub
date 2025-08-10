@@ -1,0 +1,83 @@
+{
+"domain": "Accounting",
+"prompt": "Analyze the impact of blockchain technology on traditional accounting practices, including auditing and financial reporting.",
+"rubric": {
+    "rubric_id": "rub_accounting_0001",
+    "criteria": [
+    {
+        "criterion_id": "c1",
+        "name": "Understanding of Blockchain Concepts",
+        "description": "Demonstrates knowledge of blockchain principles (decentralization, immutability, smart contracts) and their relevance to accounting.",
+        "performance_descriptors": {
+        "excellent": "Clearly explains multiple blockchain concepts and maps each to relevant accounting applications.",
+        "good": "Accurately describes 1–2 blockchain concepts and gives examples.",
+        "average": "Mentions blockchain concepts but with limited detail.",
+        "needs_improvement": "Basic or unclear understanding of concepts.",
+        "poor": "Fails to explain blockchain accurately."
+        }
+    },
+    {
+        "criterion_id": "c2",
+        "name": "Analysis of Accounting Impact",
+        "description": "Evaluates how blockchain technology affects auditing, financial reporting, and data integrity.",
+        "performance_descriptors": {
+        "excellent": "Insightfully discusses enhanced transparency, automation, audit trails, and associated challenges.",
+        "good": "Explains basic benefits like improved data accuracy or reduced reconciliation.",
+        "average": "Makes general claims without detailed analysis.",
+        "needs_improvement": "Mentions impact with minimal support.",
+        "poor": "No clear link to accounting outcomes."
+        }
+    },
+    {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples/Case Studies",
+        "description": "Incorporates actual or realistic examples of blockchain application in accounting or finance.",
+        "performance_descriptors": {
+        "excellent": "Provides multiple well-explained examples with relevance.",
+        "good": "Provides at least one relevant example.",
+        "average": "Mentions example(s) with little context.",
+        "needs_improvement": "Example(s) are vague or unrelated.",
+        "poor": "No examples given."
+        }
+    },
+    {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+        "excellent": "Highly coherent essay with formal tone and logical flow.",
+        "good": "Mostly well-structured with clear transitions.",
+        "average": "Some structure; style inconsistently academic.",
+        "needs_improvement": "Unclear flow or casual language.",
+        "poor": "Disorganised or informal."
+        }
+    }
+    ]
+},
+"submissions": [
+    {
+    "quality": "Excellent",
+    "final_submission": "Blockchain technology, with its inherent decentralization and immutability, is poised to fundamentally reshape traditional accounting practices. Smart contracts, integral to blockchain, enable automated and self-executing transactions, significantly reducing the need for intermediaries and improving the efficiency and accuracy of record-keeping. For auditing, the immutable and transparent nature of blockchain records provides enhanced audit trails, simplifying verification processes and bolstering fraud detection capabilities. This distributed ledger technology also holds the potential for real-time financial reporting, offering unprecedented transparency and timeliness. While the transition presents challenges such as navigating evolving regulatory landscapes, addressing scalability concerns, and integrating with existing legacy accounting systems, the long-term benefits in terms of data integrity, automation, and trust are substantial. Companies like Ernst & Young are already exploring blockchain solutions for audit processes, demonstrating its practical application in enhancing financial assurance.",
+    "feedback": {
+        "c1": "Demonstrates excellent understanding of blockchain concepts (decentralization, immutability, smart contracts) and clearly maps them to relevant accounting applications.",
+        "c2": "Provides insightful and detailed analysis of how blockchain impacts auditing (enhanced audit trails, fraud detection) and financial reporting (real-time reporting), including associated challenges.",
+        "c3": "Incorporates a relevant example of a company (Ernst & Young) exploring blockchain for audit processes, demonstrating real-world application.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+    },
+    "key_points": [
+        "Decentralization and immutability of blockchain records.",
+        "Smart contracts for automated transactions and reconciliation.",
+        "Impact on audit trails, transparency, and fraud detection.",
+        "Potential for real-time financial reporting.",
+        "Challenges: regulatory hurdles, scalability, integration with legacy systems."
+        ],
+    "llm_questions": [
+        "What is the core principle of blockchain that makes it relevant for accounting?",
+        "How do smart contracts automate accounting processes?",
+        "Can you give an example of a company or industry exploring blockchain for auditing?",
+        "What are the benefits of immutability in financial records for auditors?",
+        "What are the main challenges for accountants in adopting blockchain technology?"
+    ]
+    }
+]
+}

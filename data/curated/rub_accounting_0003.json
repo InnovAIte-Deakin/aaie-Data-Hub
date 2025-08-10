@@ -1,0 +1,83 @@
+{
+"domain": "Accounting",
+"prompt": "Evaluate the role of forensic accounting in detecting and preventing financial fraud in digital environments.",
+"rubric": {
+    "rubric_id": "rub_accounting_0003",
+    "criteria": [
+    {
+        "criterion_id": "c1",
+        "name": "Understanding of Forensic Accounting",
+        "description": "Demonstrates knowledge of forensic accounting principles, techniques, and its application in fraud investigation.",
+        "performance_descriptors": {
+        "excellent": "Clearly explains forensic accounting principles and their application in digital fraud.",
+        "good": "Accurately describes 1–2 forensic accounting techniques.",
+        "average": "Mentions forensic accounting with limited detail.",
+        "needs_improvement": "Basic or unclear understanding of concepts.",
+        "poor": "Fails to explain forensic accounting accurately."
+        }
+    },
+    {
+        "criterion_id": "c2",
+        "name": "Analysis of Digital Fraud",
+        "description": "Evaluates various types of digital financial fraud and how forensic accounting addresses them.",
+        "performance_descriptors": {
+        "excellent": "Insightfully discusses cyber fraud schemes, data analytics for detection, and preventative measures.",
+        "good": "Explains basic types of digital fraud and their impact.",
+        "average": "Makes general claims about fraud without detailed analysis.",
+        "needs_improvement": "Mentions fraud with minimal support.",
+        "poor": "No clear link to digital fraud."
+        }
+    },
+    {
+        "criterion_id": "c3",
+        "name": "Use of Case Studies/Examples",
+        "description": "Incorporates actual or realistic case studies of digital financial fraud investigated by forensic accountants.",
+        "performance_descriptors": {
+        "excellent": "Provides multiple well-explained case studies with relevance.",
+        "good": "Provides at least one relevant case study.",
+        "average": "Mentions case study(s) with little context.",
+        "needs_improvement": "Case study(s) are vague or unrelated.",
+        "poor": "No examples given."
+        }
+    },
+    {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+        "excellent": "Highly coherent essay with formal tone and logical flow.",
+        "good": "Mostly well-structured with clear transitions.",
+        "average": "Some structure; style inconsistently academic.",
+        "needs_improvement": "Unclear flow or casual language.",
+        "poor": "Disorganised or informal."
+        }
+    }
+    ]
+},
+"submissions": [
+    {
+    "quality": "Excellent",
+    "final_submission": "Forensic accounting plays an increasingly critical role in the detection and prevention of financial fraud within complex digital environments. With the rise of cybercrime, cryptocurrency fraud, and sophisticated phishing schemes, forensic accountants leverage specialized techniques such as advanced data analytics and digital forensics to trace illicit transactions and uncover fraudulent patterns. Their expertise is crucial in the investigation phase, meticulously collecting and preserving digital evidence, and often extending to providing expert witness testimony in legal proceedings. Beyond reactive measures, forensic accountants also contribute significantly to fraud prevention by advising organizations on robust internal controls, cybersecurity protocols, and continuous monitoring systems tailored to digital risks. Despite challenges like the anonymity afforded by some digital currencies and complexities of cross-border jurisdictions, their ability to navigate complex digital footprints makes them indispensable in safeguarding financial integrity in the modern era.",
+    "feedback": {
+        "c1": "Demonstrates excellent understanding of forensic accounting principles and techniques, clearly linking them to the challenges of digital fraud.",
+        "c2": "Provides insightful and detailed analysis of various digital fraud types and how forensic accounting effectively addresses them through both detection and prevention strategies.",
+        "c3": "The submission includes strong, implicit examples of digital fraud types and forensic techniques, demonstrating a practical understanding of real-world scenarios in digital fraud investigations.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+    },
+    "key_points": [
+        "Types of digital fraud (e.g., cybercrime, cryptocurrency fraud, phishing).",
+        "Techniques used by forensic accountants (e.g., data analytics, digital forensics).",
+        "Role in investigation, evidence collection, and expert witness testimony.",
+        "Proactive measures for fraud prevention in digital environments.",
+        "Challenges: anonymity, cross-border jurisdiction, evolving fraud schemes."
+    ],
+    "llm_questions": [
+        "What specific skills does a forensic accountant need to investigate digital fraud?",
+        "How can data analytics assist in detecting anomalies indicative of fraud?",
+        "Can you describe a real-world example of a company experiencing digital fraud and the forensic accounting response?",
+        "What are the main differences between traditional fraud investigation and digital fraud investigation?",
+        "What preventative measures can forensic accountants recommend to businesses to reduce digital fraud risks?"
+    ]
+    }
+]
+}

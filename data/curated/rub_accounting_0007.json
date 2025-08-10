@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Analyse the accounting and auditing implications of cryptocurrencies and digital assets for businesses.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0007",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Cryptocurrencies/Digital Assets",
+        "description": "Demonstrates knowledge of cryptocurrencies, NFTs, and other digital assets, including their underlying technology.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains different types of digital assets and their technological basis.",
+          "good": "Accurately describes 1–2 types of digital assets.",
+          "average": "Mentions digital assets but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain digital assets accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Accounting/Auditing Implications",
+        "description": "Evaluates the challenges in recognition, measurement, disclosure, and auditing of digital assets.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses valuation complexities, regulatory uncertainty, internal control considerations, and audit procedures.",
+          "good": "Explains basic challenges like volatility or custody.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to accounting or auditing outcomes."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Relevant Standards/Guidance",
+        "description": "Incorporates references to existing or emerging accounting standards and auditing guidance for digital assets.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple relevant references to standards/guidance.",
+          "good": "Provides at least one relevant reference.",
+          "average": "Mentions standard(s) with little context.",
+          "needs_improvement": "References are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "The emergence of cryptocurrencies like Bitcoin and Ethereum, alongside other digital assets such as NFTs, presents unique and complex accounting and auditing implications for businesses. From an accounting perspective, challenges arise in their classification on the balance sheet—whether as inventory, intangible assets, or investments—and subsequent recognition, measurement, and impairment. The extreme volatility of these assets complicates their fair value measurement for financial reporting. Auditing digital assets introduces significant hurdles related to verifying their existence and ownership, ensuring the completeness of transactions, and assessing the effectiveness of internal controls over private keys and digital wallets. The evolving regulatory landscape and the lack of comprehensive, globally consistent accounting standards (though bodies like FASB and IASB are actively discussing guidance) further compound these complexities. Additionally, businesses must navigate intricate tax implications, including capital gains and income tax treatments. The inherent nature of blockchain technology, while offering transparency for individual transactions, necessitates specialized audit procedures and expertise to address these novel risks and ensure accurate financial representation.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of various digital assets (cryptocurrencies, NFTs) and their underlying technological basis, clearly linking them to the accounting domain.",
+        "c2": "Provides insightful and detailed analysis of complex accounting (classification, measurement, impairment) and auditing (existence, ownership, internal controls) implications, including valuation challenges and regulatory uncertainty.",
+        "c3": "The submission implicitly references existing and emerging standards discussions by mentioning FASB and IASB, and the inherent nature of blockchain technology within the audit context, indicating a strong grasp of relevant guidance.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Definition and types of cryptocurrencies (e.g., Bitcoin, Ethereum) and other digital assets (NFTs).",
+        "Accounting treatment: classification (inventory, intangible asset, investment), recognition, measurement, impairment.",
+        "Auditing challenges: existence, ownership, valuation, completeness, internal controls.",
+        "Regulatory landscape and evolving accounting standards (e.g., FASB, IASB discussions).",
+        "Tax implications of digital assets."
+      ],
+      "llm_questions": [
+        "How are cryptocurrencies typically classified on a company's balance sheet under current accounting guidance?",
+        "What are the main challenges in valuing highly volatile digital assets for financial reporting?",
+        "How do auditors verify the existence and ownership of cryptocurrencies held by a client?",
+        "What role does blockchain technology play in the auditability of digital asset transactions?",
+        "Are there any specific tax implications that businesses need to consider when holding or transacting with cryptocurrencies?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Analyze the implications of environmental, social, and governance (ESG) reporting on corporate financial transparency and investor decision-making.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0004",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of ESG Concepts",
+        "description": "Demonstrates knowledge of ESG pillars, reporting frameworks (e.g., SASB, GRI), and their relevance to corporate responsibility.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains ESG pillars, frameworks, and their interrelation with financial performance.",
+          "good": "Accurately describes 1–2 ESG pillars and gives examples.",
+          "average": "Mentions ESG concepts but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain ESG accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact on Transparency/Investors",
+        "description": "Evaluates how ESG reporting affects financial transparency, risk assessment, and investor engagement.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses enhanced disclosures, non-financial risk integration, and sustainable investment trends.",
+          "good": "Explains basic benefits like improved reputation or investor interest.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to financial transparency or investors."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Incorporates actual examples of companies' ESG reporting practices and their impact.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained examples with relevance.",
+          "good": "Provides at least one relevant example.",
+          "average": "Mentions example(s) with little context.",
+          "needs_improvement": "Example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "Environmental, Social, and Governance (ESG) reporting is increasingly fundamental to corporate financial transparency and significantly influences investor decision-making. Companies adopting robust ESG reporting frameworks, such as GRI or SASB, provide a holistic view of their value creation, extending beyond traditional financial metrics to include environmental impact, social responsibility, and governance structures. This enhanced disclosure allows investors to conduct more comprehensive risk assessments, considering non-financial factors like climate change resilience or supply chain ethics. For instance, a company like Unilever, known for its strong sustainability commitments and detailed ESG reports, often attracts socially conscious investors and can command a higher valuation due to perceived lower long-term risks. While challenges remain in data standardization and combating 'greenwashing', and the assurance of non-financial information is still evolving, the growing demand from institutional investors for sustainable investments underscores the imperative for transparent and credible ESG reporting, making it an essential component of modern financial communication.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of ESG pillars and key reporting frameworks (GRI, SASB), clearly linking them to corporate responsibility and value creation.",
+        "c2": "Provides insightful and detailed analysis of how ESG reporting enhances financial transparency, supports robust risk assessment, and influences investor engagement, including the trend towards sustainable investing.",
+        "c3": "Incorporates a relevant and well-explained example (Unilever) of a company's strong ESG reporting and its positive impact on investor perception.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Definition of ESG and its components (environmental, social, governance).",
+        "Key ESG reporting frameworks (GRI, SASB, TCFD).",
+        "Impact on corporate reputation, risk management, and access to capital.",
+        "How ESG data informs investor decision-making and sustainable investing.",
+        "Challenges: data standardization, greenwashing, assurance of non-financial information."
+      ],
+      "llm_questions": [
+        "What are the key differences between the GRI and SASB reporting frameworks?",
+        "How does a company's environmental performance affect its financial risk assessment by investors?",
+        "Can you give an example of a company that has significantly improved its investor relations through robust ESG reporting?",
+        "What role do accountants play in verifying the accuracy of ESG data?",
+        "How might a lack of standardized ESG reporting affect investor confidence?"
+      ]
+    }
+  ]
+}
