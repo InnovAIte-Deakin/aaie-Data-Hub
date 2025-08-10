@@ -1,0 +1,77 @@
+{
+  "domain": "Engineering",
+  "prompt": "Describe the step-by-step process a chemical engineer would follow to design a batch reactor for a specific reaction. Explain how the problem is structured, what equations are used, how reaction kinetics are incorporated, and how the final design is justified.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0005",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Problem Structuring and Reaction Scope",
+        "description": "Defines the type of reaction and operating goals for the reactor.",
+        "performance_descriptors": {
+          "excellent": "Clearly defines reaction type, objectives, and operating conditions.",
+          "good": "Defines main reaction type and design goals.",
+          "average": "Mentions reaction type with limited scope.",
+          "needs_improvement": "Vague or partial definition of problem.",
+          "poor": "Fails to identify reaction goals or type."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Use of Chemical Kinetics and Equations",
+        "description": "Applies rate laws, stoichiometry, and energy balance equations correctly.",
+        "performance_descriptors": {
+          "excellent": "Applies relevant kinetics and equations with detailed explanation.",
+          "good": "Correctly applies most key equations with some detail.",
+          "average": "Basic or incomplete equation use.",
+          "needs_improvement": "Limited or incorrect use of formulas.",
+          "poor": "No valid equations or kinetic reasoning shown."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Design Parameters and Calculation",
+        "description": "Calculates parameters like volume, time, conversion, and temperature control.",
+        "performance_descriptors": {
+          "excellent": "Performs accurate design calculations with clear assumptions.",
+          "good": "Correct parameter estimation with minor gaps.",
+          "average": "Some design parameters estimated with limited detail.",
+          "needs_improvement": "Basic or unclear calculations.",
+          "poor": "No relevant design parameters provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Justification and Reporting",
+        "description": "Explains why the design is suitable and how it meets the process goals.",
+        "performance_descriptors": {
+          "excellent": "Provides detailed justification and presents a professional summary.",
+          "good": "Design logic is sound and clearly presented.",
+          "average": "Some justification with minor gaps.",
+          "needs_improvement": "Weak reasoning or limited clarity.",
+          "poor": "No justification or report structure."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "What steps are involved in batch reactor design?",
+        "How do you define the reaction conditions?",
+        "What is the integrated rate law for a first-order reaction?",
+        "How do you calculate reactor volume and time for conversion?",
+        "What justifies the choice of a batch reactor?"
+      ],
+      "llm_answers": [
+        "Start by defining the desired conversion and reaction order, then apply kinetic models.",
+        "Conditions like temperature, pressure, and initial concentrations must be established.",
+        "For first-order: ln(C0/C) = kt, where C0 is initial, C is final, k is rate constant.",
+        "Volume = (moles of limiting reactant) / (concentration × conversion), time from integrated kinetics.",
+        "Batch reactors are ideal for small-scale or time-dependent reactions with flexible operation."
+      ]
+      
+    }
+  ]
+}
