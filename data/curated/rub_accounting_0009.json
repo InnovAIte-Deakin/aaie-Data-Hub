@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Evaluate the current state and future prospects of integrated reporting, focusing on its benefits for stakeholders and challenges for companies.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0009",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Integrated Reporting",
+        "description": "Demonstrates knowledge of integrated reporting principles (e.g., IIRC framework, capitals approach) and its objectives.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains integrated reporting concepts, frameworks, and their strategic objectives.",
+          "good": "Accurately describes 1–2 principles or components of integrated reporting.",
+          "average": "Mentions integrated reporting but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain integrated reporting accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Benefits/Challenges",
+        "description": "Evaluates the advantages for various stakeholders (investors, management) and the difficulties for companies in implementing integrated reporting.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses improved decision-making, enhanced communication, internal process benefits, and implementation hurdles.",
+          "good": "Explains basic benefits like better transparency or challenges like data collection.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to benefits or challenges."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Company Examples",
+        "description": "Incorporates examples of companies that have adopted integrated reporting and their experiences.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained company examples with relevance.",
+          "good": "Provides at least one relevant company example.",
+          "average": "Mentions example(s) with little context.",
+          "needs_improvement": "Example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "Integrated reporting represents a significant evolution in corporate communication, aiming to provide a holistic and concise picture of an organization’s value creation over time by connecting financial performance with non-financial factors. Based on frameworks like the IIRC's six capitals (financial, manufactured, intellectual, human, social & relationship, and natural), it offers numerous benefits for diverse stakeholders. Investors gain a more comprehensive understanding of a company's long-term viability and risk profile, enabling better-informed capital allocation decisions. Internally, integrated reporting fosters greater alignment across departments, breaking down silos and improving strategic decision-making by linking operational activities to value creation. However, companies face substantial challenges in implementation, including the complexity of collecting, measuring, and assuring non-financial data, and integrating disparate reporting systems. Despite these hurdles, the future prospects for integrated reporting are bright, driven by increasing regulatory push for sustainability disclosures and growing investor demand for transparent, forward-looking information. Early adopters, often large multinational corporations, demonstrate that while challenging, the benefits in enhanced reputation and access to capital are compelling.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of integrated reporting principles (IIRC framework, capitals approach) and its strategic objectives, clearly articulating its purpose.",
+        "c2": "Provides insightful and detailed analysis of benefits for various stakeholders (investors, internal management) and significant implementation challenges (data collection, integration, assurance).",
+        "c3": "The submission implicitly references company examples by discussing 'early adopters, often large multinational corporations' and the overall benefits in reputation and capital access, which are derived from real-world cases.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Definition and purpose of integrated reporting (connecting financial and non-financial information).",
+        "The six capitals framework (financial, manufactured, intellectual, human, social & relationship, natural).",
+        "Benefits for stakeholders: holistic view of value creation, improved decision-making, long-term focus.",
+        "Challenges for companies: data collection and integration, internal silos, assurance, evolving frameworks.",
+        "Future prospects: increasing adoption, regulatory push, role in sustainable finance."
+      ],
+      "llm_questions": [
+        "What is the primary objective of integrated reporting, and how does it differ from traditional financial reporting?",
+        "Can you explain one of the 'capitals' within the integrated reporting framework and give an accounting example?",
+        "What benefits does integrated reporting offer to investors beyond a company's financial statements?",
+        "What are the significant challenges a company might encounter when trying to implement integrated reporting?",
+        "How might global regulations or standards influence the future adoption of integrated reporting?"
+      ]
+    }
+  ]
+}

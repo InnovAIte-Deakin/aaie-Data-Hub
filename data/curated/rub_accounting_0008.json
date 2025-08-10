@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Discuss the increasing importance of data analytics in modern auditing and its impact on audit quality and efficiency.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0008",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Data Analytics in Audit",
+        "description": "Demonstrates knowledge of data analytics tools and techniques used in auditing (e.g., descriptive, diagnostic, predictive analytics).",
+        "performance_descriptors": {
+          "excellent": "Clearly explains various data analytics techniques and their specific application in different audit phases.",
+          "good": "Accurately describes 1–2 data analytics tools or techniques.",
+          "average": "Mentions data analytics but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain data analytics accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Audit Quality/Efficiency Impact",
+        "description": "Evaluates how data analytics enhances audit coverage, identifies anomalies, and improves overall audit effectiveness and efficiency.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses improved risk assessment, enhanced fraud detection, continuous auditing, and time/cost savings.",
+          "good": "Explains basic benefits like finding errors or speeding up checks.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to audit quality or efficiency."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Practical Audit Applications",
+        "description": "Incorporates practical examples of how data analytics is applied in real-world audit scenarios.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained practical applications with relevance.",
+          "good": "Provides at least one relevant practical application.",
+          "average": "Mentions application(s) with little context.",
+          "needs_improvement": "Application(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "Data analytics has become an indispensable component of modern auditing, significantly enhancing both audit quality and efficiency. By leveraging tools like ACL, Tableau, or IDEA, auditors can move beyond traditional sampling to analyze entire populations of transactions, providing more comprehensive coverage and deeper insights. This enables superior risk assessment, as anomalies and potential fraud schemes that might be missed in sample-based audits can be quickly identified. For instance, in an accounts receivable audit, data analytics can instantly pinpoint unusual payment patterns or extended credit terms, signaling potential issues. The enhanced efficiency stems from automating routine data extraction and analysis, freeing up auditors to focus on complex judgments. While challenges such as ensuring data quality, overcoming auditor skill gaps, and integrating new tools with existing systems exist, the transformative impact of data analytics—enabling continuous auditing and delivering richer, more reliable audit evidence—is undeniable, ultimately leading to a higher quality and more cost-effective audit process.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of data analytics tools (ACL, Tableau, IDEA) and techniques, clearly explaining their application in various audit phases and the shift from sampling to full population testing.",
+        "c2": "Provides insightful and detailed analysis of how data analytics significantly enhances audit quality (risk assessment, fraud detection) and efficiency (automation, deeper insights), including a clear example of its impact.",
+        "c3": "Incorporates a specific and well-explained practical application of data analytics in auditing (accounts receivable analysis), demonstrating real-world relevance.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Types of data analytics (descriptive, diagnostic, predictive, prescriptive) and their use in audit.",
+        "Tools and software used for data analytics in auditing (e.g., ACL, Tableau, IDEA).",
+        "Benefits: enhanced risk assessment, improved fraud detection, greater efficiency, deeper insights, continuous auditing.",
+        "Challenges: data quality, auditor skill gap, integration with existing systems, data privacy.",
+        "Impact on sampling techniques and the move towards full population testing."
+      ],
+      "llm_questions": [
+        "How does data analytics help auditors identify potential fraud schemes more effectively?",
+        "Can you describe a specific audit area, such as accounts receivable, where data analytics can significantly improve efficiency?",
+        "What are the main benefits of moving from traditional sampling to full population testing using data analytics?",
+        "What new skills do auditors need to develop to effectively utilize data analytics tools?",
+        "What are the challenges associated with ensuring the quality and completeness of data used for audit analytics?"
+      ]
+    }
+  ]
+}

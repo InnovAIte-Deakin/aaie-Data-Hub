@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Examine the challenges and opportunities for small and medium-sized enterprises (SMEs) in adopting cloud-based accounting software.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0005",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Cloud Accounting",
+        "description": "Demonstrates knowledge of cloud-based accounting software features and deployment models (SaaS for accounting).",
+        "performance_descriptors": {
+          "excellent": "Clearly explains cloud accounting features and deployment, with specific relevance to SMEs.",
+          "good": "Accurately describes 1–2 features or benefits of cloud accounting.",
+          "average": "Mentions cloud accounting but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain cloud accounting accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of SME Challenges/Opportunities",
+        "description": "Evaluates the practical challenges (e.g., cost, security, training) and opportunities (e.g., efficiency, scalability) for SMEs.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses cost-benefit analysis, security concerns, integration, and efficiency gains for SMEs.",
+          "good": "Explains basic benefits like accessibility or cost reduction for SMEs.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to SME outcomes."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Relevant Software Examples",
+        "description": "Incorporates examples of specific cloud accounting software (e.g., Xero, QuickBooks Online) and their suitability for SMEs.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained software examples with relevance.",
+          "good": "Provides at least one relevant software example.",
+          "average": "Mentions software example(s) with little context.",
+          "needs_improvement": "Software example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "key_points": [
+    "Benefits for SMEs: cost savings, accessibility, scalability, automation.",
+    "Challenges for SMEs: data security, privacy, vendor lock-in, internet dependency, staff training.",
+    "Popular cloud accounting software for SMEs (e.g., Xero, QuickBooks Online, MYOB).",
+    "Impact on financial reporting accuracy and real-time insights.",
+    "The role of accounting professionals in advising SMEs on adoption."
+  ],
+  "llm_questions": [
+    "What are the primary cost benefits for an SME moving its accounting to the cloud?",
+    "How do cloud accounting providers address data security concerns for small businesses?",
+    "Can you name and describe a popular cloud accounting software specifically beneficial for SMEs?",
+    "What are the potential drawbacks for an SME if their internet connection is unreliable when using cloud accounting?",
+    "How can an accounting firm assist its SME clients in transitioning to cloud-based accounting?"
+  ],
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "The adoption of cloud-based accounting software presents both significant opportunities and notable challenges for small and medium-sized enterprises (SMEs). Opportunities primarily revolve around substantial cost savings, as SMEs can avoid hefty upfront hardware investments and benefit from subscription-based models, paying only for what they use. Accessibility and scalability are also key benefits, allowing businesses to manage finances from anywhere and easily scale up or down as needed. Software like Xero and QuickBooks Online exemplify these advantages, offering intuitive interfaces and robust features tailored for SMEs. However, challenges persist, notably concerns around data security and privacy, though reputable cloud providers employ advanced encryption and security protocols. Other considerations include potential vendor lock-in, reliance on stable internet connectivity, and the need for adequate staff training to maximize the software's capabilities. Despite these hurdles, the enhanced efficiency, automation of routine tasks, and real-time financial insights offered by cloud accounting make it an increasingly compelling and beneficial solution for SMEs aiming to optimize their financial operations.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of cloud accounting features and deployment, with specific relevance to SME needs and operational models.",
+        "c2": "Provides insightful and detailed analysis of both the cost-benefit analysis and practical challenges (security, internet dependency) and opportunities (efficiency, automation) for SMEs.",
+        "c3": "Incorporates relevant and well-explained examples of popular cloud accounting software (Xero, QuickBooks Online), demonstrating their suitability for SMEs.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      }
+    }
+  ]
+}
