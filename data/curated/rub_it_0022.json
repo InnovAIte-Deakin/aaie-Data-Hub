@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "How does data warehousing support business intelligence?",
+  "rubric": {
+    "rubric_id": "rub_it_0022",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Data Warehousing",
+        "description": "Demonstrates knowledge of data warehousing concepts, architecture, and ETL.",
+        "performance_descriptors": {
+          "excellent": "Explains data warehousing concepts, components, and ETL in detail.",
+          "good": "Describes main ideas of data warehousing and mentions ETL.",
+          "average": "States what a data warehouse is with limited detail.",
+          "needs_improvement": "Mentions data warehousing but lacks clarity.",
+          "poor": "Fails to describe data warehousing."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Connection to Business Intelligence",
+        "description": "Explains how data warehousing enables BI tools, reporting, and analytics.",
+        "performance_descriptors": {
+          "excellent": "Strongly connects warehousing to BI activities such as analytics, dashboards, and decision-making.",
+          "good": "Describes at least two BI activities supported by warehousing.",
+          "average": "General mention of BI without detail.",
+          "needs_improvement": "Weak or unclear link between warehousing and BI.",
+          "poor": "No connection made to BI."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Real-World Examples",
+        "description": "Uses relevant examples of data warehousing in BI.",
+        "performance_descriptors": {
+          "excellent": "Multiple, specific, and relevant examples given.",
+          "good": "At least one relevant example provided.",
+          "average": "Example is vague or minimally described.",
+          "needs_improvement": "Example is unclear or off-topic.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical and academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized and formal academic response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some organization, style is inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains data warehousing concepts, ETL, and integration",
+        "Links warehousing to BI tools, analytics, dashboards, and decision-making",
+        "Gives examples: Walmart, healthcare, banking",
+        "Formal, structured academic writing"
+      ],
+      "llm_questions": [
+        "What is a data warehouse and its components?",
+        "How does ETL work in data warehousing?",
+        "How does a data warehouse enable BI tools?",
+        "What are real-world examples of data warehousing in BI?",
+        "Why is data warehousing important for decision-making?"
+      ]
+    }
+  ]
+}

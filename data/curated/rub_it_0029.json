@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Discuss strategies for managing technical debt in long-term software projects.",
+  "rubric": {
+    "rubric_id": "rub_it_0029",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Technical Debt",
+        "description": "Demonstrates knowledge of what technical debt is and how it arises.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains the concept, causes, and implications of technical debt.",
+          "good": "Accurately describes technical debt and how it occurs.",
+          "average": "Mentions technical debt with limited explanation.",
+          "needs_improvement": "Basic or unclear understanding of technical debt.",
+          "poor": "Fails to explain technical debt."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Strategies for Management",
+        "description": "Describes methods to manage or reduce technical debt in software projects.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses strategies such as code reviews, refactoring, documentation, and prioritizing debt repayment.",
+          "good": "Describes at least two methods for managing technical debt.",
+          "average": "States strategies generally with little detail.",
+          "needs_improvement": "Minimal or unclear strategies.",
+          "poor": "No strategies mentioned."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Provides examples of managing technical debt in real projects.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example is vague or minimally described.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some organization; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains what technical debt is and why it occurs",
+        "Details strategies: code reviews, refactoring, documentation, prioritizing debt repayment",
+        "Gives real-world examples: Microsoft refactoring Windows code, tech startups scheduling debt sprints",
+        "Highly structured, academic response"
+      ],
+      "llm_questions": [
+        "What is technical debt in software development?",
+        "How does technical debt arise in long-term projects?",
+        "What strategies can be used to manage or reduce technical debt?",
+        "Can you give real-world examples of managing technical debt?",
+        "Why is it important to manage technical debt proactively?"
+      ]
+    }
+  ]
+}

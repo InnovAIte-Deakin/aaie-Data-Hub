@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Explain how continuous integration improves software quality.",
+  "rubric": {
+    "rubric_id": "rub_it_0027",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Continuous Integration (CI)",
+        "description": "Demonstrates knowledge of CI concepts and tools.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains what CI is, how it works, and names tools like Jenkins, GitHub Actions, or Travis CI.",
+          "good": "Accurately describes CI and mentions at least one tool.",
+          "average": "Mentions CI but gives limited detail.",
+          "needs_improvement": "Basic or unclear understanding of CI.",
+          "poor": "Fails to explain CI."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Software Quality Improvement",
+        "description": "Explains how CI enhances quality in software projects.",
+        "performance_descriptors": {
+          "excellent": "Insightfully links CI to early bug detection, automated testing, and stable releases.",
+          "good": "Describes main quality benefits like fewer bugs and reliable builds.",
+          "average": "States CI is good for quality without detail.",
+          "needs_improvement": "Minimal or unclear benefit described.",
+          "poor": "No discussion of quality improvement."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Uses relevant examples to illustrate CI and its benefits.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example mentioned but not explained.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some structure; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains what CI is and how it works",
+        "Names multiple CI tools (Jenkins, GitHub Actions, Travis CI)",
+        "Links CI to early bug detection, automated testing, and stable releases",
+        "Real-world examples: Google, Microsoft, open-source projects"
+      ],
+      "llm_questions": [
+        "What is continuous integration?",
+        "How does CI work in software development?",
+        "Which tools are used for CI?",
+        "How does CI improve software quality?",
+        "Can you give real-world examples of CI in use?"
+      ]
+    }
+  ]
+}
