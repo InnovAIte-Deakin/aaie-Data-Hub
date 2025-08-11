@@ -1,5 +1,5 @@
 {
-  "domain": "IT",
+  "domain": "Information Technology",
   "prompt": "Explain how DNS over HTTPS (DoH) enhances user privacy. Discuss its technical mechanisms, benefits, and potential challenges in adoption.",
   "rubric": {
     "rubric_id": "rub_it_0010",
