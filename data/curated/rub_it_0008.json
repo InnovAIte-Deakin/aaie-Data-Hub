@@ -1,5 +1,5 @@
 {
-  "domain": "IT",
+  "domain": "Information Technology",
   "prompt": "Compare software-defined networking (SDN) with traditional networking. Evaluate their architectures, benefits, and limitations in modern IT infrastructure.",
   "rubric": {
     "rubric_id": "rub_it_0008",
