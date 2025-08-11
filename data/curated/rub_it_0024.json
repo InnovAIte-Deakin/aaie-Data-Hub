@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Evaluate database backup strategies for disaster recovery.",
+  "rubric": {
+    "rubric_id": "rub_it_0024",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Backup Strategies",
+        "description": "Demonstrates knowledge of different database backup methods.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains full, incremental, differential, and continuous backups with advantages and disadvantages.",
+          "good": "Accurately describes at least two backup methods and their purposes.",
+          "average": "Mentions backup strategies with basic explanation.",
+          "needs_improvement": "Basic or unclear understanding of backup methods.",
+          "poor": "Fails to explain backup strategies."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Disaster Recovery Application",
+        "description": "Explains how backup strategies are used for disaster recovery.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes how each backup method contributes to fast and reliable disaster recovery.",
+          "good": "Describes how backups help restore data after a disaster.",
+          "average": "States backups are needed for recovery but with little detail.",
+          "needs_improvement": "Minimal or unclear link to disaster recovery.",
+          "poor": "No discussion of disaster recovery."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Examples",
+        "description": "Uses examples to illustrate backup and recovery in real scenarios.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example is vague or minimally described.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some structure; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains full, incremental, differential, and continuous backups",
+        "Discusses pros and cons for each method",
+        "Links backup strategies to disaster recovery (speed, reliability, recovery point)",
+        "Gives real-world examples (banks, hospitals)"
+      ],
+      "llm_questions": [
+        "What are the main types of database backups?",
+        "How do full, incremental, and differential backups work?",
+        "Why are backup strategies important for disaster recovery?",
+        "Can you give real examples of backup strategies in organizations?",
+        "What factors affect the choice of backup method?"
+      ]
+    }
+  ]
+}

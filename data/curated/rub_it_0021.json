@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Discuss the advantages of NoSQL databases in modern web applications.",
+  "rubric": {
+    "rubric_id": "rub_it_0021",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of NoSQL database types and core concepts.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains multiple NoSQL types (document, key-value, column, graph) and their features with accuracy.",
+          "good": "Explains at least two NoSQL types and their core features.",
+          "average": "Mentions NoSQL but gives limited explanation of types.",
+          "needs_improvement": "Minimal or unclear understanding of NoSQL concepts.",
+          "poor": "Fails to explain NoSQL databases."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Modern Web Applications",
+        "description": "Explains how NoSQL features address web application requirements.",
+        "performance_descriptors": {
+          "excellent": "Insightfully links scalability, flexibility, performance, and schema-less design to modern web app needs.",
+          "good": "Describes key advantages such as scalability and flexibility with relevant context.",
+          "average": "States benefits without depth or connection to web app needs.",
+          "needs_improvement": "Mentions advantages vaguely or without support.",
+          "poor": "No discussion of advantages."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Provides examples of NoSQL adoption in industry.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple, relevant real-world examples with clear explanations.",
+          "good": "Includes at least one appropriate example with brief explanation.",
+          "average": "Example is vague or minimally explained.",
+          "needs_improvement": "Example is unclear or unrelated.",
+          "poor": "No examples provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of organization, tone, and clarity.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, formal tone, clear progression of ideas.",
+          "good": "Mostly clear and formal with minor lapses.",
+          "average": "Some organization; tone inconsistently academic.",
+          "needs_improvement": "Flow or tone hinders clarity.",
+          "poor": "Disorganized and informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Defines NoSQL and explains four main types: document, key-value, column, and graph",
+        "Links scalability, performance, and schema flexibility to web app demands",
+        "Cites examples: Facebook Messenger (Cassandra), Netflix (DynamoDB)",
+        "Highlights suitability for high-traffic, evolving applications"
+      ],
+      "llm_questions": [
+        "What are the different types of NoSQL databases and their main features?",
+        "How does NoSQL improve scalability in web applications?",
+        "Why is schema flexibility valuable for modern apps?",
+        "Which companies use NoSQL and why?",
+        "How do NoSQL databases handle very large datasets?"
+      ]
+    }
+  ]
+}

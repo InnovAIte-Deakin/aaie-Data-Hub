@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Agile vs. Waterfall methodologies: Which suits modern development better?",
+  "rubric": {
+    "rubric_id": "rub_it_0026",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Methodologies",
+        "description": "Demonstrates knowledge of Agile and Waterfall development methodologies.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly explains Agile and Waterfall principles, phases, strengths, and weaknesses.",
+          "good": "Accurately describes both methodologies and their main characteristics.",
+          "average": "Mentions both methodologies with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of one or both methodologies.",
+          "poor": "Fails to explain Agile or Waterfall."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation for Modern Development",
+        "description": "Assesses which methodology is better suited for modern software projects.",
+        "performance_descriptors": {
+          "excellent": "Insightfully compares both, with context on adaptability, collaboration, and market demands.",
+          "good": "Explains which methodology is generally better and why.",
+          "average": "Makes a general preference statement with limited reasoning.",
+          "needs_improvement": "Minimal or unclear comparison.",
+          "poor": "No evaluation or comparison."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Provides examples of each methodology used in real projects.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one appropriate example for each methodology.",
+          "average": "Examples are mentioned but not explained.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some organization; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains Agile (iterative, adaptive) and Waterfall (linear, sequential) in detail",
+        "Compares flexibility, customer feedback, and risk management",
+        "Real-world examples: Agile at Spotify, Scrum at Microsoft, Waterfall in construction/defense",
+        "Well-structured, academic style"
+      ],
+      "llm_questions": [
+        "What is the Agile methodology?",
+        "How does Waterfall differ from Agile?",
+        "Why is Agile popular in modern software development?",
+        "Can you provide real-world examples of Agile and Waterfall in use?",
+        "What are the main strengths and weaknesses of both?"
+      ]
+    }
+  ]
+}

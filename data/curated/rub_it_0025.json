@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Discuss the ethical challenges in big data collection and analysis.",
+  "rubric": {
+    "rubric_id": "rub_it_0025",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Ethical Issues",
+        "description": "Demonstrates knowledge of key ethical concerns in big data.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains privacy, consent, bias, and data security issues in detail.",
+          "good": "Describes at least two major ethical issues (e.g., privacy, consent).",
+          "average": "Mentions ethical concerns but with little detail.",
+          "needs_improvement": "Basic or unclear understanding of ethics in big data.",
+          "poor": "Fails to mention ethical issues."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact",
+        "description": "Analyzes how ethical challenges affect individuals and organizations.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses consequences and risks for users and organizations.",
+          "good": "Describes potential risks or consequences.",
+          "average": "General statements about impact.",
+          "needs_improvement": "Minimal or unclear analysis.",
+          "poor": "No analysis of impact."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Provides examples of ethical challenges in big data.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example is vague or minimally described.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some structure; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains privacy, consent, bias, and security as key issues",
+        "Analyzes risks for individuals (loss of privacy, discrimination) and organizations (reputation, legal penalties)",
+        "Gives real-world examples (Cambridge Analytica, health data breaches, biased algorithms)",
+        "Formal, well-structured answer"
+      ],
+      "llm_questions": [
+        "What are the main ethical issues in big data collection?",
+        "Why is privacy important in big data analysis?",
+        "How can bias affect big data results?",
+        "Can you give examples of ethical challenges in real life?",
+        "What happens if companies ignore data ethics?"
+      ]
+    }
+  ]
+}

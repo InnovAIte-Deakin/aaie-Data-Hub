@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Explain the importance of test-driven development (TDD) in large codebases.",
+  "rubric": {
+    "rubric_id": "rub_it_0028",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of TDD",
+        "description": "Demonstrates knowledge of what test-driven development is and how it works.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains TDD, its cycle (red-green-refactor), and how it is applied in real projects.",
+          "good": "Accurately describes TDD and its main steps.",
+          "average": "Mentions TDD but gives limited explanation.",
+          "needs_improvement": "Basic or unclear understanding of TDD.",
+          "poor": "Fails to explain TDD."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Large Codebases",
+        "description": "Explains why TDD is especially valuable for large projects.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses maintainability, regression prevention, and scalable collaboration.",
+          "good": "Describes TDD benefits like fewer bugs and easier changes in big projects.",
+          "average": "States TDD is good for large projects but gives little detail.",
+          "needs_improvement": "Minimal or unclear benefit described.",
+          "poor": "No discussion of large codebases."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Provides examples of TDD in large software projects.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example is vague or minimally described.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some organization; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains TDD process (write test, code, refactor)",
+        "Discusses maintainability, catching regressions, safe refactoring",
+        "Gives real-world examples: Google, large open-source projects",
+        "Highly structured, academic response"
+      ],
+      "llm_questions": [
+        "What is test-driven development?",
+        "How does TDD work?",
+        "Why is TDD important for large codebases?",
+        "Can you give real-world examples of TDD in big projects?",
+        "How does TDD help teams collaborate on large systems?"
+      ]
+    }
+  ]
+}
