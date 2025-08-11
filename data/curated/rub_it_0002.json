@@ -1,5 +1,5 @@
 {
-  "domain": "IT",
+  "domain": "Information Technology",
   "prompt": "Evaluate the effectiveness of multi-factor authentication (MFA) in preventing data breaches. Discuss various MFA methods, their usability and security trade-offs, and how MFA integrates into broader cybersecurity strategies.",
   "rubric": {
     "rubric_id": "rub_it_0002",
