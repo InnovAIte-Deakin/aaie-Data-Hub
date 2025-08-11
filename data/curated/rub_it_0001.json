@@ -1,5 +1,5 @@
 {
-  "domain": "IT",
+  "domain": "Information Technology",
   "prompt": "Critically evaluate zero-trust architecture in enterprise security. Discuss its core principles, benefits, and challenges in implementation. Provide examples of how zero-trust improves security posture compared to traditional perimeter-based models, and analyze potential limitations.",
   "rubric": {
     "rubric_id": "rub_it_0001",
