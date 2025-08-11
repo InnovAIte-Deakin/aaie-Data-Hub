@@ -1,6 +1,6 @@
 {
   "domain": "Information Technology",
-  "prompt": "The role of Artificial Intelligence in modern cybersecurity.",
+  "prompt": "In a few sentences, examine the role of Artificial Intelligence in modern cybersecurity, providing examples of its applications and potential risks.",
   "rubric": {
     "rubric_id": "rub_it_0002",
     "criteria": [
