@@ -1,0 +1,82 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Evaluate the effectiveness of multi-factor authentication (MFA) in preventing data breaches. Discuss various MFA methods, their usability and security trade-offs, and how MFA integrates into broader cybersecurity strategies.",
+  "rubric": {
+    "rubric_id": "rub_it_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of the topic and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding with clear theoretical support.",
+          "good": "Understands key concepts well with minor gaps.",
+          "average": "Adequate explanation with some inaccuracies.",
+          "needs_improvement": "Surface-level or confused understanding.",
+          "poor": "Major misunderstandings or misrepresentations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies concepts meaningfully to examples or scenarios.",
+        "performance_descriptors": {
+          "excellent": "Uses insightful and relevant examples clearly linked to concepts.",
+          "good": "Examples mostly appropriate with some gaps in explanation.",
+          "average": "Examples present but superficial or unclear connections.",
+          "needs_improvement": "Vague or generic examples.",
+          "poor": "No real-world application."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation",
+        "description": "Analyzes challenges, limitations, or trade-offs thoughtfully.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, research-backed critical evaluation.",
+          "good": "Reasonable evaluation but less depth.",
+          "average": "Mentions challenges superficially.",
+          "needs_improvement": "Unclear or irrelevant critique.",
+          "poor": "No critical evaluation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Clear, coherent, formal tone, flawless grammar, and proper referencing.",
+          "good": "Mostly clear and professional; minor issues.",
+          "average": "Organization present but inconsistent.",
+          "needs_improvement": "Structure or tone hinder clarity; referencing weak.",
+          "poor": "Disorganized or informal writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define MFA and differentiate between types: SMS codes, authenticator apps, biometrics, hardware tokens.",
+        "Discuss how MFA mitigates password compromise and unauthorized access.",
+        "Analyze usability challenges and resistance factors.",
+        "Explain vulnerabilities like SIM swapping and MFA fatigue.",
+        "Provide statistics or case studies on MFA effectiveness.",
+        "Explore organizational strategies to increase MFA adoption.",
+        "Evaluate integration of MFA with other security layers.",
+        "Maintain academic rigor and proper referencing."
+      ],
+      "llm_questions": [
+        "What MFA methods exist and how do they differ?",
+        "How effective is MFA in preventing breaches?",
+        "What usability issues affect MFA adoption?",
+        "How can attackers circumvent MFA?",
+        "What strategies improve MFA uptake in organizations?",
+        "How does MFA fit within layered security models?",
+        "What research supports MFA effectiveness?",
+        "How to present MFA analysis clearly and academically?"
+      ]
+    }
+  ]
+}
