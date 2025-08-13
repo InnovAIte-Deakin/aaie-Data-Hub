@@ -1,0 +1,89 @@
+{
+  "domain": "Psychology",
+  "prompt": "Critically discuss classical and operant conditioning, comparing their mechanisms, key experiments, and applications in behavior change (e.g., phobias, habit formation, education).",
+  "rubric": {
+    "rubric_id": "rub_psychology_0014",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Theoretical Understanding",
+        "description": "Explains classical vs. operant conditioning accurately.",
+        "performance_descriptors": {
+          "excellent": "Precisely distinguishes CS/US/UR/CR, reinforcement vs. punishment, schedules, extinction, generalization, and discrimination.",
+          "good": "Accurate explanation with minor omissions (e.g., partial schedules).",
+          "average": "Basic coverage; occasional confusion between concepts.",
+          "needs_improvement": "Multiple inaccuracies or conflations.",
+          "poor": "Fundamental misunderstanding of both paradigms."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evidence and Key Studies",
+        "description": "Integrates landmark experiments and findings.",
+        "performance_descriptors": {
+          "excellent": "Discusses Pavlov, Watson and Rayner (Little Albert), Skinner boxes, schedules of reinforcement, and contemporary replications/updates.",
+          "good": "Covers several key studies with acceptable accuracy.",
+          "average": "Mentions studies briefly without detail.",
+          "needs_improvement": "Sparse or incorrect study references.",
+          "poor": "No relevant studies cited."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Applications and Ethics",
+        "description": "Applies principles to behavior change and considers ethics.",
+        "performance_descriptors": {
+          "excellent": "Insightfully applies conditioning to exposure therapy, habit formation, classroom management, animal training, and addresses ethical concerns.",
+          "good": "Reasonable applications with limited ethical discussion.",
+          "average": "General applications with little nuance.",
+          "needs_improvement": "Minimal application; ethics omitted.",
+          "poor": "No applications discussed."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Comparative Analysis",
+        "description": "Effectively contrasts mechanisms and outcomes.",
+        "performance_descriptors": {
+          "excellent": "Compares learning processes, response types (reflexive vs. operant), role of reinforcement, and typical use-cases with clarity.",
+          "good": "Clear comparison with minor gaps.",
+          "average": "Superficial contrasts; overlaps unclear.",
+          "needs_improvement": "Weak comparison lacking structure.",
+          "poor": "No meaningful comparison."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Organization",
+        "description": "Logical structure and clear writing.",
+        "performance_descriptors": {
+          "excellent": "Well-structured, concise, and coherent.",
+          "good": "Mostly clear with minor redundancies.",
+          "average": "Understandable but loosely organized.",
+          "needs_improvement": "Disorganized and unclear.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define core components of classical and operant conditioning.",
+        "Explain reinforcement schedules and their effects on response persistence.",
+        "Use historical and modern examples (e.g., exposure therapy, habit loops).",
+        "Discuss ethical considerations and humane practice.",
+        "Compare strengths/limitations relative to cognitive approaches."
+      ],
+      "llm_questions": [
+        "Explain classical conditioning with the CS-US-CR framework and an original example.",
+        "Compare positive vs. negative reinforcement with real-life cases.",
+        "How do variable ratio schedules influence persistence of behavior?",
+        "Outline an exposure therapy plan using conditioning principles.",
+        "What ethical issues arise in behavior modification programs?"
+      ]
+    }
+  ]
+}
+

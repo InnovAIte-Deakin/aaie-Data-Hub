@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Assess social identity theory and its applications to intergroup relations, prejudice, and organizational behavior.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0019",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Core Concepts",
+        "description": "Explains social categorization, identification, and comparison; in-group bias; self-esteem hypothesis.",
+        "performance_descriptors": {
+          "excellent": "Accurate, nuanced explanation including depersonalization and contextual factors.",
+          "good": "Accurate with minor omissions.",
+          "average": "Basic explanation; limited nuance.",
+          "needs_improvement": "Partial or unclear.",
+          "poor": "Incorrect or missing concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evidence and Classic Studies",
+        "description": "Integrates key findings and paradigms.",
+        "performance_descriptors": {
+          "excellent": "Discusses minimal group paradigm, intergroup bias, and boundary conditions; contrasts with self-categorization theory.",
+          "good": "Covers major studies with acceptable accuracy.",
+          "average": "Mentions studies briefly.",
+          "needs_improvement": "Sparse or inaccurate references.",
+          "poor": "No relevant evidence."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Applications",
+        "description": "Applies theory to prejudice reduction, conflict, and organizations.",
+        "performance_descriptors": {
+          "excellent": "Proposes evidence-informed strategies (e.g., superordinate identities, contact conditions) and organizational identity interventions.",
+          "good": "Reasonable applications with some detail.",
+          "average": "General applications without specifics.",
+          "needs_improvement": "Minimal or vague applications.",
+          "poor": "No application."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Evaluation",
+        "description": "Considers limitations and alternatives.",
+        "performance_descriptors": {
+          "excellent": "Evaluates scope conditions, role of norms, and interplay with realistic conflict theory and system-justification perspectives.",
+          "good": "Notes several critiques with some analysis.",
+          "average": "Superficial critique.",
+          "needs_improvement": "Minimal critical evaluation.",
+          "poor": "No critique."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Structure",
+        "description": "Organization and writing quality.",
+        "performance_descriptors": {
+          "excellent": "Cohesive and well-structured.",
+          "good": "Clear with minor issues.",
+          "average": "Adequate clarity.",
+          "needs_improvement": "Disorganized.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define core processes and minimal group paradigm findings.",
+        "Explain when and why in-group bias emerges or attenuates.",
+        "Apply to prejudice reduction via contact and superordinate goals.",
+        "Discuss organizational identity, mergers, and culture.",
+        "Contrast with alternative theories and note limitations."
+      ],
+      "llm_questions": [
+        "Summarize the minimal group paradigm and its implications.",
+        "What conditions optimize intergroup contact to reduce prejudice?",
+        "How can superordinate identities reduce conflict?",
+        "Apply social identity theory to organizational change.",
+        "Compare social identity with realistic conflict theory."
+      ]
+    }
+  ]
+}
