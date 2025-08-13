@@ -1,0 +1,76 @@
+{
+    "domain": "Psychology",
+    "prompt": "Critically evaluate Maslow’s Hierarchy of Needs and its relevance to modern motivation research and workplace psychology.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0012",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Maslow's Theory",
+                "description": "Demonstrates accurate knowledge of Maslow's hierarchy and its theoretical foundations.",
+                "performance_descriptors": {
+                    "excellent": "Provides an in-depth, accurate explanation of all five levels (and self-transcendence if applicable) with historical context.",
+                    "good": "Accurately explains the hierarchy, with minor omissions.",
+                    "average": "Covers the basic stages but may show gaps or oversimplification.",
+                    "needs_improvement": "Partial or unclear explanation with notable inaccuracies.",
+                    "poor": "Fails to describe the hierarchy correctly."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Critical Evaluation",
+                "description": "Evaluates strengths, weaknesses, and modern critiques of the theory.",
+                "performance_descriptors": {
+                    "excellent": "Expertly critiques the model with reference to cultural bias, empirical validity, and current psychological perspectives.",
+                    "good": "Provides a reasonable evaluation with some depth.",
+                    "average": "Offers a limited or general evaluation without much depth.",
+                    "needs_improvement": "Evaluation is minimal or underdeveloped.",
+                    "poor": "No substantial evaluation provided."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Application to Workplace Psychology",
+                "description": "Applies the theory to modern organizational and workplace contexts.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully connects the hierarchy to contemporary motivation practices, HR strategies, and employee engagement.",
+                    "good": "Applies theory to workplace contexts with reasonable clarity.",
+                    "average": "Makes general statements about application without specifics.",
+                    "needs_improvement": "Links to workplace are unclear or poorly supported.",
+                    "poor": "No real-world application provided."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Structure and Clarity",
+                "description": "Organizes ideas logically with a coherent flow.",
+                "performance_descriptors": {
+                    "excellent": "Essay is exceptionally well-organized with precise transitions and a logical progression.",
+                    "good": "Generally clear and logical, with small lapses.",
+                    "average": "Some organization issues but still understandable.",
+                    "needs_improvement": "Disorganized in parts, making comprehension harder.",
+                    "poor": "Very poor organization and clarity."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Clearly explains all levels of Maslow’s hierarchy and the later addition of self-transcendence.",
+                "Discusses cultural limitations, such as collectivist versus individualist perspectives.",
+                "References alternative motivation theories like Self-Determination Theory for contrast.",
+                "Applies Maslow's model to employee engagement, wellness programs, and career progression.",
+                "Uses recent workplace research to assess ongoing relevance."
+            ],
+            "llm_questions": [
+                "Explain Maslow's hierarchy of needs with examples.",
+                "What are common criticisms of Maslow’s hierarchy in modern psychology?",
+                "How can Maslow’s theory be applied in workplace motivation programs?",
+                "Compare Maslow’s hierarchy to Self-Determination Theory.",
+                "How has modern research challenged the sequence of needs in Maslow’s hierarchy?"
+            ]
+        }
+    ]
+}
