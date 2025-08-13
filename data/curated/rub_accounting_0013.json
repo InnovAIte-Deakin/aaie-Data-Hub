@@ -1,0 +1,78 @@
+{
+  "domain": "Accounting",
+  "prompt": "Evaluate how managerial accounting contributes to internal decision-making and organizational strategy.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0013",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Managerial Accounting Tools",
+        "description": "Demonstrates knowledge of tools such as CVP analysis, budgeting, and forecasting.",
+        "performance_descriptors": {
+          "excellent": "Comprehensively explains multiple tools and their strategic use in decision-making.",
+          "good": "Accurately describes 2–3 tools with some insight into usage.",
+          "average": "Mentions tools but provides limited explanation or depth.",
+          "needs_improvement": "Basic or unclear understanding of tools.",
+          "poor": "Fails to describe managerial accounting tools."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Strategic Decision-Making",
+        "description": "Analyzes how managerial accounting supports internal planning and long-term strategy.",
+        "performance_descriptors": {
+          "excellent": "Insightfully connects accounting tools to real business planning and strategy.",
+          "good": "Explains general planning support with moderate clarity.",
+          "average": "Touches on planning relevance but lacks depth.",
+          "needs_improvement": "Minimal link between accounting tools and strategy.",
+          "poor": "No discussion of decision-making or strategy."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Evaluation of Impact Under Uncertainty",
+        "description": "Evaluates the role of accounting data in uncertain business environments.",
+        "performance_descriptors": {
+          "excellent": "Critically assesses how data-driven decisions mitigate uncertainty.",
+          "good": "Explains the importance of accounting data in uncertain scenarios.",
+          "average": "Mentions uncertainty but without analysis.",
+          "needs_improvement": "Minimal understanding of uncertainty in decisions.",
+          "poor": "No discussion of uncertainty or risk."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a formal tone with clear logical flow.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal style and strong structure.",
+          "good": "Mostly well-organized and academic in tone.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or informal tone.",
+          "poor": "Disorganized and lacks academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define managerial accounting and distinguish it from financial accounting.",
+        "Explain how CVP analysis aids short-term decision-making and pricing.",
+        "Demonstrate how budgeting and forecasting inform resource allocation and strategy.",
+        "Evaluate break-even analysis in planning and cost control.",
+        "Analyze how accounting supports decision-making under uncertainty using variance analysis and sensitivity models."
+      ],
+      "llm_questions": [
+        "What is managerial accounting and how is it different from financial accounting?",
+        "How does cost-volume-profit analysis help businesses in setting prices and predicting profits?",
+        "What are the benefits of budgeting and forecasting in strategic planning?",
+        "Can you explain how break-even analysis informs business decisions?",
+        "How does managerial accounting assist in decision-making under uncertainty?",
+        "What is variance analysis and how is it used to control performance?",
+        "How do organizations use accounting data to make long-term strategic choices?"
+      ]
+    }
+  ]
+}

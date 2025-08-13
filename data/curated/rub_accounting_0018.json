@@ -1,0 +1,140 @@
+{
+    "domain": "Accounting",
+    "prompt": "Analyze how digital technologies such as AI, blockchain, and cloud computing are transforming accounting workflows and controls.",
+    "rubric": {
+        "rubric_id": "rub_accounting_0018",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Digital Technologies in Accounting",
+                "description": "Demonstrates comprehensive knowledge of how AI, blockchain, and cloud computing technologies apply to accounting processes.",
+                "performance_descriptors": {
+                    "excellent": "Clearly explains multiple digital technologies, their specific applications in accounting, and demonstrates understanding of their technical capabilities and limitations.",
+                    "good": "Accurately describes key technologies (AI, blockchain, cloud) and their basic applications in accounting contexts.",
+                    "average": "Shows general understanding of digital technologies but with limited detail on accounting-specific applications.",
+                    "needs_improvement": "Basic or unclear understanding of how technologies apply to accounting practices.",
+                    "poor": "Fails to demonstrate understanding of relevant digital technologies or shows fundamental misconceptions."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Analysis of Workflow Transformation",
+                "description": "Evaluates how digital technologies are changing traditional accounting workflows, including automated bookkeeping and process efficiency.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully analyzes workflow changes, discusses automation of routine tasks, efficiency gains, and the shift from manual to automated processes with specific examples.",
+                    "good": "Explains how technologies are changing accounting workflows and identifies key areas of automation and improvement.",
+                    "average": "Makes general observations about workflow changes but lacks depth in analysis of specific transformations.",
+                    "needs_improvement": "Limited discussion of workflow impacts with minimal supporting detail.",
+                    "poor": "Fails to analyze workflow transformation or provides superficial treatment of changes."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Real-Time Reporting and Data Analytics",
+                "description": "Discusses how digital technologies enable real-time financial reporting and advanced data analytics capabilities.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively discusses real-time reporting benefits, data analytics applications, dashboard capabilities, and impact on decision-making timeliness and quality.",
+                    "good": "Explains real-time reporting capabilities and identifies key benefits for financial analysis and decision-making.",
+                    "average": "Mentions real-time reporting but with limited understanding of its implications or analytical capabilities.",
+                    "needs_improvement": "Superficial treatment of real-time reporting with minimal analysis of benefits or applications.",
+                    "poor": "Fails to address real-time reporting or demonstrates poor understanding of its significance."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Blockchain Technology and Audit Trails",
+                "description": "Analyzes the role of blockchain in creating immutable audit trails and enhancing transaction transparency and verification.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly explains blockchain's immutability features, discusses audit trail enhancement, transparency benefits, and potential impact on audit processes and fraud prevention.",
+                    "good": "Accurately describes blockchain applications in accounting, including audit trail benefits and transparency improvements.",
+                    "average": "Shows basic understanding of blockchain in accounting but limited analysis of audit trail implications.",
+                    "needs_improvement": "Minimal discussion of blockchain applications with unclear understanding of audit benefits.",
+                    "poor": "Fails to discuss blockchain meaningfully or shows fundamental misunderstanding of its audit applications."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Cybersecurity Risks and Controls",
+                "description": "Evaluates cybersecurity challenges and risks introduced by digital transformation and discusses necessary control measures.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively discusses cybersecurity risks (data breaches, system vulnerabilities, cloud security), analyzes their potential impact, and evaluates control measures and best practices.",
+                    "good": "Identifies key cybersecurity risks and discusses basic control measures needed in digital accounting environments.",
+                    "average": "Mentions cybersecurity concerns but with limited analysis of specific risks or control requirements.",
+                    "needs_improvement": "Superficial treatment of cybersecurity issues with minimal discussion of risks or controls.",
+                    "poor": "Fails to address cybersecurity concerns or demonstrates poor understanding of digital security risks."
+                }
+            },
+            {
+                "criterion_id": "c6",
+                "name": "Evolution of the Accounting Profession",
+                "description": "Analyzes how digital transformation is changing the accountant's role, required skills, and career opportunities.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully discusses role evolution from data entry to analysis and advisory, identifies new skill requirements (data analytics, technology proficiency), and considers career implications and opportunities.",
+                    "good": "Explains how accountants' roles are changing and identifies some new skills and responsibilities emerging from digital transformation.",
+                    "average": "Makes general observations about changing roles but lacks depth in analysis of skill requirements or career implications.",
+                    "needs_improvement": "Limited discussion of professional evolution with minimal analysis of changing requirements.",
+                    "poor": "Fails to address professional role changes or provides superficial treatment of the topic."
+                }
+            },
+            {
+                "criterion_id": "c7",
+                "name": "Use of Examples and Evidence",
+                "description": "Incorporates relevant examples of digital transformation in accounting practice, including specific software, companies, or case studies.",
+                "performance_descriptors": {
+                    "excellent": "Provides multiple relevant examples of digital tools, software platforms, or company implementations with clear connections to analysis and demonstrated understanding of practical applications.",
+                    "good": "Includes at least one detailed, relevant example of digital transformation in accounting practice.",
+                    "average": "Mentions examples but with limited development or unclear relevance to the analysis.",
+                    "needs_improvement": "Vague or poorly developed examples that don't effectively support the analysis.",
+                    "poor": "No relevant examples provided or examples are irrelevant to digital transformation in accounting."
+                }
+            },
+            {
+                "criterion_id": "c8",
+                "name": "Structure and Academic Writing",
+                "description": "Presents analysis in a well-organized, formal academic style with appropriate technology and accounting terminology.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent analysis with formal tone, logical progression, and precise use of both technology and accounting terminology.",
+                    "good": "Well-structured analysis with clear organization and mostly appropriate technical terminology.",
+                    "average": "Some organizational structure; inconsistent use of technical terms or academic style.",
+                    "needs_improvement": "Unclear organization or inappropriate tone for academic technology analysis.",
+                    "poor": "Poorly organized, informal, or lacks coherent analytical structure."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Explain how AI, machine learning, blockchain, and cloud computing technologies apply specifically to accounting processes.",
+                "Analyze the transformation of traditional accounting workflows through automation and digital tools.",
+                "Evaluate the shift from manual bookkeeping to automated data capture and processing systems.",
+                "Discuss how real-time reporting capabilities change financial analysis and decision-making processes.",
+                "Examine blockchain technology's role in creating immutable audit trails and enhancing transaction transparency.",
+                "Analyze cybersecurity risks introduced by digital transformation and necessary control measures.",
+                "Evaluate how cloud computing affects data storage, accessibility, and collaboration in accounting.",
+                "Discuss the evolution of the accountant's role from data entry to analysis, advisory, and strategic functions.",
+                "Identify new skills required for accountants in the digital age (data analytics, technology proficiency, cybersecurity awareness).",
+                "Examine the impact on internal controls and audit processes in digital environments.",
+                "Include specific examples of accounting software, platforms, or company implementations of digital technologies.",
+                "Structure the analysis using formal academic writing with appropriate technical terminology."
+            ],
+            "llm_questions": [
+                "How are AI and machine learning technologies being applied to automate accounting processes?",
+                "What are the key benefits and challenges of implementing automated bookkeeping systems?",
+                "How does real-time reporting capability change financial analysis and business decision-making?",
+                "What role does blockchain technology play in creating audit trails and ensuring transaction integrity?",
+                "What are the main cybersecurity risks introduced by digital transformation in accounting, and how can they be mitigated?",
+                "How is cloud computing changing the way accounting data is stored, accessed, and shared?",
+                "In what ways is the accountant's role evolving due to digital transformation?",
+                "What new skills and competencies do accountants need to develop in the digital age?",
+                "How are internal controls and audit processes adapting to digital accounting environments?",
+                "Can you provide examples of specific accounting software or platforms that demonstrate digital transformation?",
+                "What are the cost-benefit considerations for organizations implementing digital accounting technologies?",
+                "How do regulatory and compliance requirements adapt to digital accounting practices?",
+                "What does the future of the accounting profession look like in an increasingly digital world?",
+                "How should an academic analysis of digital transformation in accounting be structured to demonstrate comprehensive understanding?"
+            ]
+        }
+    ]
+}
