@@ -1,0 +1,90 @@
+{
+  "domain": "Accounting",
+  "prompt": "Evaluate how different taxation strategies and regulations influence a corporation’s financial decision-making.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0019",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Taxation Strategies",
+        "description": "Demonstrates knowledge of corporate tax planning strategies and their objectives.",
+        "performance_descriptors": {
+          "excellent": "Clearly distinguishes between legal tax avoidance and illegal tax evasion with relevant examples.",
+          "good": "Explains core tax strategies with minor gaps in distinction.",
+          "average": "Mentions strategies but lacks clarity or examples.",
+          "needs_improvement": "Unclear or incorrect understanding of tax strategies.",
+          "poor": "Fails to explain or confuses key taxation concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Tax Concepts in Financial Decisions",
+        "description": "Analyzes how tax considerations affect budgeting, investment, and financing choices.",
+        "performance_descriptors": {
+          "excellent": "Insightfully connects taxation strategy to major corporate financial decisions.",
+          "good": "Provides reasonable links between tax policy and financial planning.",
+          "average": "Touches on tax impact without clear analysis.",
+          "needs_improvement": "Minimal or vague connections to financial decision-making.",
+          "poor": "No discussion of taxation’s influence on finance."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Knowledge of International Tax Regulations",
+        "description": "Applies global tax concepts such as BEPS, OECD guidelines, and transfer pricing.",
+        "performance_descriptors": {
+          "excellent": "Accurately explains BEPS, OECD, and transfer pricing with global context.",
+          "good": "Explains at least one regulation or framework clearly.",
+          "average": "Mentions international tax issues with limited understanding.",
+          "needs_improvement": "Minimal or unclear discussion of global tax matters.",
+          "poor": "Fails to address international tax considerations."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Evaluation of Deferred Tax Items",
+        "description": "Evaluates the role of deferred tax assets and liabilities in financial planning.",
+        "performance_descriptors": {
+          "excellent": "Thorough explanation of how deferred tax items affect reporting and strategy.",
+          "good": "Explains deferred tax concepts with some financial relevance.",
+          "average": "Mentions deferred tax without detailed evaluation.",
+          "needs_improvement": "Minimal or inaccurate explanation of deferred tax.",
+          "poor": "No mention of deferred tax items."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Style",
+        "description": "Presents ideas clearly and formally with logical structure.",
+        "performance_descriptors": {
+          "excellent": "Highly structured and formal with strong coherence and clarity.",
+          "good": "Mostly formal and well-organized with few inconsistencies.",
+          "average": "Some structure with minor issues in academic tone.",
+          "needs_improvement": "Flow is unclear or tone is informal.",
+          "poor": "Poor structure and lack of academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define and distinguish between tax avoidance and tax evasion with examples.",
+        "Explain how deferred tax assets and liabilities affect financial statements and planning.",
+        "Discuss strategies for international tax planning, including transfer pricing mechanisms.",
+        "Analyze the role of OECD and BEPS regulations in global tax compliance.",
+        "Evaluate how corporations adjust investment or financing decisions based on tax burden."
+      ],
+      "llm_questions": [
+        "What is the difference between tax avoidance and tax evasion in corporate accounting?",
+        "How do deferred tax assets and liabilities appear on financial statements and what do they mean?",
+        "What is international tax planning and why is it important for multinational corporations?",
+        "Can you explain how transfer pricing works and its implications for taxes?",
+        "What are BEPS and OECD tax guidelines, and how do they influence corporate behavior?",
+        "How do taxation policies affect corporate investment and capital structure decisions?",
+        "Can you provide examples of how companies adjust strategies to minimize tax exposure?"
+      ]
+    }
+  ]
+}

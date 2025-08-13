@@ -1,0 +1,96 @@
+{
+    "domain": "Accounting",
+    "prompt": "Discuss how the adoption of IFRS influences financial transparency and comparability for multinational companies.",
+    "rubric": {
+        "rubric_id": "rub_accounting_0012",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of IFRS Framework",
+                "description": "Demonstrates knowledge of International Financial Reporting Standards and their role in global accounting harmonization.",
+                "performance_descriptors": {
+                    "excellent": "Clearly explains IFRS principles, objectives, and distinguishes from local GAAP standards with comprehensive understanding.",
+                    "good": "Accurately describes IFRS framework and shows understanding of harmonization concept.",
+                    "average": "Mentions IFRS with basic understanding but limited detail on framework.",
+                    "needs_improvement": "Basic or unclear understanding of IFRS principles.",
+                    "poor": "Fails to explain IFRS accurately or shows fundamental misunderstanding."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Analysis of Transparency and Comparability Impact",
+                "description": "Evaluates how IFRS adoption affects financial transparency and enables cross-border business comparisons.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully discusses transparency improvements, comparability benefits, and impact on stakeholder decision-making.",
+                    "good": "Explains how IFRS enhances transparency and enables better company comparisons.",
+                    "average": "Makes general claims about transparency without detailed analysis.",
+                    "needs_improvement": "Mentions transparency/comparability with minimal supporting evidence.",
+                    "poor": "No clear link between IFRS and transparency/comparability outcomes."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Discussion of Implementation Challenges and Adaptations",
+                "description": "Addresses transition difficulties, country-specific adaptations, and practical implementation issues.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively discusses transition costs, training needs, system changes, and country-specific challenges with nuanced understanding.",
+                    "good": "Identifies key implementation challenges and discusses adaptation processes.",
+                    "average": "Mentions some challenges but lacks depth in analysis.",
+                    "needs_improvement": "Limited discussion of implementation issues.",
+                    "poor": "Fails to address challenges or provides superficial treatment."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Use of Real-World Examples and Evidence",
+                "description": "Incorporates actual examples of companies, countries, or sectors that have adopted IFRS, including M&A contexts.",
+                "performance_descriptors": {
+                    "excellent": "Provides multiple relevant examples from different contexts (companies, countries, M&A) with clear connections to arguments.",
+                    "good": "Provides at least one detailed, relevant example with proper context.",
+                    "average": "Mentions example(s) but with limited explanation or relevance.",
+                    "needs_improvement": "Example(s) are vague, poorly explained, or weakly connected to topic.",
+                    "poor": "No examples provided or examples are irrelevant."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Structure and Academic Writing",
+                "description": "Presents arguments in a well-organized, formal academic style appropriate for finance/accounting discourse.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent essay with formal tone, logical progression, and appropriate use of financial terminology.",
+                    "good": "Well-structured with clear introduction, body, and conclusion; mostly formal tone.",
+                    "average": "Some organizational structure; inconsistent academic style or terminology usage.",
+                    "needs_improvement": "Unclear organization or inappropriate tone for academic finance writing.",
+                    "poor": "Poorly organized, informal, or lacks coherent structure."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Understand the IFRS framework and its role in harmonizing global accounting standards.",
+                "Analyze how IFRS adoption enhances financial transparency and enables meaningful cross-border comparisons.",
+                "Evaluate the challenges companies face during IFRS transition, including costs, training, and system changes.",
+                "Discuss country-specific adaptations and variations in IFRS implementation.",
+                "Examine the role of IFRS in facilitating mergers, acquisitions, and international investment decisions.",
+                "Include real-world examples of companies, countries, or sectors that have successfully adopted IFRS.",
+                "Address the impact on investor confidence and capital market efficiency.",
+                "Write using formal academic style with proper financial terminology and logical argumentation."
+            ],
+            "llm_questions": [
+                "What are the main objectives and principles of International Financial Reporting Standards (IFRS)?",
+                "How does IFRS adoption improve financial transparency compared to local accounting standards?",
+                "What are the key benefits of having comparable financial statements across different countries?",
+                "What challenges do companies typically face when transitioning from local GAAP to IFRS?",
+                "Can you provide examples of countries or companies that have successfully implemented IFRS?",
+                "How do IFRS standards facilitate international mergers and acquisitions?",
+                "What impact does IFRS adoption have on investor confidence and capital market development?",
+                "How do different countries adapt IFRS to their local regulatory environments?",
+                "What are the ongoing costs and benefits of maintaining IFRS compliance for multinational companies?",
+                "How should an academic essay on IFRS be structured to demonstrate comprehensive understanding of accounting standards?"
+            ]
+        }
+    ]
+}

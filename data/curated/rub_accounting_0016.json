@@ -1,0 +1,90 @@
+{
+  "domain": "Accounting",
+  "prompt": "Examine how accounting practices support environmental, social, and governance (ESG) disclosures in business reporting.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0016",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of ESG and Sustainability Concepts",
+        "description": "Demonstrates understanding of ESG components and sustainability accounting frameworks.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains ESG components and links them to accounting practices.",
+          "good": "Describes ESG dimensions with some connection to accounting.",
+          "average": "Mentions ESG concepts with limited detail.",
+          "needs_improvement": "Basic understanding of ESG; unclear connection to accounting.",
+          "poor": "Fails to explain ESG or its relevance to accounting."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Reporting Standards and Frameworks",
+        "description": "Applies standards such as GRI or integrated reporting principles.",
+        "performance_descriptors": {
+          "excellent": "Effectively applies multiple reporting frameworks like GRI or TCFD.",
+          "good": "Applies at least one ESG reporting standard appropriately.",
+          "average": "Mentions frameworks with limited detail or understanding.",
+          "needs_improvement": "Minimal or incorrect reference to frameworks.",
+          "poor": "No discussion of sustainability standards."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Analysis of ESG Accounting Practices",
+        "description": "Analyzes the role of accounting in tracking, reporting, and improving ESG performance.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes how accounting measures and communicates ESG performance.",
+          "good": "Explains how ESG performance is reported through accounting.",
+          "average": "Touches on ESG tracking with little analytical depth.",
+          "needs_improvement": "Limited analysis of accounting's role in ESG.",
+          "poor": "No meaningful discussion of ESG accounting practices."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Impact on Stakeholders and Decision-Making",
+        "description": "Evaluates how ESG disclosures influence investor decisions and corporate image.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains how high-quality ESG disclosures affect stakeholder trust and decisions.",
+          "good": "Explains ESG influence with minor gaps in clarity.",
+          "average": "Mentions investor reaction to ESG reporting with limited support.",
+          "needs_improvement": "Minimal or unclear explanation of ESG impact.",
+          "poor": "No discussion of ESG’s stakeholder relevance."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Style",
+        "description": "Presents content in a formal academic style with logical flow and evidence.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, formal, well-supported essay throughout.",
+          "good": "Mostly formal and logical with minor issues in coherence.",
+          "average": "Some structure; occasional informal tone.",
+          "needs_improvement": "Unclear flow or inconsistent academic tone.",
+          "poor": "Disorganized and lacks formality."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define ESG and explain how each component relates to business sustainability.",
+        "Describe the role of accounting in preparing integrated and sustainability reports.",
+        "Discuss how carbon and environmental costs are tracked and reported.",
+        "Apply GRI or similar frameworks to ESG data reporting.",
+        "Evaluate how ESG transparency impacts investor trust and long-term value creation."
+      ],
+      "llm_questions": [
+        "What does ESG stand for and how does it relate to corporate sustainability?",
+        "How does accounting contribute to preparing integrated reports or sustainability disclosures?",
+        "What is the Global Reporting Initiative (GRI) and how is it used in ESG reporting?",
+        "How are environmental and carbon costs tracked in accounting systems?",
+        "What is triple bottom line accounting and how is it different from traditional financial reporting?",
+        "How do investors respond to companies with strong ESG disclosure practices?",
+        "Can you provide examples of companies that use accounting to report ESG performance?"
+      ]
+    }
+  ]
+}

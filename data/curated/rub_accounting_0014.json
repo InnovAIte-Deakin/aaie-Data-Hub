@@ -1,0 +1,113 @@
+{
+    "domain": "Accounting",
+    "prompt": "Compare the advantages and drawbacks of fair value and historical cost accounting in financial reporting.",
+    "rubric": {
+        "rubric_id": "rub_accounting_0014",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Valuation Methods",
+                "description": "Demonstrates clear knowledge of fair value and historical cost accounting concepts and their fundamental differences.",
+                "performance_descriptors": {
+                    "excellent": "Clearly defines both methods, explains their theoretical foundations, and articulates key differences with precision.",
+                    "good": "Accurately describes both valuation approaches and identifies main differences.",
+                    "average": "Shows basic understanding of both methods but with limited detail or some confusion.",
+                    "needs_improvement": "Unclear or incomplete understanding of one or both valuation methods.",
+                    "poor": "Fails to demonstrate understanding of valuation concepts or shows fundamental errors."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Critical Analysis of Advantages and Drawbacks",
+                "description": "Provides balanced evaluation of benefits and limitations of each valuation method, addressing relevance vs. reliability trade-offs.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully analyzes pros and cons of both methods, clearly discusses relevance vs. reliability tension, and considers stakeholder perspectives.",
+                    "good": "Identifies key advantages and disadvantages of both approaches with some analytical depth.",
+                    "average": "Lists some benefits and drawbacks but lacks critical analysis or depth.",
+                    "needs_improvement": "Superficial treatment of advantages/disadvantages with limited analysis.",
+                    "poor": "Fails to provide meaningful comparison or shows bias toward one method without justification."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Application of Accounting Standards Knowledge",
+                "description": "Demonstrates understanding of relevant accounting standards (IAS 16, IFRS 13) and their role in asset valuation decisions.",
+                "performance_descriptors": {
+                    "excellent": "Accurately references relevant standards, explains their requirements, and discusses how they guide valuation choices in different contexts.",
+                    "good": "Shows familiarity with key standards and their basic requirements for asset valuation.",
+                    "average": "Mentions relevant standards but with limited understanding of their specific provisions.",
+                    "needs_improvement": "Minimal or incorrect reference to accounting standards.",
+                    "poor": "No mention of relevant standards or demonstrates fundamental misunderstanding."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Analysis of Market Impact and Practical Implications",
+                "description": "Evaluates how market fluctuations affect each method and considers practical implications for financial reporting and investor interpretation.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly discusses market volatility effects, considers economic cycle impacts, and analyzes implications for different user groups.",
+                    "good": "Explains how market changes affect valuations and considers some practical implications.",
+                    "average": "Makes basic connections between market conditions and valuation methods.",
+                    "needs_improvement": "Limited discussion of market impact or practical considerations.",
+                    "poor": "Fails to address market fluctuation effects or practical implications."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Use of Examples and Evidence",
+                "description": "Incorporates relevant examples from different asset classes or industries to illustrate valuation method applications and impacts.",
+                "performance_descriptors": {
+                    "excellent": "Provides multiple relevant examples across different contexts (e.g., real estate, financial instruments, PPE) with clear connections to arguments.",
+                    "good": "Includes at least one detailed, relevant example that supports the analysis.",
+                    "average": "Mentions example(s) but with limited development or unclear relevance.",
+                    "needs_improvement": "Vague or poorly developed examples that don't effectively support arguments.",
+                    "poor": "No examples provided or examples are irrelevant to the topic."
+                }
+            },
+            {
+                "criterion_id": "c6",
+                "name": "Structure and Academic Writing",
+                "description": "Presents arguments in a well-organized, formal academic style with appropriate accounting terminology and logical flow.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent analysis with formal tone, logical progression, and precise use of accounting terminology.",
+                    "good": "Well-structured comparison with clear organization and mostly appropriate terminology.",
+                    "average": "Some organizational structure; inconsistent use of technical terms or academic style.",
+                    "needs_improvement": "Unclear organization or inappropriate tone for academic accounting analysis.",
+                    "poor": "Poorly organized, informal, or lacks coherent analytical structure."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define and differentiate fair value and historical cost accounting methods clearly.",
+                "Analyze the advantages of fair value accounting, including relevance, current market conditions reflection, and transparency.",
+                "Evaluate the drawbacks of fair value accounting, including volatility, subjectivity, and potential manipulation.",
+                "Examine the benefits of historical cost accounting, including reliability, verifiability, and stability.",
+                "Assess the limitations of historical cost accounting, including outdated information and lack of current relevance.",
+                "Discuss the relevance versus reliability trade-off in accounting measurement.",
+                "Apply knowledge of relevant accounting standards (IAS 16, IFRS 13) to support arguments.",
+                "Analyze how market fluctuations impact each valuation method differently.",
+                "Consider investor interpretation and decision-making implications of each approach.",
+                "Provide examples from different asset classes (property, financial instruments, inventory) to illustrate concepts.",
+                "Structure the analysis as a balanced, critical comparison using formal academic writing."
+            ],
+            "llm_questions": [
+                "What are the fundamental principles behind fair value and historical cost accounting methods?",
+                "What are the main advantages of using fair value accounting in financial reporting?",
+                "What are the key criticisms and drawbacks of fair value accounting?",
+                "What benefits does historical cost accounting provide to financial statement users?",
+                "What are the main limitations of historical cost accounting in modern business contexts?",
+                "How do accounting standards like IAS 16 and IFRS 13 guide the choice between valuation methods?",
+                "How do market fluctuations and economic cycles affect each valuation approach differently?",
+                "What is the relevance versus reliability trade-off in accounting measurement, and how does it apply here?",
+                "How do investors and other stakeholders interpret financial information under each valuation method?",
+                "Can you provide examples of specific assets or industries where one method might be preferred over another?",
+                "What are the practical challenges companies face when implementing fair value accounting?",
+                "How should a critical analysis comparing accounting methods be structured in academic writing?"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+  "domain": "Accounting",
+  "prompt": "Discuss the limitations and implications of accounting for intangible assets such as goodwill, patents, and brands.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0017",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Intangible Assets",
+        "description": "Demonstrates knowledge of different types of intangible assets and their characteristics.",
+        "performance_descriptors": {
+          "excellent": "Clearly defines and differentiates types of intangible assets with relevant examples.",
+          "good": "Defines major intangible assets with some examples.",
+          "average": "Mentions intangible assets with limited detail.",
+          "needs_improvement": "Basic or unclear definitions provided.",
+          "poor": "Fails to explain or misidentifies intangible assets."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Accounting Standards",
+        "description": "Applies IFRS standards (e.g., IAS 38, IFRS 3) in discussing recognition and valuation.",
+        "performance_descriptors": {
+          "excellent": "Accurately applies relevant IFRS standards and explains their impact.",
+          "good": "Applies at least one standard with minor errors or omissions.",
+          "average": "Mentions standards but lacks clarity or connection.",
+          "needs_improvement": "Minimal or unclear use of standards.",
+          "poor": "No reference to applicable standards."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Evaluation of Measurement and Impairment Challenges",
+        "description": "Evaluates the complexity of valuing intangibles and conducting impairment testing.",
+        "performance_descriptors": {
+          "excellent": "Insightful evaluation of valuation issues, impairment, and risk of misstatement.",
+          "good": "Explains measurement challenges with moderate detail.",
+          "average": "Touches on challenges without much analysis.",
+          "needs_improvement": "Minimal explanation of valuation complexity.",
+          "poor": "No discussion of valuation or impairment issues."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Implications for Financial Reporting and M&A",
+        "description": "Analyzes how intangible assets affect mergers, acquisitions, and reported financials.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly evaluates how intangible assets influence business valuation and reporting outcomes.",
+          "good": "Explains the implications with moderate analysis.",
+          "average": "Mentions relevance in M&A or reporting with limited depth.",
+          "needs_improvement": "Minimal insight into implications.",
+          "poor": "Fails to link intangible assets to M&A or reporting."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Style",
+        "description": "Presents content in a formal academic tone with logical structure.",
+        "performance_descriptors": {
+          "excellent": "Highly structured essay with formal tone and strong flow.",
+          "good": "Mostly well-organized and academic in tone.",
+          "average": "Some structure; inconsistencies in style or clarity.",
+          "needs_improvement": "Unclear flow or informal tone.",
+          "poor": "Disorganized and lacks academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define intangible assets and distinguish internally generated vs. acquired assets.",
+        "Explain IAS 38 and IFRS 3 regarding recognition and post-acquisition treatment of intangibles.",
+        "Describe impairment testing methods, especially for goodwill.",
+        "Discuss how intangible assets affect valuation during M&A activities.",
+        "Evaluate challenges in aligning economic value with reported book value."
+      ],
+      "llm_questions": [
+        "What are intangible assets and how are they classified in accounting?",
+        "What do IAS 38 and IFRS 3 say about the recognition of goodwill and patents?",
+        "How is impairment testing done for intangible assets like goodwill?",
+        "How do intangible assets affect the valuation of companies during mergers and acquisitions?",
+        "What are the challenges of measuring the true economic value of intangible assets?",
+        "Can you explain the difference between book value and market value for brands or patents?",
+        "Why is it difficult to account for internally generated intangible assets?"
+      ]
+    }
+  ]
+}

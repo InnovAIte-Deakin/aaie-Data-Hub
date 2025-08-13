@@ -1,0 +1,140 @@
+{
+    "domain": "Accounting",
+    "prompt": "Discuss how effective internal control systems reduce the risk of fraud and support compliance in organizations.",
+    "rubric": {
+        "rubric_id": "rub_accounting_0020",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Internal Control Systems",
+                "description": "Demonstrates comprehensive knowledge of internal control concepts, objectives, and their role in organizational risk management.",
+                "performance_descriptors": {
+                    "excellent": "Clearly defines internal controls, explains their fundamental objectives (operational effectiveness, reliable reporting, compliance), and demonstrates understanding of their integrated nature in organizational governance.",
+                    "good": "Accurately describes internal controls and identifies their main purposes in preventing fraud and ensuring compliance.",
+                    "average": "Shows basic understanding of internal controls but with limited detail on their comprehensive role in organizations.",
+                    "needs_improvement": "Unclear or incomplete understanding of internal control concepts and objectives.",
+                    "poor": "Fails to demonstrate understanding of internal controls or shows fundamental misconceptions."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application of COSO Framework",
+                "description": "Demonstrates knowledge of the COSO Internal Control Framework and its five components in fraud prevention.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly explains all five COSO components (control environment, risk assessment, control activities, information & communication, monitoring) and analyzes how each contributes to fraud prevention and compliance.",
+                    "good": "Accurately describes the COSO framework and explains how its key components work together to prevent fraud.",
+                    "average": "Shows familiarity with COSO framework but limited understanding of how components integrate for fraud prevention.",
+                    "needs_improvement": "Basic mention of COSO with minimal understanding of its components or application.",
+                    "poor": "Fails to reference COSO framework or demonstrates fundamental misunderstanding of its structure."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Analysis of Key Control Mechanisms",
+                "description": "Evaluates specific internal control mechanisms, particularly segregation of duties and other preventive controls.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively discusses segregation of duties, authorization controls, documentation requirements, physical safeguards, and reconciliation procedures with specific examples of how each prevents fraud.",
+                    "good": "Explains segregation of duties and several other key control mechanisms, demonstrating understanding of their fraud prevention role.",
+                    "average": "Identifies some control mechanisms but with limited analysis of their effectiveness in fraud prevention.",
+                    "needs_improvement": "Superficial treatment of control mechanisms with minimal understanding of their fraud prevention capabilities.",
+                    "poor": "Fails to identify relevant control mechanisms or shows poor understanding of their purpose and function."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Understanding of Fraud Theory and Risk Factors",
+                "description": "Demonstrates knowledge of fraud theory, including the fraud triangle, and identifies organizational risk factors that internal controls address.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly explains the fraud triangle (pressure, opportunity, rationalization), analyzes how internal controls specifically address opportunity factors, and discusses additional fraud risk factors and red flags.",
+                    "good": "Accurately describes the fraud triangle and explains how internal controls reduce fraud opportunities and address risk factors.",
+                    "average": "Shows basic understanding of fraud theory but limited connection to how internal controls mitigate fraud risks.",
+                    "needs_improvement": "Minimal discussion of fraud theory with unclear understanding of its relationship to internal controls.",
+                    "poor": "Fails to address fraud theory or demonstrates fundamental misunderstanding of fraud risk factors."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Compliance and Regulatory Considerations",
+                "description": "Analyzes how internal controls support regulatory compliance and discusses relevant compliance frameworks and requirements.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively discusses compliance requirements (SOX, industry-specific regulations), analyzes how internal controls ensure compliance, and evaluates the relationship between fraud prevention and regulatory adherence.",
+                    "good": "Explains how internal controls support compliance with key regulations and identifies relevant compliance frameworks.",
+                    "average": "Makes general connections between internal controls and compliance but lacks depth in regulatory understanding.",
+                    "needs_improvement": "Limited discussion of compliance aspects with minimal understanding of regulatory requirements.",
+                    "poor": "Fails to address compliance considerations or shows poor understanding of regulatory frameworks."
+                }
+            },
+            {
+                "criterion_id": "c6",
+                "name": "Audit Mechanisms and Monitoring",
+                "description": "Discusses the role of internal and external audit functions in testing and monitoring internal control effectiveness.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly analyzes internal audit functions, external audit requirements, continuous monitoring systems, and management oversight responsibilities in maintaining effective controls.",
+                    "good": "Explains the role of audit functions in testing controls and identifies key monitoring mechanisms for internal control effectiveness.",
+                    "average": "Mentions audit and monitoring activities but with limited understanding of their role in internal control systems.",
+                    "needs_improvement": "Superficial treatment of audit mechanisms with minimal analysis of their monitoring function.",
+                    "poor": "Fails to discuss audit and monitoring functions or shows fundamental misunderstanding of their role."
+                }
+            },
+            {
+                "criterion_id": "c7",
+                "name": "Use of Real-World Case Studies",
+                "description": "Incorporates relevant fraud cases and control failures to illustrate the importance of internal controls and consequences of their breakdown.",
+                "performance_descriptors": {
+                    "excellent": "Provides detailed analysis of multiple relevant cases (Wells Fargo, Toshiba, or similar), clearly connecting control failures to fraud outcomes and extracting lessons for internal control design.",
+                    "good": "Includes at least one well-explained case study that effectively demonstrates the consequences of internal control failures.",
+                    "average": "Mentions relevant cases but with limited detail or unclear connection to internal control principles.",
+                    "needs_improvement": "Vague or poorly developed case examples that don't effectively support the analysis.",
+                    "poor": "No relevant case studies provided or examples are irrelevant to internal control and fraud prevention topics."
+                }
+            },
+            {
+                "criterion_id": "c8",
+                "name": "Structure and Academic Writing",
+                "description": "Presents discussion in a well-organized, formal academic style with appropriate internal control and fraud prevention terminology.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent discussion with formal tone, logical progression, and precise use of internal control and fraud prevention terminology.",
+                    "good": "Well-structured analysis with clear organization and mostly appropriate professional terminology.",
+                    "average": "Some organizational structure; inconsistent use of technical terms or academic style.",
+                    "needs_improvement": "Unclear organization or inappropriate tone for academic internal control analysis.",
+                    "poor": "Poorly organized, informal, or lacks coherent analytical structure."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define internal controls and explain their fundamental objectives in preventing fraud and ensuring compliance.",
+                "Apply the COSO Internal Control Framework, explaining all five components and their integrated role in fraud prevention.",
+                "Analyze key control mechanisms including segregation of duties, authorization controls, documentation requirements, and physical safeguards.",
+                "Explain the fraud triangle theory (pressure, opportunity, rationalization) and how internal controls specifically address opportunity factors.",
+                "Discuss how internal controls support regulatory compliance, including SOX requirements and industry-specific regulations.",
+                "Evaluate the role of internal and external audit functions in testing and monitoring control effectiveness.",
+                "Analyze the importance of control environment, including tone at the top and organizational culture in fraud prevention.",
+                "Discuss continuous monitoring systems and management oversight responsibilities for maintaining effective controls.",
+                "Examine real-world fraud cases and control failures (Wells Fargo account fraud, Toshiba accounting scandal, etc.) to illustrate consequences of inadequate controls.",
+                "Evaluate the cost-benefit considerations of implementing comprehensive internal control systems.",
+                "Address the limitations of internal controls and the concept of reasonable assurance.",
+                "Structure the discussion using formal academic writing with appropriate internal control and fraud prevention terminology."
+            ],
+            "llm_questions": [
+                "What are internal controls, and what are their primary objectives in organizational risk management?",
+                "How does the COSO Internal Control Framework help organizations prevent fraud and ensure compliance?",
+                "What is segregation of duties, and how does it prevent fraud in financial processes?",
+                "Can you explain the fraud triangle and how internal controls address each of its components?",
+                "How do internal controls support compliance with regulations like the Sarbanes-Oxley Act?",
+                "What role do internal and external auditors play in testing and monitoring internal control effectiveness?",
+                "How does the control environment and tone at the top influence fraud prevention efforts?",
+                "What are some examples of specific control activities that organizations use to prevent financial fraud?",
+                "Can you analyze a major fraud case and explain how better internal controls could have prevented it?",
+                "What are the limitations of internal controls, and why can they only provide reasonable assurance?",
+                "How do organizations balance the costs and benefits of implementing comprehensive internal control systems?",
+                "What are the key components of an effective fraud risk assessment program?",
+                "How do continuous monitoring systems enhance traditional internal control testing?",
+                "How should an academic discussion of internal controls and fraud prevention be structured to demonstrate comprehensive understanding?"
+            ]
+        }
+    ]
+}

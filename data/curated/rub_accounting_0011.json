@@ -1,0 +1,78 @@
+{
+  "domain": "Accounting",
+  "prompt": "Evaluate the impact of ethical standards on financial reporting and the consequences of ethical breaches in accounting practices.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0011",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Ethical Standards",
+        "description": "Demonstrates understanding of accounting ethics and relevant codes of conduct (e.g., APES 110, IFAC Code).",
+        "performance_descriptors": {
+          "excellent": "Clearly explains key ethical principles and their application in accounting contexts.",
+          "good": "Explains core ethical concepts with some application to accounting.",
+          "average": "Mentions ethical concepts with limited depth.",
+          "needs_improvement": "Basic or unclear understanding of ethics in accounting.",
+          "poor": "Fails to address or misrepresents ethical principles."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Illustrates understanding through examples of ethical or unethical financial reporting.",
+        "performance_descriptors": {
+          "excellent": "Effectively integrates multiple relevant real-world examples.",
+          "good": "Provides at least one well-explained example.",
+          "average": "Examples are mentioned but lack analysis or relevance.",
+          "needs_improvement": "Vague or unrelated examples.",
+          "poor": "No examples provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation of Impact",
+        "description": "Evaluates how ethical behavior influences financial transparency and stakeholder trust.",
+        "performance_descriptors": {
+          "excellent": "Insightful analysis of ethical standards’ impact on stakeholders and business outcomes.",
+          "good": "Explains general importance of ethical behavior with moderate depth.",
+          "average": "Identifies impact with little analysis.",
+          "needs_improvement": "Minimal or unclear evaluation of ethical influence.",
+          "poor": "Fails to address consequences of ethics."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents ideas logically with a formal academic tone and appropriate referencing.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent, well-referenced essay with formal tone throughout.",
+          "good": "Mostly clear structure and tone; minor inconsistencies.",
+          "average": "Some structure; tone inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganized or inappropriate style."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Identify and explain the five fundamental ethical principles in accounting (e.g., integrity, objectivity, professional competence).",
+        "Explain the role of APES 110 and IFAC Code of Ethics in shaping ethical accounting practices.",
+        "Demonstrate how ethical lapses (e.g., Enron, WorldCom) affected financial reporting credibility.",
+        "Evaluate the impact of ethics on stakeholder trust and transparency in financial reporting.",
+        "Discuss the importance of maintaining ethics in preventing fraud and ensuring compliance."
+      ],
+      "llm_questions": [
+        "What are the core ethical principles accountants are required to follow?",
+        "How does APES 110 influence ethical conduct in financial reporting?",
+        "Can you give examples of major accounting scandals and their ethical implications?",
+        "How does ethical behavior affect investor trust and public perception?",
+        "What happens when accountants violate ethical codes?",
+        "Why is integrity crucial in preparing financial statements?",
+        "What frameworks guide ethical decision-making in accounting practice?"
+      ]
+    }
+  ]
+}
