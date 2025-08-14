@@ -1,0 +1,88 @@
+{
+    "domain": "Construction Engineering",
+    "prompt": "How would a construction engineer plan and execute the building of a small emergency shelter? Discuss site preparation, material choice, basic structure design, and time management.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0018",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Project Planning & Execution",
+                "description": "Explains all key steps in planning and executing the shelter construction.",
+                "performance_descriptors": {
+                    "excellent": "Provides an exceptionally comprehensive and meticulously detailed plan for building a small emergency shelter, expertly covering site preparation, optimal material selection, sound and functional basic structure design, and highly effective time management strategies.",
+                    "good": "Describes most crucial steps in planning and executing a small shelter, including site preparation, material choice, basic structure design, and time management, though some specific details might be less exhaustive.",
+                    "average": "Addresses most facets but with limited detail; some key aspects of site preparation, material choice, or time management may be omitted.",
+                    "needs_improvement": "Addresses some facets of shelter construction, but with considerable gaps in covering site preparation, material selection, structural elements, or time management.",
+                    "poor": "Presents a vague or fragmented description, marked by significant oversights in fundamental shelter construction principles."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Engineering Application",
+                "description": "Demonstrates a strong understanding of construction principles and their application.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of construction engineering principles, accurately detailing advanced site assessment techniques (e.g., soil analysis, drainage solutions), rigorously justifying material selection based on comprehensive properties and contextual factors, proposing robust structural elements, and implementing realistic, optimized time management.",
+                    "good": "Applies construction engineering principles to shelter building with strong accuracy, encompassing site preparation, materials, structure, and time management; any minor inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of construction principles, but with some inaccuracies regarding site preparation, material properties, structural design, or time estimates.",
+                    "needs_improvement": "Exhibits limited understanding of construction principles; several inaccuracies are prominent regarding site preparation, material properties, structural design, or time estimates.",
+                    "poor": "Reveals minimal to no understanding of construction engineering principles for shelter building; replete with inaccuracies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Organizational Clarity",
+                "description": "Presents a clear and logical plan for the construction process.",
+                "performance_descriptors": {
+                    "excellent": "Presents a logical, step-by-step narrative that is exceptionally clear and seamlessly guides the reader through the shelter construction process, from initial planning to final completion.",
+                    "good": "Presents a generally clear and structured plan for shelter construction. Steps and considerations are mostly coherent, though some transitions could be smoother for optimal clarity.",
+                    "average": "The plan has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The plan lacks clear structure and coherence, making it challenging to follow the proposed construction process or its underlying rationale.",
+                    "poor": "The response is disjointed, confusing, and largely incomprehensible."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Level of Specificity",
+                "description": "Provides detailed justifications and specific examples for all design choices.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations with specific examples of advanced site preparation techniques, meticulously detailed justifications for material choices (e.g., strength-to-weight ratio, resilience to specific weather), clear articulation of structural concepts, and practical, time-saving strategies.",
+                    "good": "Provides good explanations with sufficient detail regarding site preparation, material choice, basic structure design, and time management.",
+                    "average": "Supplies some explanations with limited detail; lacking specific examples of site prep, strong justifications for materials, or concrete structural details.",
+                    "needs_improvement": "Supplies basic explanations with minimal detail; lacking specific examples of site prep, strong justifications for materials, or concrete structural details.",
+                    "poor": "Offers superficial or generalized explanations, devoid of substantial detail regarding the construction process."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Writing & Technical Language",
+                "description": "Writing is clear, professional, and uses correct technical terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and highly precise language is employed with exceptional effectiveness to convey practical construction knowledge.",
+                    "good": "Writing is clear with very few grammatical or spelling errors; minor mechanical oversights do not impede understanding. Technical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding. Technical terminology is somewhat accurate.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity. Technical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Technical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Outlines the planning process, from site selection to resource and logistics planning for a rapid build.",
+                "Describes essential site preparation steps, such as clearing, grading, and foundation work appropriate for an emergency shelter.",
+                "Justifies material choices based on a balance of cost, availability, durability, and ease of assembly for a specific context.",
+                "Details a basic structural design, explaining the frame, walls, roof, and flooring.",
+                "Explains the crucial role of time management, including task sequencing and using a critical path method to meet a tight deadline."
+            ],
+            "llm_questions": [
+                "What are the most important considerations for site selection when building a temporary shelter?",
+                "Can you give me a list of common building materials for a small shelter and explain the pros and cons of each?",
+                "What is a critical path method in project management, and how would a construction engineer use it for this project?",
+                "Explain the difference between a concrete slab foundation and a pier-and-beam foundation for a small structure.",
+                "What are the key safety considerations on a construction site for a small team?"
+            ]
+        }
+    ]
+}

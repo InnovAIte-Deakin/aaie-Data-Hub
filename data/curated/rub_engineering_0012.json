@@ -1,0 +1,88 @@
+{
+    "domain": "Mechanical Engineering",
+    "prompt": "How would you design a basic cooling system (e.g., for a computer or small motor)? Discuss how heat transfer principles are applied, what materials might be used, and how airflow is managed.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0012",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Design Completeness",
+                "description": "Proposes a complete and integrated design for a basic cooling system.",
+                "performance_descriptors": {
+                    "excellent": "Proposes an exhaustive and well-integrated design for a basic cooling system, demonstrating a holistic approach to heat transfer principles, optimal material selection, and sophisticated airflow management.",
+                    "good": "Presents a solid design for a basic cooling system, capably addressing heat transfer, materials, and airflow management, though minor elements may lack extensive detail.",
+                    "average": "Presents a rudimentary design with some details, but overlooks crucial aspects of heat transfer, material considerations, or effective airflow management.",
+                    "needs_improvement": "Offers a rudimentary design that overlooks crucial aspects of heat transfer, material considerations, or effective airflow management.",
+                    "poor": "Provides an abstract or incomplete design, missing critical components or fundamental principles."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Conceptual Understanding",
+                "description": "Demonstrates a strong grasp of heat transfer, material properties, and fluid dynamics.",
+                "performance_descriptors": {
+                    "excellent": "Exhibits a profound grasp and accurate application of heat transfer mechanisms (conduction, convection, radiation), material thermal properties, and fluid dynamics relevant to airflow optimization.",
+                    "good": "Demonstrates a good understanding of heat transfer principles, material properties, and airflow management, with generally accurate application.",
+                    "average": "Shows a basic comprehension of heat transfer principles, material science, or airflow dynamics, but with some inaccuracies.",
+                    "needs_improvement": "Shows limited comprehension of heat transfer principles, material science, or airflow dynamics; notable inaccuracies are present.",
+                    "poor": "Reveals minimal to no understanding of key mechanical engineering concepts pertinent to cooling systems; replete with errors."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Structure & Flow",
+                "description": "Presents a logical and well-structured explanation of the design process.",
+                "performance_descriptors": {
+                    "excellent": "The explanation is exceptionally well-structured, presenting a logical progression of ideas that effortlessly guides the reader through the design process and underlying rationale.",
+                    "good": "The explanation is generally clear and organized, with design elements and concepts presented coherently.",
+                    "average": "The design narrative has some structure but is not consistently clear; the flow is sometimes difficult to follow.",
+                    "needs_improvement": "The design narrative lacks coherent structure, making it arduous to follow the proposed system and its constituent parts.",
+                    "poor": "The response is chaotic and inscrutable, rendering the proposed design impossible to decipher."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Level of Detail",
+                "description": "Provides specific justifications for material choices and design decisions.",
+                "performance_descriptors": {
+                    "excellent": "Provides incisive, in-depth explanations detailing how each system component contributes to thermal regulation, meticulously justifying specific material choices, and elaborating on intricate airflow strategies.",
+                    "good": "Furnishes good explanations with sufficient detail concerning the application of heat transfer, material choices, and management of airflow.",
+                    "average": "Offers some explanations with limited detail; lacking specific rationale for material selections or airflow strategies.",
+                    "needs_improvement": "Offers cursory explanations with scant detail; lacking specific rationale for material selections or airflow strategies.",
+                    "poor": "Supplies superficial or generalized descriptions with a complete absence of design-related specifics."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Grammar & Expression",
+                "description": "Writing is clear, professional, and free of grammatical errors.",
+                "performance_descriptors": {
+                    "excellent": "The writing is highly articulate, devoid of grammatical errors, spelling mistakes, or punctuation issues. It employs precise and professional language with great effect.",
+                    "good": "The writing is clear with very few grammatical or spelling errors; minor mechanical oversights do not impede comprehension.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally detracting from clarity.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely hinder understanding."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Applies and explains all three modes of heat transfer (conduction, convection, radiation) within the cooling system design.",
+                "Justifies material choices (e.g., copper, aluminum) based on their specific thermal conductivity properties.",
+                "Details how airflow is managed to maximize heat removal, including fan placement and the use of shrouds or ducting.",
+                "Describes the key components of the system (heat sink, fan, thermal interface material) and their functions.",
+                "Presents a logical design process from identifying the heat source to verifying the cooling capacity."
+            ],
+            "llm_questions": [
+                "What are the specific thermal properties of copper and aluminum that make them good heat sink materials?",
+                "Explain the difference between natural and forced convection in a cooling system?",
+                "Give me an example of a simple airflow duct design for a computer case and explain its purpose.",
+                "What are some best practices for writing a technical design proposal?",
+                "Can you describe the role of thermal paste and how it improves heat transfer?"
+            ]
+        }
+    ]
+}
