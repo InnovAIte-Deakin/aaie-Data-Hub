@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Analyze decision-making under uncertainty through the lens of heuristics and biases, comparing with prospect theory and dual-process models.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0020",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Core Theories",
+        "description": "Explains heuristics/biases (availability, representativeness, anchoring), prospect theory, and dual-process models.",
+        "performance_descriptors": {
+          "excellent": "Clearly articulates value and probability weighting, loss aversion, reference dependence, and System 1/2 distinctions.",
+          "good": "Accurate coverage with minor omissions.",
+          "average": "General explanation; limited precision.",
+          "needs_improvement": "Partial or confused coverage.",
+          "poor": "Incorrect or missing theories."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evidence and Phenomena",
+        "description": "Integrates empirical findings and classic effects.",
+        "performance_descriptors": {
+          "excellent": "Discusses framing, endowment effect, base-rate neglect, conjunction fallacy, and boundary conditions.",
+          "good": "Covers several key effects with reasonable accuracy.",
+          "average": "Mentions effects without depth.",
+          "needs_improvement": "Sparse or inaccurate coverage.",
+          "poor": "No relevant evidence."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Comparative Evaluation",
+        "description": "Contrasts explanatory power and limitations of frameworks.",
+        "performance_descriptors": {
+          "excellent": "Evaluates when each framework best applies, notes challenges from ecological rationality and expertise.",
+          "good": "Clear comparison with some nuance.",
+          "average": "Superficial comparison.",
+          "needs_improvement": "Limited comparative analysis.",
+          "poor": "No meaningful comparison."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Applications",
+        "description": "Applies insights to policy, finance, health, or UX.",
+        "performance_descriptors": {
+          "excellent": "Proposes concrete nudges/interventions and notes ethical considerations and debiasing evidence.",
+          "good": "Provides relevant applications with examples.",
+          "average": "General applications without specifics.",
+          "needs_improvement": "Minimal applications.",
+          "poor": "No applications."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Structure",
+        "description": "Logical organization and clear writing.",
+        "performance_descriptors": {
+          "excellent": "Well-organized and precise.",
+          "good": "Mostly clear with minor issues.",
+          "average": "Adequate clarity.",
+          "needs_improvement": "Disorganized.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define major heuristics and prospect theory components with examples.",
+        "Explain framing effects and loss aversion in real decisions.",
+        "Discuss dual-process implications for expertise and training.",
+        "Propose debiasing and choice architecture interventions.",
+        "Note ecological rationality critiques and when heuristics help."
+      ],
+      "llm_questions": [
+        "Provide original examples of anchoring, availability, and representativeness.",
+        "Explain prospect theory’s value function and probability weighting.",
+        "How do framing effects influence health decisions?",
+        "Design a debiasing protocol for investment choices.",
+        "Compare dual-process models with ecological rationality."
+      ]
+    }
+  ]
+}

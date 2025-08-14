@@ -1,0 +1,89 @@
+{
+  "domain": "Psychology",
+  "prompt": "Critically evaluate the biopsychosocial model of health and illness, including its advantages over reductionist models and challenges in clinical implementation.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0018",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Model Comprehension",
+        "description": "Explains biological, psychological, and social dimensions and their interactions.",
+        "performance_descriptors": {
+          "excellent": "Integrates components with clear interaction examples and historical context.",
+          "good": "Accurate explanation with minor omissions.",
+          "average": "General overview with limited integration.",
+          "needs_improvement": "Partial or unclear account.",
+          "poor": "Incorrect or incomplete description."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Comparative Evaluation",
+        "description": "Contrasts with biomedical/reductionist approaches.",
+        "performance_descriptors": {
+          "excellent": "Analyzes strengths (holism, personalization) and critiques (operationalization, resource burden).",
+          "good": "Clear comparison with some nuance.",
+          "average": "Surface-level comparison.",
+          "needs_improvement": "Limited contrast or inaccuracies.",
+          "poor": "No meaningful comparison."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Clinical Application",
+        "description": "Translates theory into assessment and intervention.",
+        "performance_descriptors": {
+          "excellent": "Provides structured case formulation and multidisciplinary plans; addresses implementation barriers.",
+          "good": "Offers practical examples with moderate specificity.",
+          "average": "General applications without detail.",
+          "needs_improvement": "Vague or minimal applications.",
+          "poor": "No application."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Evidence Integration",
+        "description": "Uses empirical support and real-world cases.",
+        "performance_descriptors": {
+          "excellent": "Integrates studies and clinical cases showing model utility and limits.",
+          "good": "Includes relevant evidence with minor gaps.",
+          "average": "General references to evidence.",
+          "needs_improvement": "Sparse or weak evidence.",
+          "poor": "No evidence."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Structure",
+        "description": "Organization and coherence.",
+        "performance_descriptors": {
+          "excellent": "Well-structured and persuasive.",
+          "good": "Clear with minor issues.",
+          "average": "Adequate clarity.",
+          "needs_improvement": "Disorganized.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define the model and provide historical context (Engel).",
+        "Contrast with biomedical model; note operational challenges.",
+        "Provide case formulation template incorporating B-P-S factors.",
+        "Discuss multidisciplinary teamwork and coordination issues.",
+        "Consider equity, culture, and social determinants."
+      ],
+      "llm_questions": [
+        "Create a biopsychosocial case formulation for chronic pain.",
+        "What are common barriers to implementing the biopsychosocial model in clinics?",
+        "How do social determinants influence health outcomes?",
+        "Compare biomedical vs. biopsychosocial approaches in diabetes care.",
+        "Design a multidisciplinary care plan using the model."
+      ]
+    }
+  ]
+}
+
