@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Evaluate cognitive-behavioral therapy (CBT) as an evidence-based treatment for depression and anxiety, considering mechanisms of change, efficacy, and limitations.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0015",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Mechanisms of Change",
+        "description": "Demonstrates understanding of cognitive restructuring, behavioral activation, exposure, and skills training.",
+        "performance_descriptors": {
+          "excellent": "Explains mechanisms with clarity, showing how cognitive and behavioral techniques interact and referencing maintenance processes (avoidance, rumination).",
+          "good": "Covers core mechanisms with minor gaps.",
+          "average": "General description; limited integration of mechanisms.",
+          "needs_improvement": "Partial or superficial explanation.",
+          "poor": "Misunderstands key mechanisms."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evidence and Efficacy",
+        "description": "Evaluates research support and comparative effectiveness.",
+        "performance_descriptors": {
+          "excellent": "Accurately summarizes evidence from RCTs/meta-analyses, relapse prevention, and comparisons to medication and combined treatments.",
+          "good": "Discusses evidence with some depth and nuance.",
+          "average": "General claims of efficacy without detail.",
+          "needs_improvement": "Sparse or weakly supported claims.",
+          "poor": "No evidence provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Limitations and Adaptations",
+        "description": "Addresses limitations, barriers, and cultural adaptations.",
+        "performance_descriptors": {
+          "excellent": "Considers access, adherence, cultural tailoring, therapist competence, and condition-specific limits; mentions third-wave approaches where relevant.",
+          "good": "Notes several limitations with some solutions.",
+          "average": "Brief limitations; limited solutions.",
+          "needs_improvement": "Minimal or generic limitations.",
+          "poor": "No limitations addressed."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Clinical Application",
+        "description": "Translates evidence into practical treatment planning.",
+        "performance_descriptors": {
+          "excellent": "Provides a coherent case formulation and stepwise intervention plan including measurement-based care.",
+          "good": "Offers practical steps with moderate specificity.",
+          "average": "General guidance; lacks specificity.",
+          "needs_improvement": "Vague application.",
+          "poor": "No practical application."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Clarity",
+        "description": "Organized, clear, and persuasive writing.",
+        "performance_descriptors": {
+          "excellent": "Strong structure and precise language with smooth transitions.",
+          "good": "Generally clear with minor lapses.",
+          "average": "Adequate structure; occasional ambiguity.",
+          "needs_improvement": "Disorganized or repetitive.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Outline cognitive restructuring and behavioral activation with examples.",
+        "Summarize evidence for CBT vs. SSRIs and combined treatment.",
+        "Discuss relapse prevention and booster sessions.",
+        "Identify limitations (e.g., treatment-resistant cases) and cultural adaptations.",
+        "Describe outcome monitoring and case formulation steps."
+      ],
+      "llm_questions": [
+        "Provide a step-by-step CBT plan for moderate depression.",
+        "What meta-analytic evidence supports CBT’s effectiveness for anxiety disorders?",
+        "How do exposure techniques work mechanistically?",
+        "What cultural adaptations improve CBT engagement?",
+        "How to implement measurement-based care in CBT?"
+      ]
+    }
+  ]
+}

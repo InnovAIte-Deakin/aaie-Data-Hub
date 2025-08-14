@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Examine attachment theory from infancy to adulthood, comparing attachment styles, measurement methods, and implications for relationships and mental health.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0017",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Theory and Styles",
+        "description": "Explains secure, avoidant, ambivalent/resistant, and disorganized attachment.",
+        "performance_descriptors": {
+          "excellent": "Accurately defines styles, developmental origins, and behavioral patterns across stages of life.",
+          "good": "Correct definitions with minor omissions.",
+          "average": "Basic descriptions with occasional inaccuracies.",
+          "needs_improvement": "Partial or unclear understanding.",
+          "poor": "Incorrect or missing definitions."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Assessment Methods",
+        "description": "Describes Strange Situation, Adult Attachment Interview, and self-report measures.",
+        "performance_descriptors": {
+          "excellent": "Explains procedures, scoring, reliability/validity, and cross-cultural issues.",
+          "good": "Describes methods with acceptable accuracy.",
+          "average": "Mentions methods briefly without depth.",
+          "needs_improvement": "Sparse or inaccurate coverage.",
+          "poor": "No meaningful method discussion."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Implications and Outcomes",
+        "description": "Links attachment to relationship patterns and mental health.",
+        "performance_descriptors": {
+          "excellent": "Connects styles to intimacy, conflict patterns, emotion regulation, and risk for psychopathology with nuance.",
+          "good": "Reasonable links to outcomes with some depth.",
+          "average": "General associations without nuance.",
+          "needs_improvement": "Weak or unsupported links.",
+          "poor": "No outcome discussion."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Perspectives",
+        "description": "Considers limitations, stability, and context.",
+        "performance_descriptors": {
+          "excellent": "Evaluates stability across lifespan, role of environment, culture, and measurement controversies.",
+          "good": "Notes several critiques with some evaluation.",
+          "average": "Superficial critique.",
+          "needs_improvement": "Minimal critical analysis.",
+          "poor": "No critique."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Organization and Clarity",
+        "description": "Clear structure and writing.",
+        "performance_descriptors": {
+          "excellent": "Cohesive, well-signposted, and precise.",
+          "good": "Mostly clear with minor issues.",
+          "average": "Adequate clarity; some redundancy.",
+          "needs_improvement": "Disorganized or unclear.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define styles and typical behaviors in infancy and adult relationships.",
+        "Explain Strange Situation and Adult Attachment Interview with reliability/validity points.",
+        "Discuss links with emotion regulation, conflict styles, and psychopathology risk.",
+        "Address cultural variation and stability over time.",
+        "Note clinical and relational implications (e.g., therapy focus)."
+      ],
+      "llm_questions": [
+        "Summarize attachment styles with real-life examples.",
+        "How does the Strange Situation classify attachment?",
+        "What are adult attachment dimensions in self-report models?",
+        "How does attachment style influence conflict resolution?",
+        "What is known about attachment stability across the lifespan?"
+      ]
+    }
+  ]
+}
