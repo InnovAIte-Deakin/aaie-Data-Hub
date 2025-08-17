@@ -77,13 +77,13 @@
         "Structure the essay for clarity and use authoritative academic tone."
       ],
       "llm_questions": [
-        "What are the foundational principles and models for online higher education?",
-        "What significant challenges impact students and educators in virtual classrooms?",
-        "How can institutions leverage opportunities to enhance learning accessibility and personalization?",
-        "What research findings support effective online course design and pedagogy?",
-        "What innovative strategies promote student engagement and reduce isolation online?",
-        "How can technology be optimally integrated to support diverse learners?",
-        "What role do instructors play in fostering an active online community?"
+        "What are the foundational principles of synchronous vs. asynchronous learning, and how does the Community of Inquiry framework guide online pedagogy?",
+        "How do Hodges et al. (2020) distinguish between emergency remote teaching and planned online education, and what implications does this have for quality?",
+        "What enrollment trends and institutional challenges does Allen & Seaman (2017) identify in their analysis of online higher education growth?",
+        "What evidence-based strategies from research effectively address digital equity and learner isolation in virtual classrooms?",
+        "How can Universal Design for Learning principles be applied to create inclusive online learning environments for diverse student populations?",
+        "What innovative engagement strategies and interactive technologies have proven most effective in prominent online institutions like ASU Online or Penn State World Campus?",
+        "How can instructors establish meaningful presence and build learning communities in virtual environments according to current research?"
       ]
     }
   ]
