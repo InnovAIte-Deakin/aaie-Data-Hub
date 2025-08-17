@@ -72,18 +72,18 @@
       "key_points": [
         "Define and differentiate formative, summative, diagnostic, and evaluative assessments clearly.",
         "Analyze the dual role of assessments in guiding instruction and measuring learning.",
-        "Use research such as Black & Wiliam (1998) and recent meta-analyses to support arguments.",
+        "Integrate current research such as Hattie & Clarke (2019), Brookhart (2022), and recent meta-analyses on assessment effectiveness.",
         "Offer detailed strategies for using assessment data to provide timely feedback and differentiated instruction.",
         "Present a detailed, scholarly, and well-structured analysis."
       ],
       "llm_questions": [
-        "What distinguishes formative and summative assessments?",
-        "How can assessments improve student learning outcomes?",
-        "What research supports effective assessment practices?",
-        "How should teachers use assessment data to adapt instruction?",
-        "What challenges exist in implementing effective assessments?",
-        "How can assessments be designed to accommodate diverse learners?",
-        "What role does student self-assessment play in formative evaluation?"
+        "How do current researchers like Hattie & Clarke (2019) define the distinction between formative and summative assessments?",
+        "What does Brookhart's (2022) research reveal about effective feedback practices in formative assessment?",
+        "How can real-time assessment data be used to implement responsive teaching strategies?",
+        "What evidence-based approaches exist for using assessment analytics to identify learning gaps?",
+        "How do digital assessment tools enhance data-driven instructional decision-making?",
+        "What strategies help teachers move beyond assessment data collection to actionable instructional changes?",
+        "How can assessment practices be designed to support both learning and wellbeing in diverse classrooms?"
       ]
     }
   ]
