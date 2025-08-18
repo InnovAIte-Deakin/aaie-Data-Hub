@@ -77,13 +77,13 @@
         "Present a well-structured and formally written academic essay."
       ],
       "llm_questions": [
-        "What are the main models of technology integration in education?",
-        "How can technology improve student engagement and achievement?",
-        "What does research say about effective use of educational technology?",
-        "What challenges do teachers face in integrating technology?",
-        "What strategies can help overcome barriers to technology use?",
-        "How can equitable access to technology be ensured?",
-        "What role does professional development play in technology integration?"
+        "How do the SAMR and TPACK models guide effective educational technology integration, and what are the key differences between these frameworks?",
+        "What does current research reveal about technology's impact on student motivation, engagement, and learning outcomes?",
+        "How can technology improve student engagement and achievement according to evidence-based practices?",
+        "What are the primary challenges teachers face in integrating technology, including issues of access, preparedness, and digital equity?",
+        "What evidence-based strategies can help overcome barriers to technology use in diverse classroom settings?",
+        "How can schools ensure equitable access to technology while addressing infrastructure and professional development needs?",
+        "What role does ongoing professional development play in successful technology integration and pedagogical adaptation?"
       ]
     }
   ]
