@@ -1,0 +1,4 @@
+# add packages your team needs to run scripts, e.g.:
+# google-generativeai
+# openai
+# python-dotenv
