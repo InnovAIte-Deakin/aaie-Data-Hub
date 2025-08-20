@@ -1,0 +1,125 @@
+{
+    "domain": "Accounting",
+    "prompt": "Evaluate how ethical principles support auditor independence and prevent conflicts of interest in financial audits.",
+    "rubric": {
+        "rubric_id": "rub_accounting_0015",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Auditor Independence Concepts",
+                "description": "Demonstrates comprehensive knowledge of independence in fact and independence in appearance, and their significance in auditing.",
+                "performance_descriptors": {
+                    "excellent": "Clearly distinguishes between independence in fact and appearance, explains their importance, and discusses how both are essential for audit credibility.",
+                    "good": "Accurately defines both types of independence and explains their basic importance to auditing.",
+                    "average": "Shows understanding of independence concept but may confuse or inadequately explain the two types.",
+                    "needs_improvement": "Limited understanding of independence concepts with unclear explanations.",
+                    "poor": "Fails to demonstrate understanding of auditor independence or shows fundamental misconceptions."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Analysis of Ethical Principles and Professional Standards",
+                "description": "Evaluates how fundamental ethical principles underpin auditor independence and examines relevant regulatory frameworks.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly discusses ethical principles (integrity, objectivity, professional competence), connects them to independence, and demonstrates knowledge of multiple regulatory standards (APES 110, IFAC, PCAOB).",
+                    "good": "Identifies key ethical principles and shows familiarity with relevant professional standards and their requirements.",
+                    "average": "Mentions some ethical principles and standards but with limited depth or understanding of their application.",
+                    "needs_improvement": "Superficial treatment of ethical principles with minimal reference to regulatory standards.",
+                    "poor": "Fails to identify relevant ethical principles or regulatory frameworks, or demonstrates fundamental misunderstanding."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Identification and Analysis of Conflicts of Interest",
+                "description": "Demonstrates understanding of various threats to independence and how they create conflicts of interest in audit engagements.",
+                "performance_descriptors": {
+                    "excellent": "Comprehensively identifies multiple types of threats (self-interest, self-review, advocacy, familiarity, intimidation) with detailed examples and analysis of their impact.",
+                    "good": "Identifies several key threats to independence and explains how they compromise audit quality.",
+                    "average": "Recognizes some conflicts of interest but with limited analysis of their implications.",
+                    "needs_improvement": "Basic identification of conflicts with minimal understanding of their significance.",
+                    "poor": "Fails to identify relevant conflicts of interest or shows poor understanding of their impact on independence."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Professional Skepticism and Critical Thinking",
+                "description": "Discusses the role of professional skepticism in maintaining independence and supporting ethical audit practices.",
+                "performance_descriptors": {
+                    "excellent": "Insightfully explains professional skepticism, its relationship to independence, and how it guides auditor behavior and decision-making throughout the audit process.",
+                    "good": "Accurately describes professional skepticism and explains its importance in maintaining audit quality and independence.",
+                    "average": "Shows basic understanding of professional skepticism but limited connection to independence or ethical practice.",
+                    "needs_improvement": "Superficial treatment of professional skepticism with unclear understanding of its role.",
+                    "poor": "Fails to discuss professional skepticism or demonstrates fundamental misunderstanding of the concept."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Use of Real-World Examples and Case Studies",
+                "description": "Incorporates relevant audit failures, scandals, or governance cases to illustrate independence issues and their consequences.",
+                "performance_descriptors": {
+                    "excellent": "Provides detailed analysis of multiple relevant cases (e.g., Arthur Andersen, other audit failures), clearly connecting them to independence principles and lessons learned.",
+                    "good": "Includes at least one well-explained case study that effectively illustrates independence issues and their impact.",
+                    "average": "Mentions relevant examples but with limited detail or unclear connection to independence concepts.",
+                    "needs_improvement": "Vague or poorly developed examples that don't effectively support the analysis.",
+                    "poor": "No relevant examples provided or examples are irrelevant to auditor independence issues."
+                }
+            },
+            {
+                "criterion_id": "c6",
+                "name": "Role of Governance Mechanisms",
+                "description": "Analyzes how audit committees and other governance structures support auditor independence and ethical practice.",
+                "performance_descriptors": {
+                    "excellent": "Thoroughly discusses audit committee responsibilities, their role in protecting independence, and interaction with external auditors, including regulatory requirements.",
+                    "good": "Explains the basic role of audit committees in supporting independence and oversight of audit processes.",
+                    "average": "Mentions governance mechanisms but with limited understanding of their specific roles in independence.",
+                    "needs_improvement": "Superficial treatment of governance structures with unclear connection to independence.",
+                    "poor": "Fails to discuss relevant governance mechanisms or shows fundamental misunderstanding of their role."
+                }
+            },
+            {
+                "criterion_id": "c7",
+                "name": "Structure and Academic Writing",
+                "description": "Presents arguments in a well-organized, formal academic style appropriate for auditing and ethics discourse.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent analysis with formal tone, logical progression, and appropriate use of auditing and ethics terminology.",
+                    "good": "Well-structured evaluation with clear organization and mostly appropriate professional terminology.",
+                    "average": "Some organizational structure; inconsistent use of technical terms or academic style.",
+                    "needs_improvement": "Unclear organization or inappropriate tone for academic auditing analysis.",
+                    "poor": "Poorly organized, informal, or lacks coherent analytical structure."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define and differentiate independence in fact and independence in appearance, explaining their critical importance to audit credibility.",
+                "Analyze fundamental ethical principles (integrity, objectivity, professional competence, due care, confidentiality) and their role in supporting independence.",
+                "Examine regulatory standards and frameworks including APES 110, IFAC Code of Ethics, and PCAOB requirements.",
+                "Identify and analyze various threats to independence including self-interest, self-review, advocacy, familiarity, and intimidation threats.",
+                "Evaluate safeguards and mechanisms used to prevent or mitigate conflicts of interest in audit engagements.",
+                "Discuss the concept and application of professional skepticism in maintaining independence and audit quality.",
+                "Analyze real-world audit failures and scandals (Arthur Andersen/Enron, WorldCom, etc.) to illustrate independence breakdowns and their consequences.",
+                "Examine the role of audit committees in protecting auditor independence and supporting ethical practice.",
+                "Consider the impact of non-audit services on independence and related regulatory restrictions.",
+                "Discuss rotation requirements and other structural safeguards for maintaining long-term independence.",
+                "Structure the evaluation using formal academic writing with appropriate auditing and ethics terminology."
+            ],
+            "llm_questions": [
+                "What is the difference between independence in fact and independence in appearance, and why are both important?",
+                "Which fundamental ethical principles support auditor independence, and how do they apply in practice?",
+                "What are the key requirements of regulatory standards like APES 110, IFAC Code of Ethics, and PCAOB rules regarding independence?",
+                "What are the main types of threats to auditor independence, and how do they create conflicts of interest?",
+                "What is professional skepticism, and how does it relate to maintaining auditor independence?",
+                "Can you analyze a major audit failure or scandal and explain how independence issues contributed to the problem?",
+                "What role do audit committees play in protecting and supporting auditor independence?",
+                "How do non-audit services threaten independence, and what restrictions exist to address these concerns?",
+                "What safeguards and mechanisms are used to prevent or mitigate conflicts of interest in auditing?",
+                "How do audit partner rotation requirements and other structural measures support long-term independence?",
+                "What lessons have been learned from major audit scandals about the importance of independence?",
+                "How should an academic analysis of auditor independence and ethics be structured to demonstrate comprehensive understanding?"
+            ]
+        }
+    ]
+}
