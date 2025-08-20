@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Analyze the Big Five personality traits (OCEAN) and evaluate their predictive validity for life outcomes such as academic success, job performance, health, and relationships.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0013",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Mastery of Big Five",
+        "description": "Accurate explanation of Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly defines each trait, typical behaviors, and measurement approaches (e.g., NEO-PI-R), noting trait stability and heritability.",
+          "good": "Accurately defines the five traits with minor omissions or limited methodological detail.",
+          "average": "Basic definitions with occasional inaccuracies or oversimplifications.",
+          "needs_improvement": "Partial or unclear explanation with notable inaccuracies.",
+          "poor": "Fails to correctly describe core traits."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Predictive Validity Analysis",
+        "description": "Evaluates how traits predict outcomes across domains.",
+        "performance_descriptors": {
+          "excellent": "Makes precise, evidence-informed claims linking traits to outcomes (e.g., Conscientiousness and job/academic performance; Neuroticism and mental health), noting effect sizes and boundary conditions.",
+          "good": "Explains several trait-outcome links with reasonable accuracy and some nuance.",
+          "average": "Lists general associations without depth or qualifiers.",
+          "needs_improvement": "Sparse or unsupported associations; limited understanding of predictive scope.",
+          "poor": "No meaningful analysis of predictive validity."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Methodological and Cultural Considerations",
+        "description": "Addresses measurement, cross-cultural generalizability, and limitations.",
+        "performance_descriptors": {
+          "excellent": "Critically considers measurement instruments, self-report bias, cross-cultural replication, and incremental validity over other models.",
+          "good": "Mentions at least two methodological or cultural issues with some analysis.",
+          "average": "Acknowledges issues superficially with limited evaluation.",
+          "needs_improvement": "Minimal methodological reflection; lacks cultural perspective.",
+          "poor": "No attention to methods or cultural context."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Use of Evidence and Examples",
+        "description": "Integrates studies, meta-analytic findings, or realistic examples.",
+        "performance_descriptors": {
+          "excellent": "Uses specific, relevant evidence or illustrative examples to support claims and contrasts conflicting findings.",
+          "good": "Includes relevant examples or general evidence with minor gaps.",
+          "average": "Examples are generic or weakly connected to claims.",
+          "needs_improvement": "Sparse or poorly chosen examples.",
+          "poor": "No examples provided."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Organization and Clarity",
+        "description": "Logical structure, coherent flow, clear writing.",
+        "performance_descriptors": {
+          "excellent": "Clear thesis, logical progression, smooth transitions, precise language.",
+          "good": "Mostly clear structure with minor redundancies.",
+          "average": "Adequate organization; some unclear passages.",
+          "needs_improvement": "Disorganized and difficult to follow.",
+          "poor": "Incoherent presentation."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define each trait and typical behavioral indicators; note common instruments (e.g., NEO-PI-R, BFI).",
+        "Explain strongest predictive links: Conscientiousness with performance and health behaviors; Neuroticism with anxiety/depression and relationship strain.",
+        "Discuss incremental validity over IQ for academic/work outcomes and interactions among traits.",
+        "Address self-report bias, informant reports, and cross-cultural structure replicability.",
+        "Include practical implications for selection, coaching, and well-being interventions."
+      ],
+      "llm_questions": [
+        "Summarize the Big Five traits with behavioral examples.",
+        "What evidence links Conscientiousness to academic and job performance?",
+        "How does Neuroticism relate to mental and physical health outcomes?",
+        "Explain incremental validity of personality over cognitive ability.",
+        "What are limitations of self-report personality measures and how can they be mitigated?"
+      ]
+    }
+  ]
+}
