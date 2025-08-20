@@ -1,0 +1,83 @@
+{
+  "domain": "Accounting",
+  "prompt": "Evaluate the impact of ethical standards on financial reporting and the consequences of ethical breaches in accounting practices.",
+  "rubric": {
+    "rubric_id": "rub_accouting_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Ethical Standards",
+        "description": "Demonstrates understanding of accounting ethics and relevant codes of conduct (e.g., APES 110, IFAC Code).",
+        "performance_descriptors": {
+          "excellent": "Clearly explains key ethical principles and their application in accounting contexts.",
+          "good": "Explains core ethical concepts with some application to accounting.",
+          "average": "Mentions ethical concepts with limited depth.",
+          "needs_improvement": "Basic or unclear understanding of ethics in accounting.",
+          "poor": "Fails to address or misrepresents ethical principles."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Illustrates understanding through examples of ethical or unethical financial reporting.",
+        "performance_descriptors": {
+          "excellent": "Effectively integrates multiple relevant real-world examples.",
+          "good": "Provides at least one well-explained example.",
+          "average": "Examples are mentioned but lack analysis or relevance.",
+          "needs_improvement": "Vague or unrelated examples.",
+          "poor": "No examples provided."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation of Impact",
+        "description": "Evaluates how ethical behavior influences financial transparency and stakeholder trust.",
+        "performance_descriptors": {
+          "excellent": "Insightful analysis of ethical standards’ impact on stakeholders and business outcomes.",
+          "good": "Explains general importance of ethical behavior with moderate depth.",
+          "average": "Identifies impact with little analysis.",
+          "needs_improvement": "Minimal or unclear evaluation of ethical influence.",
+          "poor": "Fails to address consequences of ethics."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents ideas logically with a formal academic tone and appropriate referencing.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent, well-referenced essay with formal tone throughout.",
+          "good": "Mostly clear structure and tone; minor inconsistencies.",
+          "average": "Some structure; tone inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganized or inappropriate style."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "final_submission": "Accounting ethics are grounded in five fundamental principles including integrity, objectivity, and professional competence. Standards such as APES 110 and the IFAC Code provide essential frameworks to guide ethical conduct in financial reporting. Major ethical failures like those seen in Enron and WorldCom severely damaged public trust and highlighted the consequences of ethical breaches. Ethical behavior enhances transparency and stakeholder trust while unethical conduct can lead to fraud, loss of credibility, and regulatory penalties. Maintaining strong ethical standards is critical to ensure compliance, build investor confidence, and uphold the integrity of financial statements.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "Throughout my coursework, I’ve come to realize how core principles like integrity and objectivity influence not just technical accuracy but also trust in financial systems. Ethical lapses, like the Enron scandal, are not just historical cases — they’re reminders of what happens when ethical codes like APES 110 are disregarded. Without ethical guidance, even accurate data loses its meaning. Stakeholders depend on transparency, and that depends on ethics being more than just a checklist.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "Ethical standards in accounting are essential for maintaining stakeholder trust and ensuring accuracy in financial reporting. The APES 110 code provides guidance for accountants to act with integrity and objectivity. When ethics are not followed, as seen in accounting scandals, the result is a loss of trust and credibility. Ethics also help reduce fraud and promote regulatory compliance. Therefore, adhering to ethical principles benefits both organizations and the public.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "The role of ethics in financial reporting is critical. By following ethical frameworks like the IFAC Code and APES 110, accountants ensure compliance and trustworthiness in reporting. Ethical breaches, such as those that occurred at WorldCom, show how damaging misconduct can be. Maintaining professional ethics ensures transparent reporting, supports regulation, and sustains investor confidence.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "The importance of ethics in accounting extends beyond regulations; it’s about ensuring long-term trust. While AI can summarize principles like integrity or competence, only humans reflect on real-world failures like Enron. Together, ethical codes and professional judgment help prevent systemic risks. This hybrid view acknowledges that both machine clarity and human experience play roles in interpreting and applying ethics.",
+      "label_type": "Hybrid"
+    },
+    {
+      "final_submission": "Combining structured ethical codes like APES 110 with insights from historical cases such as WorldCom helps clarify how ethics affect public trust. AI can identify patterns and flag anomalies, but human accountants provide moral reasoning and context. This hybrid synergy improves both compliance and ethical decision-making in financial reporting.",
+      "label_type": "Hybrid"
+    }
+  ]
+}
