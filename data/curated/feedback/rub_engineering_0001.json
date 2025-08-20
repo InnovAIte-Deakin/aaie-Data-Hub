@@ -1,0 +1,95 @@
+{
+  "domain": "Engineering",
+  "prompt": "Explain how a mechanical engineer approaches the problem of analyzing stress in a loaded beam. Discuss how the problem is defined, the assumptions made, equations used, calculation techniques, and how the results are communicated through diagrams and reports.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Stress Analysis in Beams",
+        "description": "Demonstrates knowledge of the fundamental principles in analyzing stress in beams under load.",
+        "performance_descriptors": {
+          "excellent": "Shows deep understanding of loading types, stress principles, and structural response, with clear and relevant examples.",
+          "good": "Demonstrates clear understanding of key mechanics and beam stress behavior.",
+          "average": "Basic understanding; coverage of stress analysis is general or surface-level.",
+          "needs_improvement": "Superficial or unclear explanation of stress analysis in beams.",
+          "poor": "Fails to demonstrate understanding of beam stress analysis."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Engineering Equations and Assumptions",
+        "description": "Applies correct formulas and assumptions (e.g., σ = My/I, static equilibrium) to solve problems.",
+        "performance_descriptors": {
+          "excellent": "Correctly applies multiple relevant equations with clear assumptions and justifications.",
+          "good": "Applies relevant formulas with accurate assumptions; may lack depth in explanation.",
+          "average": "Applies some correct formulas, but limited detail or clarity in application.",
+          "needs_improvement": "Incorrect or inconsistent use of formulas; vague assumptions.",
+          "poor": "Fails to apply formulas or identify assumptions."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Diagrams and Result Interpretation",
+        "description": "Uses diagrams (e.g., shear/moment) and interprets results in context of beam performance.",
+        "performance_descriptors": {
+          "excellent": "Insightfully interprets results with accurate, clearly labeled diagrams.",
+          "good": "Explains results and includes diagrams with minor issues.",
+          "average": "Provides basic diagrams or explanations with limited connection.",
+          "needs_improvement": "Diagrams unclear or poorly interpreted.",
+          "poor": "Lacks diagrams or interpretation of results."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Research Integration and Referencing",
+        "description": "Integrates credible engineering references and supports analysis appropriately.",
+        "performance_descriptors": {
+          "excellent": "Effectively integrates academic or technical references with proper citation and relevance.",
+          "good": "Uses appropriate references with mostly correct citation.",
+          "average": "Some use of sources but with weak integration or unclear referencing.",
+          "needs_improvement": "Weak sources or poor referencing technique.",
+          "poor": "No sources cited or used."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Technical Writing",
+        "description": "Submission is structured with technical clarity, logical flow, and formal engineering language.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent structure, formal technical tone, and precise grammar.",
+          "good": "Well-structured and mostly formal; minor technical or grammar issues.",
+          "average": "Basic structure; inconsistent tone or minor clarity issues.",
+          "needs_improvement": "Weak structure, unclear explanations, or informal style.",
+          "poor": "Disorganized and unprofessional."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "final_submission": "Mechanical engineers begin stress analysis in beams by identifying external loads, support conditions, and material properties. They define the problem precisely by considering whether the beam is simply supported, cantilevered, or continuously supported. To simplify analysis, common assumptions include linear elasticity, homogeneous isotropic material, and small deflections. The primary equation used is the flexure formula: σ = My/I, where M is the bending moment, y is the distance from the neutral axis, and I is the second moment of area. Engineers construct shear force and bending moment diagrams to visualize internal forces and calculate reactions using equilibrium equations. These results help determine maximum stress locations and ensure structural safety. Finally, findings are communicated through well-labeled technical diagrams and reports, often integrating CAD outputs and references from standard mechanical handbooks.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "The analysis of stress in a beam starts with defining the type of beam and the load it carries. Mechanical engineers assume small deformations and that materials follow linear elasticity. They apply formulas like σ = My/I and use free-body diagrams to find internal forces. Calculations of shear forces and bending moments help them understand how the beam reacts to loads. Engineers then prepare diagrams to represent the results and ensure they meet safety standards. These diagrams are often used in reports to explain the design decisions.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "When I worked on beam analysis in one of my design classes, I remember starting by sketching the beam and noting down the loads and supports. We were told to assume linear elastic behavior and that the cross-section doesn’t change along the length. Using σ = My/I, I calculated the maximum stress, and the moment came from bending moment diagrams we drew based on equilibrium. These diagrams helped me clearly spot where the highest stresses occurred. In the final report, we used a lot of visuals—diagrams, free-body sketches, and even some CAD screenshots—to communicate our findings. It was really satisfying to see how all the math fit into practical reporting.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "As a student, I usually approach beam stress problems by breaking them down into simple steps. First, I define the beam setup—like what kind of supports it has and where the loads are. I assume the material is linear-elastic and the beam is symmetric. Then I use the bending stress formula and draw diagrams for shear force and moments. These diagrams help identify weak spots in the structure. I also try to include references from our textbooks to support my steps and conclusions. In our lab reports, we always include sketches to make it easier for others to understand our reasoning.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "To analyze beam stress, engineers first identify the load types and where they act on the structure. They then define the support conditions and make simplifications like assuming linear elastic material behavior. Using equations like σ = My/I, they can calculate where stress concentrations may occur. Visual tools such as shear force and moment diagrams are commonly used to interpret the stress distribution. These diagrams and findings are included in technical reports, along with figures generated from CAD or analysis tools, to justify the safety of the beam design.",
+      "label_type": "Hybrid"
+    },
+    {
+      "final_submission": "In engineering practice, stress analysis in beams begins by stating the loads, supports, and assumptions. Most often, it’s assumed the beam is elastic and deflections are small. Using the flexure equation and equilibrium, one can find where the beam experiences the most bending. Drawing out moment and shear diagrams helps in spotting those areas. These are then presented using diagrams in reports, often with citations from standard engineering texts or design codes to support the approach and results.",
+      "label_type": "Hybrid"
+    }
+  ]
+}
