@@ -1,0 +1,241 @@
+{
+  "domain": "Teaching",
+  "prompt": "Discuss culturally and linguistically responsive practices for children from non-English speaking backgrounds and analyse how to create inclusive environments that support both home languages and English development.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0021",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Culturally and Linguistically Responsive Practices",
+        "description": "Demonstrates understanding of strategies to support children from non-English speaking backgrounds.",
+        "performance_descriptors": {
+          "excellent": "Shows deep understanding with multiple well-explained practices and their relevance to early childhood contexts.",
+          "good": "Explains several relevant practices with clear connection to early childhood settings.",
+          "average": "Identifies some relevant practices but with limited explanation or contextualisation.",
+          "needs_improvement": "Lists practices with minimal explanation or relevance to the topic.",
+          "poor": "Fails to demonstrate understanding of responsive practices."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Inclusive Language Environments",
+        "description": "Analyses how to create learning environments that promote both home language maintenance and English development.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyses environmental strategies and includes practical examples, policies, or pedagogy.",
+          "good": "Provides sound analysis with at least one example or reference to inclusive practice.",
+          "average": "Basic analysis included; some environmental strategies mentioned.",
+          "needs_improvement": "Minimal analysis or vague ideas about inclusive environments.",
+          "poor": "No meaningful analysis of inclusive language environments."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Relevant Literature and Sources",
+        "description": "Supports ideas with early childhood education literature, curriculum documents, and academic sources.",
+        "performance_descriptors": {
+          "excellent": "Uses a wide range of high-quality academic and policy sources effectively.",
+          "good": "Uses appropriate and credible sources to support arguments.",
+          "average": "Some sources used, but limited in quality, variety, or integration.",
+          "needs_improvement": "Few sources cited or reliance on non-academic material.",
+          "poor": "No sources or citations used."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Critical Reflection and Educator Role",
+        "description": "Reflects critically on the role of the educator in supporting multilingual learners and promoting equity.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates strong critical reflection and connects educator role to anti-bias and equity-informed practices.",
+          "good": "Reflects on educator role with some depth and awareness of equity.",
+          "average": "Some reflection included but lacks depth or relevance.",
+          "needs_improvement": "Minimal personal or professional reflection evident.",
+          "poor": "No critical reflection on the educator role."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Organises content clearly and follows academic writing conventions.",
+        "performance_descriptors": {
+          "excellent": "Clear, logical structure with fluent academic writing and no language errors.",
+          "good": "Well-organised with minor issues in clarity or grammar.",
+          "average": "Includes all components but lacks smooth transitions or has some writing issues.",
+          "needs_improvement": "Disorganised or difficult to follow with frequent language errors.",
+          "poor": "No clear structure and major issues with grammar and academic tone."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define and explain multiple culturally and linguistically responsive strategies (e.g. dual-language books, cultural artefact inclusion, family engagement) with contextual relevance to early childhood education.",
+        "Identify environmental features such as multilingual signage, language-rich play areas, and collaborative learning spaces, linking them to practical pedagogy and inclusive policies.",
+        "Reference key curriculum documents like EYLF, VEYLDF and cite relevant academic and policy literature that supports multilingual practices.",
+        "Critically reflect on the educator role in promoting equity, challenging bias, and facilitating linguistic identity development.",
+        "Ensure highly organised essay structure with fluent academic style, precise language, and logical argument flow."
+      ],
+      "llm_questions": [
+        "What are the most effective culturally and linguistically responsive practices used in early childhood settings to support children from non-English speaking backgrounds?",
+        "How do strategies like dual-language storybooks and cultural artefact integration support identity and learning?",
+        "How can educators design inclusive environments that actively support both home language maintenance and English acquisition?",
+        "What role do physical elements (e.g. multilingual signage, cultural displays) and pedagogical policies play in fostering inclusive language environments?",
+        "In what ways can early childhood educators reflect critically on their role in challenging bias and promoting equity for multilingual learners?",
+        "Which policy frameworks (e.g. EYLF, VEYLDF) and academic studies most effectively support culturally responsive teaching in multilingual early childhood contexts?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Describe several responsive teaching practices relevant to non-English speaking children, such as peer scaffolding and language bridging.",
+        "Discuss the role of inclusive language environments with at least one classroom strategy like bilingual group work or culturally representative materials.",
+        "Include references to credible educational sources or curriculum documents, though may be fewer or less integrated than Excellent quality.",
+        "Reflect on educator responsibilities in supporting linguistic inclusion and cultural awareness.",
+        "Maintain logical structure with academic tone, minor inconsistencies in clarity or fluency may be present."
+      ],
+      "llm_questions": [
+        "What teaching strategies help children from non-English speaking backgrounds feel included and supported in early childhood settings?",
+        "How can peer scaffolding and language bridging strategies be used in multicultural classrooms?",
+        "What is the importance of including bilingual materials and culturally diverse resources in early years learning environments?",
+        "How can educators ensure language-rich spaces are inclusive of both English and children's home languages?",
+        "What are two reliable academic or curriculum sources that support the use of culturally responsive practices in early learning?",
+        "What are the responsibilities of early childhood educators in supporting multilingual learners and fostering cultural inclusion?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention one or two relevant practices for multilingual learners with brief or superficial explanation.",
+        "Reference basic elements of inclusive environments such as acknowledging multiple languages or translating key labels.",
+        "Use limited academic sources with minimal integration or depth.",
+        "Briefly acknowledge the educator's role, but reflection lacks nuance or critical engagement.",
+        "Present a recognisable essay structure, though transitions may be weak and tone may shift between formal and informal."
+      ],
+      "llm_questions": [
+        "What is one example of a culturally responsive practice, and how might it help children from diverse linguistic backgrounds?",
+        "How do early educators use simple strategies like greeting children in their home language?",
+        "Why is it important to acknowledge home languages in early childhood classrooms?",
+        "How can the classroom layout be adapted to support communication for children learning English?",
+        "How might an educator reflect on their language use in a culturally diverse classroom?",
+        "What is one policy or article that explains the importance of supporting home languages in early childhood?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "List some practices (e.g. using visuals or gestures), but offer minimal explanation or contextual relevance.",
+        "Mention general ideas about multilingual support without analysing environmental strategies.",
+        "Refer to few or non-academic sources; literature may be missing or poorly integrated.",
+        "Minimal reflection on educator role; ideas may be vague or disconnected from equity themes.",
+        "Essay structure may be unclear or underdeveloped; frequent issues in grammar or tone."
+      ],
+      "llm_questions": [
+        "What are some ways teachers can help children who don't speak English?",
+        "How can using pictures or gestures support communication with children from different language backgrounds?",
+        "What is an inclusive environment, and how might it help children from other cultures?",
+        "Why should classrooms include books and toys from different cultures?",
+        "Why should educators think about how they treat children from different backgrounds?",
+        "Is there a basic guide or webpage that gives simple advice on working with children who speak other languages?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Fail to describe relevant strategies or show understanding of responsive practice concepts.",
+        "Show no meaningful analysis of language environments or classroom inclusivity.",
+        "Use no references or citations to support discussion.",
+        "Omit reflection on educator role or present unrelated thoughts.",
+        "Lack coherent structure, with informal writing and major language errors throughout."
+      ],
+      "llm_questions": [
+        "What does language support mean in a childcare setting?",
+        "What happens if children don't speak English when they start childcare?",
+        "What does an inclusive classroom look like?",
+        "Should all children learn English as fast as possible in childcare?",
+        "Why do teachers need to think about how children speak at home?",
+        "Are there any sources that explain what a good classroom looks like?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}

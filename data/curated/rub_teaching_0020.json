@@ -1,0 +1,246 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate the benefits and challenges of technology integration in early childhood education for children aged 3 to 6 years.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0020",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Developmental Appropriateness",
+        "description": "Demonstrates knowledge of child development theories and how they relate to the appropriateness of technology use for 3 to 6 years.",
+        "performance_descriptors": {
+          "excellent": "Shows deep understanding of developmental stages; critically evaluates how specific technologies align with children's cognitive, social, and emotional development.",
+          "good": "Accurately links developmental theory with technology usage; provides some examples.",
+          "average": "Mentions relevant theories or developmental stages with limited application to technology.",
+          "needs_improvement": "Minimal or unclear connection between development and technology use.",
+          "poor": "Fails to consider developmental appropriateness."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evaluation of Benefits and Challenges",
+        "description": "Evaluates both the positive and negative aspects of technology integration in early years learning settings.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly evaluates a range of benefits and challenges with balanced analysis, examples, and critical thinking.",
+          "good": "Provides a clear evaluation with several well-explained benefits and challenges.",
+          "average": "Identifies some pros and cons but lacks depth or balance.",
+          "needs_improvement": "Focuses mostly on one side or gives simplistic explanations.",
+          "poor": "Limited or no evaluation of benefits or challenges."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Policy References",
+        "description": "Incorporates academic literature, curriculum guidelines (e.g., EYLF), and policy frameworks.",
+        "performance_descriptors": {
+          "excellent": "Extensive, well-integrated academic and policy references, including recent research and frameworks such as EYLF.",
+          "good": "Uses relevant academic and policy sources appropriately.",
+          "average": "Some references used, but not well-integrated or limited in scope.",
+          "needs_improvement": "Few or outdated sources; minimal link to policy or research.",
+          "poor": "No credible sources or policy references used."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Reflection on Educator Role and Ethical Practice",
+        "description": "Shows awareness of the educator role in selecting and managing technology ethically and effectively.",
+        "performance_descriptors": {
+          "excellent": "Offers insightful reflections on educator responsibilities, ethical concerns (e.g., screen time, equity), and decision-making.",
+          "good": "Addresses educator role and some ethical concerns with reasonable depth.",
+          "average": "Mentions educator role but lacks depth or ethical dimension.",
+          "needs_improvement": "Superficial mention of educator role; lacks ethical consideration.",
+          "poor": "Does not address educator responsibilities or ethics."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Structure and Academic Writing",
+        "description": "Presents ideas in a logical, cohesive structure using formal academic language and correct grammar.",
+        "performance_descriptors": {
+          "excellent": "Clear, well-structured essay with strong academic tone, fluent transitions, and no grammar or spelling errors.",
+          "good": "Essay is logically structured with few minor grammar or spelling issues.",
+          "average": "Structure is generally clear but with occasional awkward sentences or grammar issues.",
+          "needs_improvement": "Disorganised structure or inconsistent academic tone; frequent grammar problems.",
+          "poor": "Poor structure and style; major grammar or spelling issues throughout."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Critically analyze how specific digital tools align with Piaget cognitive stages and Vygotsky social learning theory for 3 to 6 year-olds.",
+        "Balance benefits such as digital literacy and multimodal engagement with concerns like attention span and socio-emotional effects, supported by examples.",
+        "Cite multiple recent peer-reviewed studies and frameworks like EYLF to substantiate claims.",
+        "Demonstrate ethical reflection on screen time limits, access equity, and the teacher intentional tech use.",
+        "Present argument with cohesive, academic structure using fluent transitions and discipline-specific language."
+      ],
+      "llm_questions": [
+        "How do Piaget's preoperational stage and Vygotsky's social development theory explain suitable uses of technology for 3–6-year-olds?",
+        "In what ways do touchscreen apps support or hinder fine motor and cognitive development in early learners?",
+        "What are the cognitive, social, and emotional benefits of introducing multimodal digital tools in early childhood education?",
+        "What challenges arise in balancing screen time with traditional play-based learning, and how can they be managed?",
+        "How can educators make ethically responsible decisions about technology integration while promoting digital equity?",
+        "What role should intentional teaching play in choosing and scaffolding children's use of educational technology?",
+        "How do the Early Years Learning Framework (EYLF) and recent academic research align on best practices for integrating technology with developmental goals?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Connect key child development theories with practical examples of age-appropriate technologies (e.g., interactive storytelling apps).",
+        "Present several relevant benefits (e.g., engagement, differentiated learning) and challenges (e.g., overexposure) with reasonable depth.",
+        "Reference known policy sources like EYLF and at least one scholarly article.",
+        "Address educator responsibilities including managing access and maintaining developmentally appropriate practice.",
+        "Structure ideas with clear paragraphs and mostly formal tone, with minimal grammar issues."
+      ],
+      "llm_questions": [
+        "How do common developmental theories support the use of age-appropriate apps or devices for preschool children?",
+        "What characteristics make a digital tool developmentally appropriate for 3-6-year-olds?",
+        "What are some commonly observed benefits of using interactive whiteboards, tablets, or storytelling apps in early childhood settings?",
+        "What are the risks associated with early exposure to digital technologies, such as dependency or reduced attention span?",
+        "How can educators supervise and manage technology use to ensure it remains aligned with children's learning needs?",
+        "What ethical dilemmas might arise from unequal access to technology in diverse classroom settings?",
+        "What relevant insights do frameworks like EYLF or scholarly sources provide on integrating technology into early years learning?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention relevant developmental theories (e.g., Piaget or Erikson) with limited detail or unclear connection to technology.",
+        "Identify a few pros and cons, but analysis is surface-level or skewed to one side.",
+        "Include one or two references, possibly general or outdated, without full integration into argument.",
+        "Briefly acknowledge educator role, but without ethical depth or elaboration.",
+        "Basic structure with signs of academic intent, though occasional awkward phrasing is present."
+      ],
+      "llm_questions": [
+        "What do Piaget or Erikson suggest about the learning needs of 3-6-year-olds, and how might technology relate to those needs?",
+        "Are there specific types of technology that are more suitable for younger children than others? Why?",
+        "What are two common benefits and two common challenges of technology in early childhood classrooms?",
+        "How might using digital tools affect social interaction and communication in early years?",
+        "What is one way an educator might monitor children's technology use in the classroom?",
+        "Why is it important for educators to be thoughtful about how much screen time young children receive?",
+        "What is one policy guideline or academic source that supports the thoughtful use of technology in early learning?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Briefly mention development stages with unclear relevance to technology.",
+        "Focus primarily on either benefits or challenges with simplistic rationale.",
+        "Use few or no credible references; policy mentions are vague or missing.",
+        "Educator role is superficially mentioned without ethical perspective.",
+        "Inconsistent structure and informal tone with frequent language issues."
+      ],
+      "llm_questions": [
+        "What is one developmental stage that early childhood educators should know when choosing technology?",
+        "Can technology always support children's development, or are there limits? Give one example.",
+        "What is one benefit and one drawback of letting children use tablets in preschool?",
+        "Why might some educators be hesitant to use technology with young children?",
+        "How might an educator decide when and how often children should use technology in class?",
+        "What is one ethical concern with using too much technology with young children?",
+        "Is there any mention of technology use in Australian early years policies like the EYLF?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Fails to engage with developmental theories or suitability of technology.",
+        "Lacks meaningful evaluation of either benefits or challenges.",
+        "No academic references or policy links included.",
+        "Does not reflect on educator roles or ethical use of technology.",
+        "Disorganised response lacking academic tone, clarity, or grammatical correctness."
+      ],
+      "llm_questions": [
+        "What age are the children in early childhood education, and what kinds of learning activities do they usually do?",
+        "Does using technology fit with the way young children naturally learn?",
+        "Is technology good or bad for young kids? Why do you think so?",
+        "What is one thing that could go wrong if children use a lot of technology?",
+        "Should teachers let young children use technology all the time? Why or why not?",
+        "What could happen if a child doesn't have the same technology at home as others in the class?",
+        "Have any experts or teachers said anything about using technology with young kids?"
+      ],
+      "llm_answers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "final_submission": "",
+      "feedback": {
+        "c1": "",
+        "c2": "",
+        "c3": "",
+        "c4": "",
+        "c5": ""
+      }
+    }
+  ]
+}
