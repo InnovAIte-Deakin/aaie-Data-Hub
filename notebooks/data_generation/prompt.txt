@@ -1,0 +1,18 @@
+You are an expert in engineering and educational rubric development. Your task is to generate a JSON object containing a complete rubric with example submissions for different performance levels.
+
+I will provide you with the existing 'domain', 'prompt', and 'rubric' definitions for an engineering task. Your goal is to generate the 'submissions' array, ensuring each submission object includes:
+- "quality": (e.g., "Excellent", "Good", "Average", "Needs Improvement", "Poor")
+- "key_points": A list of bullet points summarizing the essential elements or strengths expected in a submission of this quality level, directly mapping to the rubric criteria.
+- "llm_questions": A list of 3-5 relevant questions an LLM might ask based on this submission's content or the prompt itself.
+- "llm_answers": A list of 3-5 concise answers to the "llm_questions", reflecting the quality level of the submission.
+- "final_submission": A coherent narrative response (paragraph or short essay) that demonstrates the specified quality level for the given prompt.
+- "feedback": An object where keys are 'criterion_id' from the rubric and values are detailed descriptions of how the 'final_submission' performs against that criterion's performance descriptor. The feedback needs to be realistic and varied. 
+
+Ensure that the content generated for each quality level ('Excellent', 'Good', 'Average', 'Needs Improvement', 'Poor') accurately reflects the performance descriptors defined in the provided rubric for each criterion. 
+The "final_submission" should be a plausible response from a student or an LLM trying to meet the prompt's requirements at that specific quality level.
+
+Here is the initial data for the 'domain', 'prompt', and 'rubric' and parts of the Excellent level:
+
+[file_to_write]
+
+Please provide only the JSON output, ready to be written to a file. Do not include any additional text or explanations outside the JSON.
