@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Explain the role of data normalization in relational database design.",
+  "rubric": {
+    "rubric_id": "rub_it_0023",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Data Normalization",
+        "description": "Demonstrates knowledge of normalization principles and forms.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains normalization, its goals, and describes 1NF, 2NF, 3NF (or higher) with examples.",
+          "good": "Accurately describes normalization and at least two normal forms.",
+          "average": "Mentions normalization with limited explanation.",
+          "needs_improvement": "Basic or unclear understanding of normalization.",
+          "poor": "Fails to explain normalization."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Importance in Database Design",
+        "description": "Explains how normalization improves relational database structure.",
+        "performance_descriptors": {
+          "excellent": "Insightfully links normalization to data consistency, elimination of redundancy, and efficient design.",
+          "good": "Describes reduction of redundancy and better structure.",
+          "average": "General statement of benefits.",
+          "needs_improvement": "Minimal or vague discussion.",
+          "poor": "No discussion of benefits."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Examples",
+        "description": "Uses relevant examples to illustrate normalization concepts.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example mentioned but not explained.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some structure; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains normalization and its main goals",
+        "Describes 1NF, 2NF, 3NF with examples",
+        "Links normalization to reduced redundancy and improved integrity",
+        "Highly structured and academic"
+      ],
+      "llm_questions": [
+        "What is data normalization?",
+        "What are the different normal forms (1NF, 2NF, 3NF)?",
+        "Why is normalization important in database design?",
+        "Can you provide examples of normalization?",
+        "How does normalization improve data consistency?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Explain the role of containerization (e.g., Docker) in CI/CD pipelines.",
+  "rubric": {
+    "rubric_id": "rub_it_0030",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Containerization",
+        "description": "Demonstrates knowledge of containerization concepts and tools like Docker.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains what containerization is, how Docker works, and container benefits.",
+          "good": "Describes containerization and mentions Docker.",
+          "average": "Mentions containers or Docker with limited explanation.",
+          "needs_improvement": "Basic or unclear understanding of containerization.",
+          "poor": "Fails to explain containerization."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Integration in CI/CD Pipelines",
+        "description": "Explains how containerization supports CI/CD processes.",
+        "performance_descriptors": {
+          "excellent": "Insightfully links containers to automation, consistency, and deployment in CI/CD.",
+          "good": "Describes main ways containers are used in CI/CD.",
+          "average": "States that containers help CI/CD but with little detail.",
+          "needs_improvement": "Minimal or unclear link to CI/CD.",
+          "poor": "No mention of CI/CD pipelines."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Uses relevant examples to illustrate containerization in pipelines.",
+        "performance_descriptors": {
+          "excellent": "Multiple, relevant examples with clear explanations.",
+          "good": "At least one clear example provided.",
+          "average": "Example mentioned but not explained.",
+          "needs_improvement": "Vague or unrelated example.",
+          "poor": "No examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents answer in a logical, academic style.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, formal, and clear response.",
+          "good": "Clear structure and mostly formal style.",
+          "average": "Some structure; style inconsistent.",
+          "needs_improvement": "Weak structure or casual language.",
+          "poor": "Disorganized or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explains containerization and Docker fundamentals",
+        "Links containers to automation, consistency, and fast deployment in CI/CD",
+        "Gives real-world examples: Spotify, PayPal, open-source projects",
+        "Highly organized and academic"
+      ],
+      "llm_questions": [
+        "What is containerization?",
+        "How does Docker work?",
+        "Why use containers in CI/CD pipelines?",
+        "Can you give examples of companies using containers in CI/CD?",
+        "How do containers improve deployment speed and consistency?"
+      ]
+    }
+  ]
+}
