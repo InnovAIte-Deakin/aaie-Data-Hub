@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate the challenges and opportunities of online education in higher education, and analyze effective strategies for student engagement and instructional quality in virtual learning environments.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Depth of Understanding of Online Education Principles",
+        "description": "Assesses comprehensive knowledge of online education concepts, including delivery modes, pedagogy, and learner needs.",
+        "performance_descriptors": {
+          "excellent": "Demonstrates nuanced understanding of online learning modalities (synchronous, asynchronous), pedagogical frameworks, and learner diversity with detailed examples.",
+          "good": "Explains major concepts clearly and links them to practice.",
+          "average": "Mentions online education concepts but lacks depth or clarity.",
+          "needs_improvement": "Limited or superficial understanding.",
+          "poor": "Incorrect or no understanding of core online education concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Insightful Analysis of Challenges and Opportunities",
+        "description": "Critically evaluates barriers and benefits inherent in online higher education settings.",
+        "performance_descriptors": {
+          "excellent": "Provides a balanced and evidence-supported analysis of technological, social, and instructional challenges alongside equity-enhancing opportunities.",
+          "good": "Discusses key challenges and benefits with adequate support.",
+          "average": "Mentions challenges or opportunities with minimal explanation.",
+          "needs_improvement": "Superficial or incomplete analysis.",
+          "poor": "Does not address challenges or opportunities meaningfully."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Integration of Research and Exemplary Practices",
+        "description": "Incorporates multiple, credible research studies, case studies, or institutional examples relevant to online education.",
+        "performance_descriptors": {
+          "excellent": "Thoroughly integrates diverse research and real-world examples, critically evaluating their significance.",
+          "good": "Utilizes some research and examples relevantly.",
+          "average": "References research/examples superficially or out of context.",
+          "needs_improvement": "Minimal research cited or unclear connections.",
+          "poor": "No research or practical examples."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practicality and Creativity of Instructional and Engagement Strategies",
+        "description": "Examines the suitability and innovativeness of proposed strategies for motivating and instructing students online.",
+        "performance_descriptors": {
+          "excellent": "Proposes detailed, innovative, and adaptable strategies that effectively address online learning challenges and boost engagement.",
+          "good": "Recommends practical strategies with moderate innovation.",
+          "average": "Suggests some basic strategies without details.",
+          "needs_improvement": "Provides vague or generic recommendations.",
+          "poor": "Fails to suggest viable strategies."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Academic Rigor in Communication",
+        "description": "Assesses coherence, style, and proper academic conventions in writing.",
+        "performance_descriptors": {
+          "excellent": "Essay is exceptionally well-organized with precise academic language and flawless coherence.",
+          "good": "Clear and structured writing with minor lapses in style or flow.",
+          "average": "Writing has some coherence issues and inconsistent academic tone.",
+          "needs_improvement": "Poorly organized or too informal.",
+          "poor": "Unstructured and non-academic language."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Elaborate on synchronous and asynchronous online learning, Universal Design for Learning, and Community of Inquiry framework.",
+        "Analyze critical issues like digital equity, learner isolation, instructional design complexities, and scalability.",
+        "Integrate research from Hodges et al. (2020), Allen & Seaman (2017), and case studies from prominent online institutions.",
+        "Detail practical strategies like blended learning models, interactive multimedia, frequent instructor presence, and community building.",
+        "Structure the essay for clarity and use authoritative academic tone."
+      ],
+      "llm_questions": [
+        "What are the foundational principles of synchronous vs. asynchronous learning, and how does the Community of Inquiry framework guide online pedagogy?",
+        "How do Hodges et al. (2020) distinguish between emergency remote teaching and planned online education, and what implications does this have for quality?",
+        "What enrollment trends and institutional challenges does Allen & Seaman (2017) identify in their analysis of online higher education growth?",
+        "What evidence-based strategies from research effectively address digital equity and learner isolation in virtual classrooms?",
+        "How can Universal Design for Learning principles be applied to create inclusive online learning environments for diverse student populations?",
+        "What innovative engagement strategies and interactive technologies have proven most effective in prominent online institutions like ASU Online or Penn State World Campus?",
+        "How can instructors establish meaningful presence and build learning communities in virtual environments according to current research?"
+      ]
+    }
+  ]
+}

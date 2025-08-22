@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Discuss major applications of educational psychology and analyze how psychological theories support student learning and motivation in school settings.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0014",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Educational Psychology Theories",
+        "description": "Demonstrates knowledge of cognitive, behavioral, social, and motivational theories relevant to education.",
+        "performance_descriptors": {
+          "excellent": "Clearly and comprehensively explains major psychological theories and their educational relevance.",
+          "good": "Describes primary theories with some depth.",
+          "average": "Mentions theories superficially.",
+          "needs_improvement": "Limited or confused understanding.",
+          "poor": "No relevant theory discussed."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application of Psychology to Learning and Motivation",
+        "description": "Analyzes how psychological theories inform teaching strategies and improve student engagement.",
+        "performance_descriptors": {
+          "excellent": "Insightfully relates theory to classroom practices and student motivation with evidence.",
+          "good": "Explains applications clearly with some examples.",
+          "average": "General connections made without depth.",
+          "needs_improvement": "Superficial or vague application.",
+          "poor": "No application demonstrated."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Examples",
+        "description": "Incorporates research and case examples linking psychology to education.",
+        "performance_descriptors": {
+          "excellent": "Effectively synthesizes studies and cases illustrating theory in practice.",
+          "good": "Uses relevant research or examples.",
+          "average": "Mentions examples without full integration.",
+          "needs_improvement": "Minimal or irrelevant evidence.",
+          "poor": "No evidence cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Strategies Derived from Psychological Theory",
+        "description": "Provides actionable instructional methods grounded in psychology.",
+        "performance_descriptors": {
+          "excellent": "Proposes sophisticated, evidence-based strategies for motivation and learning.",
+          "good": "Offers clear and practical methods.",
+          "average": "Mentions general strategies.",
+          "needs_improvement": "Vague or incomplete recommendations.",
+          "poor": "No strategies detailed."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Presentation and Style",
+        "description": "Clarity, coherence, and professionalism of writing.",
+        "performance_descriptors": {
+          "excellent": "Write-ups are highly organized, clear, and formal.",
+          "good": "Clear and generally well-organized.",
+          "average": "Adequate clarity and structure.",
+          "needs_improvement": "Poorly organized or informal style.",
+          "poor": "Disorganized and unclear."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain cognitive, behavioral, social learning, and motivational theories relevant to education.",
+        "Analyze their application to classroom management, student motivation, and differentiated instruction.",
+        "Use research and case studies to show effective psychological applications.",
+        "Provide practical teaching strategies based on psychological principles.",
+        "Maintain formal, clear academic style."
+      ],
+      "llm_questions": [
+        "What educational psychology theories inform teaching and learning?",
+        "How do these theories motivate and engage students?",
+        "What does research reveal about applying psychology in classrooms?",
+        "What strategies derive from psychological theories to support learning?",
+        "How is differentiated instruction grounded in psychology?",
+        "What role does student self-regulation play in learning?",
+        "How can teachers foster positive classroom climate using psychology?"
+      ]
+    }
+  ]
+}

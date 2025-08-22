@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Discuss how the integration of educational technology can enhance teaching and learning, and analyze best practices for effective implementation in classrooms.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0012",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Technology Integration Frameworks",
+        "description": "Demonstrates a deep understanding of models such as SAMR and TPACK for integrating technology in education.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains multiple frameworks/models and their application with detailed examples.",
+          "good": "Describes key concepts and applies them with some examples.",
+          "average": "Mentions technology integration in general terms.",
+          "needs_improvement": "Limited or inaccurate understanding.",
+          "poor": "No meaningful explanation provided."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact on Teaching and Learning",
+        "description": "Evaluates how technology integration affects student engagement, motivation, and outcomes.",
+        "performance_descriptors": {
+          "excellent": "Insightfully assesses positive impacts and potential challenges with supporting evidence.",
+          "good": "Explains benefits with some examples.",
+          "average": "Makes general statements without depth.",
+          "needs_improvement": "Superficial or vague analysis.",
+          "poor": "No relevant discussion presented."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Practical Examples",
+        "description": "Effectively incorporates research studies and classroom case studies to support discussion.",
+        "performance_descriptors": {
+          "excellent": "Integrates diverse research and real-world examples critically.",
+          "good": "Cites relevant research and examples with some integration.",
+          "average": "Mentions research or examples superficially.",
+          "needs_improvement": "Minimal or unclear use of evidence.",
+          "poor": "No evidence cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Strategies for Effective Technology Implementation",
+        "description": "Presents detailed and practical strategies for integrating technology successfully in diverse classrooms.",
+        "performance_descriptors": {
+          "excellent": "Provides innovative, feasible, and scalable recommendations addressing typical barriers.",
+          "good": "Offers practical and realistic strategies.",
+          "average": "Suggests general or limited strategies.",
+          "needs_improvement": "Vague or impractical suggestions.",
+          "poor": "No strategies presented."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Structure",
+        "description": "Clarity, coherence, and scholarly tone of writing.",
+        "performance_descriptors": {
+          "excellent": "Essay is well-structured, clear, and academically rigorous.",
+          "good": "Mostly well-organized and clear with minor lapses.",
+          "average": "Moderate structure with occasional unclear expression.",
+          "needs_improvement": "Poor organization or informal style.",
+          "poor": "Disorganized and lacking academic quality."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain SAMR and TPACK models and how they guide educational technology integration.",
+        "Analyze research on how technology enhances student motivation, engagement, and learning outcomes.",
+        "Discuss challenges such as access, teacher preparedness, and digital equity.",
+        "Recommend strategies for professional development, infrastructure planning, and pedagogical adaptation.",
+        "Present a well-structured and formally written academic essay."
+      ],
+      "llm_questions": [
+        "How do the SAMR and TPACK models guide effective educational technology integration, and what are the key differences between these frameworks?",
+        "What does current research reveal about technology's impact on student motivation, engagement, and learning outcomes?",
+        "How can technology improve student engagement and achievement according to evidence-based practices?",
+        "What are the primary challenges teachers face in integrating technology, including issues of access, preparedness, and digital equity?",
+        "What evidence-based strategies can help overcome barriers to technology use in diverse classroom settings?",
+        "How can schools ensure equitable access to technology while addressing infrastructure and professional development needs?",
+        "What role does ongoing professional development play in successful technology integration and pedagogical adaptation?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate student-centered learning approaches and analyze their effects on engagement, motivation, and academic success.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0011",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Student-Centered Learning Principles",
+        "description": "Demonstrates clear knowledge of student-centered pedagogy and models.",
+        "performance_descriptors": {
+          "excellent": "Comprehensively explains principles such as agency, collaboration, differentiation, and inquiry-based learning.",
+          "good": "Describes key student-centered concepts with some examples.",
+          "average": "Mentions student-centered approaches superficially.",
+          "needs_improvement": "Limited or unclear understanding.",
+          "poor": "No understanding shown."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact on Engagement and Learning",
+        "description": "Assesses how student-centered approaches enhance motivation, self-regulation, and academic results.",
+        "performance_descriptors": {
+          "excellent": "Insightfully evaluates empirical evidence and learner feedback on positive outcomes.",
+          "good": "Discusses benefits with limited examples.",
+          "average": "General statements about impact.",
+          "needs_improvement": "Brief or unclear discussion.",
+          "poor": "No relevant analysis."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Practice Examples",
+        "description": "Integrates studies and classroom examples demonstrating effectiveness.",
+        "performance_descriptors": {
+          "excellent": "Effectively synthesizes multiple research findings and practice insights.",
+          "good": "Incorporates some relevant evidence.",
+          "average": "Mentions examples with little depth.",
+          "needs_improvement": "Minimal or inappropriate evidence.",
+          "poor": "No evidence."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Application Strategies",
+        "description": "Proposes clear, feasible student-centered instructional methods.",
+        "performance_descriptors": {
+          "excellent": "Offers detailed, adaptable strategies suitable for diverse learners.",
+          "good": "Suggests clear practical approaches.",
+          "average": "Mentions methods generally.",
+          "needs_improvement": "Vague or limited strategies.",
+          "poor": "No strategies provided."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Structure",
+        "description": "Evaluates writing quality and organization.",
+        "performance_descriptors": {
+          "excellent": "Exceptionally clear, well-organized academic writing.",
+          "good": "Clear and mostly well-structured.",
+          "average": "Acceptable but inconsistently organized.",
+          "needs_improvement": "Problems with clarity and organization.",
+          "poor": "Disorganized and unclear."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain student-centered learning models emphasizing autonomy, collaboration, and personalized learning.",
+        "Analyze research on motivation, engagement, and performance benefits.",
+        "Incorporate evidence from classroom studies and meta-analyses.",
+        "Detail practical instructional strategies such as inquiry-based projects and flexible pacing.",
+        "Demonstrate sophisticated academic writing and structure."
+      ],
+      "llm_questions": [
+        "What defines student-centered learning and why is it effective?",
+        "How do these approaches impact student motivation and outcomes?",
+        "What does current research from classroom studies and meta-analyses say about the role of student agency in enhancing motivation, engagement, and academic performance?",
+        "Which instructional methods support student-centered learning?",
+        "How can teachers balance student choice with curriculum goals?",
+        "What challenges arise in implementing student-centered approaches?",
+        "How is assessment adapted in student-centered classrooms?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze the roles of formative and summative assessment in supporting student achievement, and discuss best practices for using assessment data to guide instructional decisions.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0006",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Assessment Types and Purposes",
+        "description": "Demonstrates clear knowledge of formative, summative, diagnostic, and evaluative assessments.",
+        "performance_descriptors": {
+          "excellent": "Clearly distinguishes and explains different assessment types with examples.",
+          "good": "Describes main types and their purposes with appropriate detail.",
+          "average": "Mentions assessment types but lacks depth.",
+          "needs_improvement": "Limited or inaccurate understanding.",
+          "poor": "Fails to explain assessment concepts."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of the Impact of Assessment on Learning",
+        "description": "Evaluates how assessments inform teaching and enhance student learning outcomes.",
+        "performance_descriptors": {
+          "excellent": "Insightfully interprets how formative and summative assessments influence instructional practices and student progress.",
+          "good": "Explains assessment benefits with examples.",
+          "average": "Provides general statements on assessment impact.",
+          "needs_improvement": "Mentions assessment superficially.",
+          "poor": "No analysis of assessment impact."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research and Best Practice Examples",
+        "description": "Incorporates key research and exemplary assessment models.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple research studies and exemplar practices effectively.",
+          "good": "References relevant research and practices.",
+          "average": "Mentions research or examples superficially.",
+          "needs_improvement": "Minimal research connection.",
+          "poor": "No cited research."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Strategies for Effective Use of Assessment Data",
+        "description": "Discusses practical, data-driven instructional strategies based on assessment outcomes.",
+        "performance_descriptors": {
+          "excellent": "Presents detailed, research-supported methods for leveraging assessment data to tailor teaching and support learning.",
+          "good": "Suggests practical instructional adjustments using assessment feedback.",
+          "average": "Mentions possible uses of assessment data without specifics.",
+          "needs_improvement": "Vague or incomplete strategies.",
+          "poor": "No strategies provided."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Academic Writing and Presentation",
+        "description": "Assesses clarity, coherence, and academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly organized and formal academic writing.",
+          "good": "Clear and logical with few issues.",
+          "average": "Adequate clarity but inconsistent style.",
+          "needs_improvement": "Unclear or informal writing.",
+          "poor": "Disorganized and unacademic."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define and differentiate formative, summative, diagnostic, and evaluative assessments clearly.",
+        "Analyze the dual role of assessments in guiding instruction and measuring learning.",
+        "Integrate current research such as Hattie & Clarke (2019), Brookhart (2022), and recent meta-analyses on assessment effectiveness.",
+        "Offer detailed strategies for using assessment data to provide timely feedback and differentiated instruction.",
+        "Present a detailed, scholarly, and well-structured analysis."
+      ],
+      "llm_questions": [
+        "How do current researchers like Hattie & Clarke (2019) define the distinction between formative and summative assessments?",
+        "What does Brookhart's (2022) research reveal about effective feedback practices in formative assessment?",
+        "How can real-time assessment data be used to implement responsive teaching strategies?",
+        "What evidence-based approaches exist for using assessment analytics to identify learning gaps?",
+        "How do digital assessment tools enhance data-driven instructional decision-making?",
+        "What strategies help teachers move beyond assessment data collection to actionable instructional changes?",
+        "How can assessment practices be designed to support both learning and wellbeing in diverse classrooms?"
+      ]
+    }
+  ]
+}
