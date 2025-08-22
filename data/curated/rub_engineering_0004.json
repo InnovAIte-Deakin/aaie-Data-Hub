@@ -1,0 +1,77 @@
+{
+  "domain": "Engineering",
+  "prompt": "A town is facing issues with water contamination. As an environmental engineer, explain how you would define the problem, determine the appropriate treatment process, calculate necessary parameters (like flow rates and chemical dosages), and present your findings.",
+  "rubric": {
+    "rubric_id": "rub_engineering_0004",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Problem Identification and Contaminant Analysis",
+        "description": "Identifies the contamination issue and evaluates water quality parameters.",
+        "performance_descriptors": {
+          "excellent": "Clearly identifies contaminants and supports with data or reasonable assumptions.",
+          "good": "Describes key water quality concerns with minor gaps.",
+          "average": "Mentions contaminants with limited detail or specificity.",
+          "needs_improvement": "Vague problem definition; contaminants unclear.",
+          "poor": "Fails to identify the contamination problem or water quality issues."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Treatment Method Selection",
+        "description": "Chooses suitable treatment process(es) based on contamination type and context.",
+        "performance_descriptors": {
+          "excellent": "Selects and justifies method(s) based on type, efficiency, and practical use.",
+          "good": "Treatment method is suitable and explained briefly.",
+          "average": "Basic or general treatment approach mentioned.",
+          "needs_improvement": "Poor alignment between problem and solution.",
+          "poor": "No appropriate treatment method discussed."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Parameter Calculations",
+        "description": "Performs key calculations (e.g., flow rates, chemical dosage) required for design.",
+        "performance_descriptors": {
+          "excellent": "Accurate, detailed calculations with correct units and assumptions.",
+          "good": "Mostly accurate calculations with minor errors.",
+          "average": "Some calculations attempted, limited accuracy or completeness.",
+          "needs_improvement": "Minimal or incorrect calculations provided.",
+          "poor": "No engineering calculations included."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Presentation of Findings",
+        "description": "Communicates solution clearly using visuals, tables, and technical language.",
+        "performance_descriptors": {
+          "excellent": "Highly structured, well-labeled visuals and data tables with clear explanations.",
+          "good": "Mostly clear with charts or technical summary.",
+          "average": "Some structure or visuals present, but not well explained.",
+          "needs_improvement": "Minimal structure or weak technical language.",
+          "poor": "Disorganized and lacks technical communication."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "llm_questions": [
+        "What types of contaminants are commonly found in municipal water?",
+        "How do engineers select a treatment process based on the contaminant?",
+        "What are the standard formulas for calculating chemical dosages in water treatment?",
+        "How is flow rate estimated in a small town's water system?",
+        "How should treatment results be presented in reports?"
+      ],
+      "llm_answers": [
+        "Common contaminants include nitrates, bacteria (e.g., E. coli), and heavy metals.",
+        "Treatment depends on type—e.g., chlorination for bacteria, ion exchange for metals.",
+        "Dosage = (C × Q) / (8.34 × P), where C = desired concentration, Q = flow rate.",
+        "Flow rate is based on population, daily usage rates, and system peak factors.",
+        "Reports include tables of contaminant removal, process diagrams, and final concentrations."
+      ]
+     
+    }
+  ]
+}
