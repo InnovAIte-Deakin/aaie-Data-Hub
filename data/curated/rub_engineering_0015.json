@@ -1,0 +1,88 @@
+{
+    "domain": "Chemical Engineering",
+    "prompt": "Explain the basic process of soap production using chemical engineering principles. Discuss the raw materials, reactions involved, and how the final product is tested for quality.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0015",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Process Coverage",
+                "description": "Details all essential aspects of the soap production process.",
+                "performance_descriptors": {
+                    "excellent": "Delivers an exhaustive and meticulously detailed explanation of soap production, comprehensively addressing raw materials, precisely describing the saponification reaction with chemical rigor, and providing a robust discourse on quality assurance testing methodologies.",
+                    "good": "Describes most essential aspects of soap production, including raw materials, the saponification reaction, and quality testing, though some elements might be less extensively elaborated or chemically precise.",
+                    "average": "Covers most facets but with limited detail; some key aspects of raw materials, the chemical transformations, or quality control may be omitted.",
+                    "needs_improvement": "Covers some facets of soap production, but with considerable gaps in addressing raw materials, the core chemical transformations, or quality control procedures.",
+                    "poor": "Offers a vague or fragmented description, marked by significant omissions in the fundamental understanding of soap production."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Chemical Principle Application",
+                "description": "Demonstrates accurate understanding of chemical principles in the process.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of chemical engineering principles, accurately identifying and characterizing raw materials, precisely articulating the saponification reaction (e.g., ester hydrolysis mechanisms, glycerin byproduct formation), and detailing relevant, industry-standard quality tests (e.g., pH, purity assays).",
+                    "good": "Applies chemical engineering principles to soap production with strong accuracy, encompassing raw materials, reactions, and quality testing; any minor inaccuracies in chemical specifics are negligible.",
+                    "average": "Exhibits a basic understanding of chemical principles, but with some inaccuracies apparent concerning raw materials, the reaction stoichiometry, or quality control.",
+                    "needs_improvement": "Exhibits limited understanding of chemical principles; several inaccuracies are apparent concerning raw materials, the reaction stoichiometry, or quality control.",
+                    "poor": "Shows minimal to no understanding of chemical engineering principles as applied to soap production; replete with errors."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Logical Flow & Structure",
+                "description": "Presents a logical, step-by-step explanation of the process.",
+                "performance_descriptors": {
+                    "excellent": "Presents a logical, step-by-step narrative that is exceptionally clear and seamlessly guides the reader through the soap production process, from initial inputs to the final validated product.",
+                    "good": "Presents a generally clear and structured explanation of the soap production process. Steps and concepts are mostly coherent, though some transitions could be smoother for optimal clarity.",
+                    "average": "The explanation has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The explanation lacks clear structure and coherence, making it challenging to follow the production process or grasp key chemical concepts.",
+                    "poor": "The response is disjointed, confusing, and largely incomprehensible."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Elaboration & Specificity",
+                "description": "Provides detailed explanations and specific examples for each part of the process.",
+                "performance_descriptors": {
+                    "excellent": "Provides insightful, in-depth explanations, including specific chemical formulas or detailed reaction mechanisms where appropriate, and thorough descriptions of how quality tests rigorously validate product standards.",
+                    "good": "Furnishes good explanations with sufficient detail regarding raw materials, the chemical reaction, and quality testing methods.",
+                    "average": "Supplies some explanations with limited detail; lacking specific chemical reasoning or comprehensive descriptions of quality assurance.",
+                    "needs_improvement": "Supplies basic explanations with minimal detail; lacking specific chemical reasoning or comprehensive descriptions of quality assurance.",
+                    "poor": "Offers superficial or generalized explanations, failing to convey practical or chemical understanding of the process."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Language & Scientific Rigor",
+                "description": "Writing is clear, professional, and uses correct scientific terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and precise chemical terminology is employed with exceptional effectiveness.",
+                    "good": "Writing is clear with very few grammatical or spelling errors; minor mechanical issues do not impede understanding. Chemical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding. Chemical terminology is somewhat accurate.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity. Chemical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Chemical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Identifies the key raw materials—a fat or oil (triglyceride) and a strong base (NaOH or KOH)—and explains their roles.",
+                "Describes the saponification reaction in detail, including the formation of a soap molecule and glycerin as a byproduct.",
+                "Explains the role of a chemical engineer in controlling critical process variables like temperature, concentration, and mixing.",
+                "Details various quality control tests, such as pH testing, purity analysis, and lathering tests, and why they are important.",
+                "Discusses the post-saponification processes, such as salting out to separate the glycerin and the soap."
+            ],
+            "llm_questions": [
+                "What is the chemical formula for a triglyceride and how does it react with a base?",
+                "What are the different methods for separating glycerin from soap?",
+                "How is the pH of soap measured, and what is an ideal pH range for soap?",
+                "What are the key process variables a chemical engineer would monitor during saponification?",
+                "What are the different types of quality tests for soap and what does each one measure?"
+            ]
+        }
+    ]
+}
