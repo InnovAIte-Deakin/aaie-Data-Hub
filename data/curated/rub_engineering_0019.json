@@ -1,0 +1,88 @@
+{
+    "domain": "Transportation Engineering",
+    "prompt": "Discuss how a transportation engineer could improve the design and placement of public bus stops in a busy city. Mention factors like accessibility, safety, and weather protection.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0019",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Solution Breadth & Depth",
+                "description": "Presents a comprehensive plan to improve bus stop design and placement.",
+                "performance_descriptors": {
+                    "excellent": "Presents an exceptionally comprehensive and meticulously detailed plan for improving bus stop design and placement, thoroughly addressing enhanced accessibility, robust safety features, and superior weather protection, complemented by innovative and highly practical solutions.",
+                    "good": "Describes most crucial aspects of improving bus stop design and placement, including accessibility, safety, and weather protection, though some specific details might be less exhaustive.",
+                    "average": "Addresses most aspects but with limited detail; some key aspects of accessibility, safety, or weather protection may be omitted.",
+                    "needs_improvement": "Addresses some facets of bus stop improvement, but with significant omissions in covering accessibility, safety, or weather protection, or the crucial linkage to placement.",
+                    "poor": "Provides a vague or fragmented description, marked by significant oversights in understanding public transportation infrastructure."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Transportation Concepts",
+                "description": "Demonstrates accurate application of transportation engineering principles.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of transportation engineering principles, accurately applying advanced design standards for accessibility (e.g., universal design beyond basic ADA compliance), proposing highly effective and data-driven safety measures, and implementing optimal weather protection solutions.",
+                    "good": "Applies transportation engineering principles to bus stop improvements with strong accuracy, encompassing accessibility, safety, and weather protection; any minor technical inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of transportation engineering principles, but with some inaccuracies regarding accessibility features, safety considerations, or effective weather protection.",
+                    "needs_improvement": "Exhibits limited understanding of transportation engineering principles; several inaccuracies are prominent regarding accessibility features, safety considerations, or effective weather protection.",
+                    "poor": "Reveals minimal to no understanding of transportation engineering principles for bus stop improvement; replete with inaccuracies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Structural Integrity of Argument",
+                "description": "Presents a clear and logical argument for design and placement improvements.",
+                "performance_descriptors": {
+                    "excellent": "The explanation is exceptionally well-structured, logical, and easy to follow, clearly delineating improvements in design and strategically optimized placement.",
+                    "good": "The explanation is generally clear and organized, with various aspects of bus stop improvement presented coherently.",
+                    "average": "The explanation has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The explanation lacks coherent structure, making it arduous to follow the proposed improvements or their underlying justification.",
+                    "poor": "The response is chaotic and inscrutable, rendering the proposed improvements impossible to decipher."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Analytical Insight",
+                "description": "Provides detailed reasoning and examples for all proposed improvements.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations with specific, detailed examples of accessible features, meticulously detailed safety protocols for stop location and design (e.g., sightlines, lighting levels), and advanced material considerations for long-term weather protection.",
+                    "good": "Provides good explanations with sufficient detail regarding accessibility features, safety considerations, and weather protection elements for bus stops.",
+                    "average": "Supplies some explanations with limited detail; lacking specific examples of design improvements or robust justifications for safety or weather solutions.",
+                    "needs_improvement": "Supplies cursory explanations with scant detail; lacking specific examples of design improvements or robust justifications for safety or weather solutions.",
+                    "poor": "Offers superficial or generalized explanations, devoid of substantial detail regarding improvements to bus stop design or placement."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Linguistic Precision",
+                "description": "Writing is clear, professional, and uses correct technical terminology.",
+                "performance_descriptors": {
+                    "excellent": "Writing is highly articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and highly precise language is employed with exceptional effectiveness to convey practical design recommendations.",
+                    "good": "Writing is clear with very few grammatical or spelling errors; minor mechanical oversights do not impede understanding. Technical terminology is mostly accurate and appropriately used.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding. Technical terminology is somewhat accurate.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity. Technical terms may be misused, inaccurate, or absent.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension. Technical terminology is frequently incorrect or entirely absent."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Analyzes current bus stop placement and proposes improvements to optimize service and reduce traffic congestion.",
+                "Details design changes to enhance accessibility, such as using curb cuts, tactile paving, and wider waiting areas for wheelchair users.",
+                "Proposes safety enhancements, including improved lighting, clear lines of sight, and safe pedestrian crossings near bus stops.",
+                "Describes solutions for weather protection, from basic shelters to more advanced designs that consider wind, rain, and temperature.",
+                "Discusses the integration of technology, such as real-time arrival information displays, to improve the user experience."
+            ],
+            "llm_questions": [
+                "What are the key design standards for accessibility at bus stops for people with disabilities?",
+                "How can a transportation engineer use data to determine the optimal location for a new bus stop?",
+                "What are some innovative materials used in modern bus stop shelters to provide better weather protection?",
+                "Can you describe the benefits of a 'bus bulb' or 'bus boarding island' and how it improves safety?",
+                "How can a city fund and implement a large-scale project to upgrade its bus stops?"
+            ]
+        }
+    ]
+}

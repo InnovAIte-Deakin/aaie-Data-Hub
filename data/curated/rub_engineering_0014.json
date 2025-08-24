@@ -1,0 +1,88 @@
+{
+    "domain": "Electrical Engineering",
+    "prompt": "Describe the key steps and safety considerations involved in planning and installing a simple home electrical wiring system. Focus on circuit breakers, outlet placement, and energy consumption.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0014",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Coverage of Requirements",
+                "description": "Details the key steps and safety considerations for planning and installing home wiring.",
+                "performance_descriptors": {
+                    "excellent": "Provides an exceptionally comprehensive and meticulously detailed account of all vital steps and critical safety considerations in home wiring, expertly elaborating on circuit breakers, strategic outlet placement, and insightful energy consumption principles.",
+                    "good": "Describes most crucial steps and safety considerations for home wiring, including circuit breakers, outlet placement, and energy consumption, though some nuances might be less exhaustively covered.",
+                    "average": "Addresses most steps and safety aspects, but with limited detail; some key areas like circuit breakers, outlet planning, or energy consumption may be omitted.",
+                    "needs_improvement": "Addresses some steps or safety aspects, but with significant omissions in essential areas like circuit breakers, outlet planning, or energy consumption.",
+                    "poor": "Presents a vague or incomplete description, marked by significant oversights in foundational home wiring principles."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Accuracy of Concepts",
+                "description": "Demonstrates a strong understanding of electrical principles and safety protocols.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates a profound understanding of electrical engineering principles, utilizing precise terminology for components (e.g., wire gauge, amperage ratings), and adhering strictly to correct safety protocols (e.g., proper grounding, overload protection calculations).",
+                    "good": "Applies electrical engineering principles with strong accuracy, covering circuit breakers, outlet placement, and energy consumption; any minor inaccuracies are negligible.",
+                    "average": "Exhibits a basic understanding of electrical principles or safety protocols, but with some inaccuracies.",
+                    "needs_improvement": "Exhibits limited understanding of electrical principles or safety protocols; several inaccuracies are prominent regarding circuit breakers, outlets, or consumption.",
+                    "poor": "Reveals minimal to no understanding of basic electrical engineering or safety; numerous errors render the information unreliable and potentially hazardous."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Organization & Presentation",
+                "description": "Presents a clear and logical explanation of the wiring process.",
+                "performance_descriptors": {
+                    "excellent": "Presents a meticulously structured, logical, and supremely clear explanation. Ideas flow seamlessly, and safety considerations are expertly interwoven throughout the entire response.",
+                    "good": "Presents a generally clear and well-structured explanation. Steps and safety points are mostly coherent, though some transitions could be smoother for optimal clarity.",
+                    "average": "The explanation has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The explanation lacks clear structure and coherence, making it challenging to follow the wiring process or crucial safety directives.",
+                    "poor": "The response is disjointed, confusing, and largely incomprehensible, potentially disseminating dangerous misinformation."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Explanatory Detail",
+                "description": "Provides specific reasoning and examples for design and safety choices.",
+                "performance_descriptors": {
+                    "excellent": "Offers highly insightful explanations with specific, real-world examples and rigorous justification for decisions regarding circuit breaker sizing, tactical outlet placement, and sophisticated methods for energy efficiency.",
+                    "good": "Provides good explanations with sufficient detail regarding wiring steps, safety measures, circuit breakers, outlet placement, and considerations for energy consumption.",
+                    "average": "Furnishes basic explanations with some detail, but lacking specific examples or sound reasoning for safety measures or component selections.",
+                    "needs_improvement": "Furnishes basic explanations with minimal detail; lacking specific examples or sound reasoning for safety measures or component selections.",
+                    "poor": "Supplies superficial or generalized explanations, failing to impart practical knowledge or critical safety information."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Writing Quality & Mechanics",
+                "description": "Writing is clear, professional, and free of grammatical errors.",
+                "performance_descriptors": {
+                    "excellent": "Writing is impeccably articulate, entirely free of grammatical errors, spelling mistakes, or punctuation issues. Professional and highly precise language is employed with exceptional effectiveness to convey vital safety information.",
+                    "good": "Writing is clear with negligible grammatical or spelling errors; minor mechanical issues do not impede understanding.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are present, occasionally affecting clarity, particularly for safety-critical instructions.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension, especially for critical safety information."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Outlines the planning phase, including load calculation and mapping out circuits for a home's electrical needs.",
+                "Provides a detailed explanation of circuit breakers and how they protect against overloads and short circuits.",
+                "Justifies strategic outlet placement for different rooms based on function, safety, and electrical code requirements.",
+                "Discusses energy consumption principles and how to design a system for efficiency, such as using dedicated circuits for heavy-load appliances.",
+                "Emphasizes and explains critical safety considerations throughout the process, including grounding, insulation, and the importance of disconnecting power."
+            ],
+            "llm_questions": [
+                "What is the difference between a GFCI and an AFCI circuit breaker?",
+                "Can you provide a simple example of how to calculate the electrical load for a room with multiple appliances?",
+                "What are the key safety standards for residential wiring according to the National Electrical Code (NEC)?",
+                "What are some common mistakes to avoid when planning and installing home wiring?",
+                "How does proper grounding protect against electrical shock?"
+            ]
+        }
+    ]
+}

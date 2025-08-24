@@ -1,0 +1,88 @@
+{
+    "domain": "Environmental Engineering",
+    "prompt": "Explain how an environmental engineer would create a waste management plan for a small town. Include types of waste, collection methods, environmental impact, and basic solutions like recycling or composting.",
+    "rubric": {
+        "rubric_id": "rub_engineering_0013",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Plan Elements & Completeness",
+                "description": "Develops a comprehensive waste management plan covering diverse waste streams, collection methods, environmental impacts, and solutions.",
+                "performance_descriptors": {
+                    "excellent": "Crafts an exemplary waste management plan that comprehensively dissects diverse waste streams, proposes highly efficient collection logistics, delivers a profound analysis of environmental repercussions, and offers innovative, well-supported solutions including recycling and composting.",
+                    "good": "Presents a robust waste management plan that addresses most key components: waste classifications, collection approaches, environmental effects, and fundamental solutions like recycling/composting, though some areas may lack ultimate depth.",
+                    "average": "Presents a waste management plan with some detail, but with limited coverage of waste categorization, collection strategies, or solutions.",
+                    "needs_improvement": "Delivers a rudimentary plan that significantly overlooks waste categorization, collection strategies, environmental impact assessment, or viable solutions.",
+                    "poor": "Provides a vague or fragmented plan, omitting critical components or principles, indicative of a tenuous grasp of waste management."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Disciplinary Knowledge",
+                "description": "Exhibits a strong understanding of waste management principles and environmental impacts.",
+                "performance_descriptors": {
+                    "excellent": "Exhibits an expert command of environmental engineering principles related to waste hierarchy, collection optimization, nuanced environmental impacts (e.g., leachate dynamics, GHG mitigation), and the demonstrated efficacy of diversion strategies like recycling and composting.",
+                    "good": "Applies environmental engineering principles to waste management with solid accuracy; minor deviations in specific details are permissible.",
+                    "average": "Displays a basic understanding of waste management tenets, but with some inaccuracies apparent regarding waste types, impacts, or proposed solutions.",
+                    "needs_improvement": "Displays a limited understanding of waste management tenets; notable inaccuracies are apparent regarding waste types, impacts, or proposed solutions.",
+                    "poor": "Shows minimal to no understanding of environmental engineering principles in waste management; rife with inaccuracies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Logical Cohesion & Presentation",
+                "description": "The plan is well-structured and easy to follow.",
+                "performance_descriptors": {
+                    "excellent": "The plan is presented with exceptional structure, unwavering logic, and pristine clarity, meticulously detailing each facet of the waste management lifecycle.",
+                    "good": "The plan generally maintains clear structure and coherence, presenting the various facets of waste management in a comprehensible manner.",
+                    "average": "The plan has some structure but is not consistently clear; the flow of ideas is sometimes difficult to follow.",
+                    "needs_improvement": "The plan lacks discernible structure and coherence, making it arduous to follow the proposed strategies.",
+                    "poor": "The response is chaotic and disjointed, precluding any understanding of the proposed waste management plan."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Explanatory Richness",
+                "description": "Provides detailed justifications and analysis for all plan components.",
+                "performance_descriptors": {
+                    "excellent": "Furnishes in-depth justifications for decisions on waste categorization, outlines sophisticated collection paradigms, provides rigorous analysis of environmental implications, and offers compelling rationale for recycling/composting initiatives.",
+                    "good": "Delivers good explanations with sufficient detail regarding waste types, collection methodologies, environmental impact, and fundamental solutions.",
+                    "average": "Supplies basic explanations with some detail, but lacking specific justification for strategies or a deep exploration of impacts.",
+                    "needs_improvement": "Supplies basic explanations with minimal detail; lacking specific justification for strategies or a deep exploration of impacts.",
+                    "poor": "Offers generalized or superficial explanations, devoid of substantial detail regarding the waste management process."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Language Precision",
+                "description": "Writing is clear, professional, and free of grammatical errors.",
+                "performance_descriptors": {
+                    "excellent": "The writing is exceedingly articulate, entirely free of grammatical flaws, spelling errors, or punctuation issues. It consistently employs professional and technically precise language.",
+                    "good": "The writing is clear with very few grammatical or spelling errors; minor mechanical imperfections do not impede understanding.",
+                    "average": "Writing is generally clear, but with several minor grammatical or spelling errors that do not severely impair understanding.",
+                    "needs_improvement": "Several grammatical, spelling, or punctuation errors are evident, occasionally diminishing clarity.",
+                    "poor": "Numerous grammatical, spelling, or punctuation errors severely impede comprehension."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Identifies and categorizes different waste streams, including municipal solid waste, hazardous waste, and organic waste.",
+                "Proposes and justifies efficient collection methods tailored to a small town's needs, such as a combination of curbside and community drop-off.",
+                "Analyzes the environmental impact of improper waste disposal, focusing on landfill leachate and greenhouse gas emissions.",
+                "Details a comprehensive plan for recycling and composting, including public education and infrastructure requirements.",
+                "Discusses the importance of public engagement and education as a critical component of a successful waste management plan."
+            ],
+            "llm_questions": [
+                "What are the primary components of landfill leachate and why is it an environmental concern?",
+                "What is the difference between anaerobic and aerobic composting?",
+                "How can a city encourage its residents to participate more in recycling and composting programs?",
+                "Provide a list of potential environmental impacts of improper hazardous waste disposal.",
+                "What are the key components of an effective public outreach campaign for a new waste management initiative?"
+            ]
+        }
+    ]
+}
