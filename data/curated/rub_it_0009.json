@@ -1,0 +1,82 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Discuss the role of edge computing in latency-sensitive applications. Explain how edge computing improves performance and security compared to centralized cloud models.",
+  "rubric": {
+    "rubric_id": "rub_it_0009",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of the topic and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding with clear theoretical support.",
+          "good": "Understands key concepts well with minor gaps.",
+          "average": "Adequate explanation with some inaccuracies.",
+          "needs_improvement": "Surface-level or confused understanding.",
+          "poor": "Major misunderstandings or misrepresentations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies concepts meaningfully to examples or scenarios.",
+        "performance_descriptors": {
+          "excellent": "Uses insightful and relevant examples clearly linked to concepts.",
+          "good": "Examples mostly appropriate with some gaps in explanation.",
+          "average": "Examples present but superficial or unclear connections.",
+          "needs_improvement": "Vague or generic examples.",
+          "poor": "No real-world application."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation",
+        "description": "Analyzes challenges, limitations, or trade-offs thoughtfully.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, research-backed critical evaluation.",
+          "good": "Reasonable evaluation but less depth.",
+          "average": "Mentions challenges superficially.",
+          "needs_improvement": "Unclear or irrelevant critique.",
+          "poor": "No critical evaluation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Clear, coherent, formal tone, flawless grammar, and proper referencing.",
+          "good": "Mostly clear and professional; minor issues.",
+          "average": "Organization present but inconsistent.",
+          "needs_improvement": "Structure or tone hinder clarity; referencing weak.",
+          "poor": "Disorganized or informal writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define edge computing and its role in latency-sensitive applications.",
+        "Compare edge vs. cloud computing architectures.",
+        "Explain benefits like reduced latency, bandwidth savings, and data privacy.",
+        "Discuss real-world applications in autonomous vehicles, IoT, healthcare.",
+        "Analyze security challenges unique to edge environments.",
+        "Evaluate integration with cloud and fog computing models.",
+        "Provide case studies and technical references.",
+        "Maintain academic tone with APA referencing."
+      ],
+      "llm_questions": [
+        "What is edge computing and how does it reduce latency?",
+        "How does edge computing compare to cloud computing?",
+        "What are typical applications needing edge computing?",
+        "What security issues are unique to edge environments?",
+        "How is edge computing integrated with fog and cloud models?",
+        "What are examples of successful edge deployments?",
+        "What literature covers edge computing benefits and risks?",
+        "How to present edge computing research academically?"
+      ]
+    }
+  ]
+}

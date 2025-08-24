@@ -1,0 +1,82 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Compare software-defined networking (SDN) with traditional networking. Evaluate their architectures, benefits, and limitations in modern IT infrastructure.",
+  "rubric": {
+    "rubric_id": "rub_it_0008",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding",
+        "description": "Demonstrates deep understanding of the topic and related concepts.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding with clear theoretical support.",
+          "good": "Understands key concepts well with minor gaps.",
+          "average": "Adequate explanation with some inaccuracies.",
+          "needs_improvement": "Surface-level or confused understanding.",
+          "poor": "Major misunderstandings or misrepresentations."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies concepts meaningfully to examples or scenarios.",
+        "performance_descriptors": {
+          "excellent": "Uses insightful and relevant examples clearly linked to concepts.",
+          "good": "Examples mostly appropriate with some gaps in explanation.",
+          "average": "Examples present but superficial or unclear connections.",
+          "needs_improvement": "Vague or generic examples.",
+          "poor": "No real-world application."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation",
+        "description": "Analyzes challenges, limitations, or trade-offs thoughtfully.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful, research-backed critical evaluation.",
+          "good": "Reasonable evaluation but less depth.",
+          "average": "Mentions challenges superficially.",
+          "needs_improvement": "Unclear or irrelevant critique.",
+          "poor": "No critical evaluation."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Clear, coherent, formal tone, flawless grammar, and proper referencing.",
+          "good": "Mostly clear and professional; minor issues.",
+          "average": "Organization present but inconsistent.",
+          "needs_improvement": "Structure or tone hinder clarity; referencing weak.",
+          "poor": "Disorganized or informal writing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Define SDN and contrast with traditional networking architectures.",
+        "Explain benefits of SDN like programmability, flexibility, and centralized control.",
+        "Discuss limitations and challenges including security and complexity.",
+        "Provide use cases demonstrating SDN advantages.",
+        "Analyze impacts on network management and innovation.",
+        "Evaluate adoption barriers in enterprise environments.",
+        "Reference current research and standards.",
+        "Use formal academic style with citations."
+      ],
+      "llm_questions": [
+        "What defines software-defined networking (SDN)?",
+        "How does SDN compare to traditional networking?",
+        "What are the benefits and limitations of SDN?",
+        "What use cases highlight SDN advantages?",
+        "What challenges impede SDN adoption?",
+        "How does SDN impact network security?",
+        "What research supports SDN deployment?",
+        "How to write an academic comparison of SDN and traditional networking?"
+      ]
+    }
+  ]
+}
