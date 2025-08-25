@@ -1,0 +1,82 @@
+{
+  "domain": "Accounting",
+  "prompt": "Discuss the impact of robotic process automation (RPA) on the efficiency and accuracy of financial operations within large corporations.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0006",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of RPA",
+        "description": "Demonstrates knowledge of RPA technology, its application in finance/accounting, and differences from other automation.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains RPA concepts and distinguishes it from other technologies, with relevant accounting applications.",
+          "good": "Accurately describes 1–2 RPA features or benefits.",
+          "average": "Mentions RPA but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain RPA accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Efficiency/Accuracy Impact",
+        "description": "Evaluates how RPA affects financial operations, including transaction processing, reconciliation, and data entry.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses significant efficiency gains, error reduction, and improved compliance.",
+          "good": "Explains basic benefits like speed or consistency in tasks.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to efficiency or accuracy."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Corporate Examples/Processes",
+        "description": "Incorporates realistic examples of financial processes within large corporations where RPA is implemented.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained process examples with relevance.",
+          "good": "Provides at least one relevant process example.",
+          "average": "Mentions example(s) with little context.",
+          "needs_improvement": "Example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "Robotic Process Automation (RPA) is profoundly impacting the efficiency and accuracy of financial operations within large corporations by automating high-volume, repetitive, rule-based tasks. Unlike traditional IT automation requiring complex system integrations, RPA bots mimic human interactions with existing software applications, leading to rapid deployment and immediate gains. Key application areas in accounting include accounts payable and receivable processing, payroll management, bank reconciliations, and data migration. For example, a global bank might deploy RPA to automate daily reconciliation of thousands of transactions, drastically reducing manual effort and eliminating human error. This automation translates into significant efficiency gains, accelerated processing times, superior data accuracy, and enhanced compliance. While initial setup costs and identifying suitable processes are challenges, RPA's ability to operate 24/7 without fatigue or error makes it a powerful tool for large corporations seeking to streamline their finance functions, freeing up human capital for more strategic analysis and decision-making.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of RPA, clearly distinguishing it from other automation types and detailing its relevant applications in finance and accounting.",
+        "c2": "Provides insightful and detailed analysis of how RPA leads to significant efficiency gains, error reduction, and improved compliance within financial operations.",
+        "c3": "Incorporates a realistic and well-explained example of RPA application in a large corporation (global bank automating reconciliations), demonstrating its practical relevance.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Definition of RPA and how it differs from traditional automation.",
+        "Application areas in accounting: accounts payable/receivable, payroll, reconciliation, data migration.",
+        "Benefits: increased speed, accuracy, reduced human error, cost savings, scalability.",
+        "Challenges: initial setup cost, process identification, maintenance, impact on workforce."
+      ],
+      "llm_questions": [
+        "What types of repetitive accounting tasks are best suited for RPA implementation?",
+        "How does RPA contribute to reducing errors in financial data processing?",
+        "Can you provide a specific example of a large corporation using RPA in its financial operations?",
+        "What are the initial challenges a company might face when implementing RPA in its accounting department?",
+        "How might RPA impact the roles and skills required of accounting professionals in a large corporation?"
+      ]
+    }
+  ]
+}

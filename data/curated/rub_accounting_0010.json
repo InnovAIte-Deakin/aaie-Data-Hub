@@ -1,0 +1,84 @@
+{
+  "domain": "Accounting",
+  "prompt": "Analyze the impact of global tax reforms, such as the OECD's Pillar One and Pillar Two initiatives, on multinational corporations' tax strategies and financial reporting.",
+  "rubric": {
+    "rubric_id": "rub_accounting_0010",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Global Tax Reforms",
+        "description": "Demonstrates knowledge of key global tax reform initiatives (e.g., OECD Pillars, BEPS actions) and their objectives.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains OECD Pillars One and Two, their scope, and their intended impact on international taxation.",
+          "good": "Accurately describes 1–2 components of global tax reform.",
+          "average": "Mentions tax reforms but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of concepts.",
+          "poor": "Fails to explain tax reforms accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact on MNCs",
+        "description": "Evaluates how these reforms affect multinational corporations' tax planning, compliance, and financial statement disclosures.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses reallocation of taxing rights, global minimum tax, increased compliance burden, and deferred tax implications.",
+          "good": "Explains basic changes like new tax rules or reporting requirements.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to MNC tax strategies or reporting."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Relevant Examples/Scenarios",
+        "description": "Incorporates realistic examples or scenarios of how multinational corporations might adjust their tax strategies.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained examples/scenarios with relevance.",
+          "good": "Provides at least one relevant example/scenario.",
+          "average": "Mentions example(s) with little context.",
+          "needs_improvement": "Example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "final_submission": "Global tax reforms, particularly the OECD's Pillar One and Pillar Two initiatives, are profoundly reshaping multinational corporations' (MNCs) tax strategies and financial reporting. Pillar One seeks to reallocate a portion of taxing rights from jurisdictions where value is created to market jurisdictions where sales occur, primarily impacting large, highly profitable digital and consumer-facing businesses. Pillar Two introduces a global minimum corporate tax rate of 15% through the Global Anti-Base Erosion (GloBE) rules, significantly curtailing profit shifting to low-tax jurisdictions. These reforms necessitate a fundamental overhaul of MNCs' tax planning, demanding adjustments to transfer pricing policies and potentially increasing effective tax rates. From a financial reporting perspective, the implications are substantial: companies must assess the impact on deferred tax assets and liabilities, enhance tax disclosures to reflect new obligations, and grapple with increased complexity in tax calculations and compliance. For instance, a tech giant with significant sales in numerous countries but minimal physical presence will likely see its taxable profits reallocated under Pillar One. The sheer data collection and reporting requirements for Pillar Two compliance also pose a significant burden, requiring sophisticated accounting systems and expert tax professionals to navigate this new global tax landscape.",
+      "feedback": {
+        "c1": "Demonstrates excellent understanding of both OECD Pillars, clearly explaining their scope, mechanisms, and intended impact on international taxation.",
+        "c2": "Provides insightful and detailed analysis of how these reforms affect MNCs' tax planning, transfer pricing, effective tax rates, and crucial financial reporting implications (deferred taxes, disclosures, complexity).",
+        "c3": "Incorporates a clear and relevant hypothetical example of a tech company's reallocated taxing rights under Pillar One, illustrating the practical impact of the reforms.",
+        "c4": "The submission is highly coherent, well-structured, and maintains a formal academic tone throughout, with a logical flow of arguments."
+      },
+      "key_points": [
+        "Overview of OECD/G20 Inclusive Framework on BEPS.",
+        "Pillar One: reallocation of taxing rights to market jurisdictions (Amount A and B).",
+        "Pillar Two: global minimum tax (GloBE rules, IIR, UTPR).",
+        "Impact on corporate tax planning, transfer pricing, and effective tax rates.",
+        "Challenges for financial reporting: deferred tax assets/liabilities, disclosure requirements, complexity.",
+        "Compliance burden and need for new data/systems for MNCs."
+      ],
+      "llm_questions": [
+        "What is the primary goal of the OECD's Pillar One initiative?",
+        "How does Pillar Two's global minimum tax aim to prevent profit shifting by multinational corporations?",
+        "What are the significant financial reporting implications for an MNC due to these global tax reforms?",
+        "Can you provide a hypothetical example of how Pillar One might reallocate taxing rights for a large tech company?",
+        "What challenges do accounting departments face in collecting and reporting the data required for Pillar Two compliance?"
+      ]
+    }
+  ]
+}
