@@ -1,0 +1,75 @@
+{
+  "domain": "Psychology",
+  "prompt": "Evaluate the theory of cognitive dissonance and its impact on individual decision-making and behavior modification. Use real-world examples to support your analysis.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0011",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Cognitive Dissonance",
+        "description": "Demonstrates a clear and accurate understanding of Leon Festinger's theory of cognitive dissonance.",
+        "performance_descriptors": {
+          "excellent": "Provides a comprehensive and nuanced explanation of cognitive dissonance, including the conditions that increase or decrease it.",
+          "average": "Offers a basic explanation of cognitive dissonance but may contain inaccuracies or simplifications.",
+          "needs_improvement": "Shows a limited or confused understanding of the theory.",
+          "poor": "Fails to accurately describe cognitive dissonance."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Impact",
+        "description": "Analyzes how cognitive dissonance influences decision-making and leads to changes in attitudes or behaviors.",
+        "performance_descriptors": {
+          "excellent": "Insightfully analyzes the psychological mechanisms through which dissonance influences decisions and behavior, discussing both positive and negative outcomes.",
+          "good": "Clearly explains the link between dissonance and changes in behavior or attitudes, though with less depth.",
+          "average": "Makes general claims about the impact of dissonance without detailed analysis.",
+          "needs_improvement": "The connection between dissonance and behavior is weak or unclear.",
+          "poor": "No clear analysis of the theory's impact."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Application of Examples",
+        "description": "Effectively uses relevant real-world examples to illustrate the theory.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple, well-explained examples (e.g., consumer behavior, health choices) that strongly support the analysis.",
+          "good": "Provides at least one relevant and well-explained example.",
+          "average": "Uses examples that are relevant but not fully explained or integrated.",
+          "needs_improvement": "Examples are vague, irrelevant, or poorly understood.",
+          "poor": "No examples are provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Clarity and Structure",
+        "description": "Presents arguments in a logical, well-structured, and clear manner.",
+        "performance_descriptors": {
+          "excellent": "The essay is exceptionally well-organized with a clear thesis, logical flow, and smooth transitions.",
+          "good": "The essay is mostly well-structured and clear, with minor organizational issues.",
+          "average": "The essay has a basic structure but may be difficult to follow in places.",
+          "needs_improvement": "The structure is disorganized and lacks clarity.",
+          "poor": "The response is incoherent and lacks any clear structure."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Clearly define cognitive dissonance as the mental discomfort experienced when holding conflicting beliefs or attitudes.",
+        "Explain the three primary ways individuals reduce dissonance: changing a belief, changing a behavior, or adding a new belief.",
+        "Analyze the 'effort justification' paradigm as a key manifestation of cognitive dissonance.",
+        "Use examples like a smoker who knows smoking is unhealthy or someone who makes a large purchase they regret.",
+        "Critically evaluate the theory's applications in marketing, therapy, and social influence."
+      ],
+      "llm_questions": [
+        "What is Leon Festinger's theory of cognitive dissonance?",
+        "Provide real-world examples of cognitive dissonance in consumer behavior.",
+        "How does effort justification relate to cognitive dissonance?",
+        "What are the main criticisms of cognitive dissonance theory?",
+        "How is cognitive dissonance used as a tool for persuasion?"
+      ]
+    }
+  ]
+}

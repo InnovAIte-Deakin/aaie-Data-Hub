@@ -1,0 +1,88 @@
+{
+  "domain": "Psychology",
+  "prompt": "Discuss the role of working memory in complex cognition, evaluating models (e.g., Baddeley-Hitch) and links to reasoning, language, and learning.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0016",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Model Understanding",
+        "description": "Explains key working memory models and components.",
+        "performance_descriptors": {
+          "excellent": "Accurately details phonological loop, visuospatial sketchpad, central executive, episodic buffer, and alternative models (e.g., embedded-processes).",
+          "good": "Covers main components with minor omissions.",
+          "average": "General explanation with occasional inaccuracies.",
+          "needs_improvement": "Partial or confused treatment of models.",
+          "poor": "Fails to explain core components."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Evidence and Tasks",
+        "description": "Links models to tasks and empirical findings.",
+        "performance_descriptors": {
+          "excellent": "Connects components to tasks (digit span, complex span, n-back), neural correlates, and individual differences.",
+          "good": "Provides relevant tasks with some evidence.",
+          "average": "Mentions tasks without strong linkage.",
+          "needs_improvement": "Sparse or incorrect examples.",
+          "poor": "No empirical grounding."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Applications to Cognition and Learning",
+        "description": "Explains how working memory supports reasoning, language, and learning.",
+        "performance_descriptors": {
+          "excellent": "Provides nuanced links to reading comprehension, math problem solving, language processing, and instructional design implications.",
+          "good": "Clear applications with some nuance.",
+          "average": "General claims without depth.",
+          "needs_improvement": "Weak or unclear applications.",
+          "poor": "No applications presented."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Limitations and Critiques",
+        "description": "Critically evaluates models and training claims.",
+        "performance_descriptors": {
+          "excellent": "Addresses limits of domain-general claims, transfer effects in training, and measurement challenges.",
+          "good": "Notes several critiques with some analysis.",
+          "average": "Superficial critique.",
+          "needs_improvement": "Minimal critical evaluation.",
+          "poor": "No critique."
+        }
+      },
+      {
+        "criterion_id": "c5",
+        "name": "Clarity and Structure",
+        "description": "Organization and writing quality.",
+        "performance_descriptors": {
+          "excellent": "Highly organized, precise, and fluent.",
+          "good": "Generally clear with minor issues.",
+          "average": "Adequate clarity; some disjointed passages.",
+          "needs_improvement": "Disorganized or unclear.",
+          "poor": "Incoherent."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Describe Baddeley-Hitch model and alternatives with diagrams if allowed.",
+        "Link tasks like complex span and n-back to specific components.",
+        "Discuss individual differences and academic performance correlations.",
+        "Evaluate limits of WM training and near vs. far transfer.",
+        "Offer instructional design implications (e.g., cognitive load)."
+      ],
+      "llm_questions": [
+        "Explain the components of the Baddeley-Hitch model with examples.",
+        "What is the evidence for n-back training transfer effects?",
+        "How does working memory capacity relate to reading comprehension?",
+        "Design a classroom activity that reduces cognitive load.",
+        "Compare complex span and simple span tasks."
+      ]
+    }
+  ]
+}
